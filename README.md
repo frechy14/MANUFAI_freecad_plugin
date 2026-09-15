@@ -20,7 +20,7 @@ We understand that FreeCAD is often just one part of a larger industrial ecosyst
 We have expanded the plugin’s core functionality to ensure seamless connectivity with industry-standard software like **RoboDK**, **C3P**, and other solvers. This allows users to export their defined welding paths and process data directly into professional simulation environments, validating kinematics and physics before the project ever reaches the factory floor.
 
 ---
-[Frequently Asked Questions](DOC/MANUFAI_FreeCAD_FAQ_EN_ES.html)
+[Frequently Asked Questions](https://github.com/frechy14/MANUFAI_freecad_plugin/blob/main/DOC/MANUFAI_FreeCAD_FAQ_EN_ES.html)
 
 ## 🚀 New Feature Highlights
 
