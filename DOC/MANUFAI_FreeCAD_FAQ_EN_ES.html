@@ -1,0 +1,217 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Preguntas frecuentes en español e inglés sobre instalación, soldaduras, simulación y exportación con MANUFAI para FreeCAD.">
+  <title>MANUFAI FreeCAD | Preguntas frecuentes</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --ink: #172633;
+      --muted: #526474;
+      --line: #dce6ec;
+      --paper: #fff;
+      --surface: #f4f8fa;
+      --teal: #0d6b71;
+      --orange: #ec863f;
+      --shadow: 0 16px 45px rgba(14, 42, 57, .07);
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body { margin: 0; color: var(--ink); background: var(--surface); font: 16px/1.65 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    button, input { font: inherit; }
+    a { color: var(--teal); text-underline-offset: 3px; }
+    a:hover { color: #094d52; }
+    :focus-visible { outline: 3px solid var(--orange); outline-offset: 3px; }
+    [hidden] { display: none !important; }
+    .shell { width: min(1100px, calc(100% - 40px)); margin-inline: auto; }
+    .hero { position: relative; overflow: hidden; color: #fff; background: #15323c; }
+    .hero::before { content: ""; position: absolute; width: 550px; aspect-ratio: 1; right: -110px; top: -200px; border-radius: 50%; background: radial-gradient(circle, rgba(37, 157, 155, .28), transparent 67%); pointer-events: none; }
+    .hero::after { content: ""; position: absolute; width: 350px; aspect-ratio: 1; right: 13%; bottom: -260px; border: 1px solid rgba(255,255,255,.16); border-radius: 50%; box-shadow: 0 0 0 58px rgba(255,255,255,.025), 0 0 0 116px rgba(255,255,255,.025); pointer-events: none; }
+    .topbar { position: relative; z-index: 1; display: flex; justify-content: space-between; align-items: center; gap: 20px; padding-block: 24px; }
+    .brand { display: inline-flex; align-items: center; gap: 11px; color: #fff; text-decoration: none; font-weight: 790; letter-spacing: .035em; }
+    .brand-mark { display: grid; place-items: center; width: 34px; height: 34px; border: 2px solid var(--orange); border-radius: 9px; color: var(--orange); font-size: 20px; font-weight: 800; line-height: 1; }
+    .brand-sub { margin-left: 8px; padding-left: 16px; border-left: 1px solid #56727b; color: #c4d6da; font-weight: 500; letter-spacing: 0; }
+    .language { display: inline-flex; padding: 4px; border: 1px solid rgba(255,255,255,.2); border-radius: 999px; background: rgba(255,255,255,.08); }
+    .language button { min-width: 49px; padding: 6px 12px; border: 0; border-radius: 999px; color: #d8e9eb; background: transparent; cursor: pointer; font-size: 13px; font-weight: 750; }
+    .language button[aria-pressed="true"] { color: var(--ink); background: #fff; }
+    .hero-body { position: relative; z-index: 1; padding: 64px 0 80px; }
+    .eyebrow { margin: 0 0 12px; color: #f5ac79; font-size: 12px; font-weight: 800; letter-spacing: .13em; text-transform: uppercase; }
+    h1 { max-width: 790px; margin: 0; font-size: clamp(36px, 5.5vw, 64px); line-height: 1.08; letter-spacing: -.045em; }
+    .intro { max-width: 670px; margin: 22px 0 0; color: #c9dcdf; font-size: 18px; line-height: 1.6; }
+    .hero-links { display: flex; flex-wrap: wrap; gap: 16px; margin-top: 30px; }
+    .hero-links a { display: inline-flex; align-items: center; min-height: 42px; padding: 9px 16px; border-radius: 8px; color: #fff; border: 1px solid rgba(255,255,255,.25); text-decoration: none; font-weight: 620; font-size: 14px; }
+    .hero-links a:first-child { color: #1b2930; border-color: var(--orange); background: var(--orange); }
+    .hero-links a:hover { transform: translateY(-1px); }
+    main { padding-block: 42px 85px; }
+    .toolbar { display: flex; flex-wrap: wrap; align-items: center; gap: 18px; margin-bottom: 27px; }
+    .search { position: relative; flex: 1 1 340px; }
+    .search svg { position: absolute; left: 18px; top: 50%; transform: translateY(-50%); color: var(--muted); }
+    .search input { width: 100%; height: 54px; padding: 0 18px 0 52px; border: 1px solid var(--line); border-radius: 12px; outline: none; color: var(--ink); background: var(--paper); box-shadow: var(--shadow); }
+    .search input:focus { border-color: var(--teal); box-shadow: 0 0 0 3px rgba(13,107,113,.12); }
+    .count { color: var(--muted); font-size: 14px; white-space: nowrap; }
+    .layout { display: grid; grid-template-columns: 235px minmax(0, 1fr); align-items: start; gap: 32px; }
+    .side { position: sticky; top: 25px; padding: 23px; border: 1px solid var(--line); border-radius: 15px; background: var(--paper); }
+    .side p { margin: 0 0 14px; color: var(--muted); font-size: 12px; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; }
+    .side a { display: block; margin: 5px -9px; padding: 8px 9px; border-radius: 8px; color: var(--ink); text-decoration: none; font-size: 14px; font-weight: 570; }
+    .side a:hover { color: var(--teal); background: #eff8f8; }
+    .faq-group { scroll-margin-top: 24px; margin-bottom: 36px; }
+    .group-heading { display: flex; align-items: center; gap: 13px; margin: 0 0 17px; }
+    .number { display: grid; place-items: center; width: 32px; height: 32px; border-radius: 8px; background: #dfefed; color: var(--teal); font-size: 12px; font-weight: 800; }
+    h2 { margin: 0; font-size: 23px; line-height: 1.3; letter-spacing: -.02em; }
+    .faq-group details { margin: 0 0 9px; border: 1px solid var(--line); border-radius: 12px; background: var(--paper); box-shadow: 0 4px 15px rgba(14,42,57,.025); }
+    .faq-group details[open] { border-color: #a8cfce; box-shadow: var(--shadow); }
+    summary { display: flex; align-items: center; justify-content: space-between; gap: 20px; padding: 18px 21px; cursor: pointer; font-weight: 700; line-height: 1.45; list-style: none; }
+    summary::-webkit-details-marker { display: none; }
+    summary::after { content: "+"; display: grid; flex: 0 0 27px; place-items: center; height: 27px; border-radius: 50%; background: #eef5f5; color: var(--teal); font-size: 21px; font-weight: 400; line-height: 1; }
+    details[open] summary::after { content: "−"; }
+    .answer { padding: 0 21px 20px; color: var(--muted); }
+    .answer p { margin: 0; }
+    .answer p + p { margin-top: 9px; }
+    code { padding: 2px 5px; border-radius: 4px; color: #214a55; background: #edf4f6; font-size: .9em; }
+    .empty { padding: 30px; border: 1px dashed #b4c7ce; border-radius: 12px; color: var(--muted); background: var(--paper); }
+    footer { border-top: 1px solid var(--line); background: #fff; }
+    .footer-inner { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px; padding-block: 30px; color: var(--muted); font-size: 13px; }
+    .footer-inner p { max-width: 650px; margin: 0; }
+    .footer-inner a { font-weight: 700; }
+    @media (max-width: 760px) {
+      .layout { grid-template-columns: 1fr; gap: 26px; }
+      .side { position: static; display: flex; flex-wrap: wrap; align-items: center; gap: 2px 10px; padding: 12px; }
+      .side p { width: 100%; margin: 2px 9px 5px; }
+      .side a { margin: 0; }
+      .hero-body { padding-block: 42px 60px; }
+    }
+    @media (max-width: 480px) {
+      .brand-sub { display: none; }
+      .shell { width: min(100% - 28px, 1100px); }
+      summary { padding: 16px; }
+      .answer { padding: 0 16px 17px; }
+      .count { width: 100%; }
+    }
+    @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } .hero-links a:hover { transform: none; } }
+  </style>
+</head>
+<body>
+  <header class="hero">
+    <div class="shell topbar">
+      <a class="brand" href="#top" aria-label="MANUFAI FreeCAD"><span class="brand-mark" aria-hidden="true">M</span><span>MANUFAI<span class="brand-sub">FreeCAD</span></span></a>
+      <div class="language" role="group" aria-label="Language / Idioma">
+        <button id="lang-es" type="button" lang="es" aria-pressed="true">ES</button>
+        <button id="lang-en" type="button" lang="en" aria-pressed="false">EN</button>
+      </div>
+    </div>
+    <div class="shell hero-body" id="top">
+      <p class="eyebrow"><span data-locale="es">Centro de ayuda</span><span data-locale="en" hidden>Help center</span></p>
+      <h1><span data-locale="es">Preguntas frecuentes</span><span data-locale="en" hidden>Frequently asked questions</span></h1>
+      <p class="intro"><span data-locale="es">Respuestas sobre instalación, creación de soldaduras, simulación e intercambio de datos con RoboDK.</span><span data-locale="en" hidden>Answers about installation, weld creation, simulation, and data exchange with RoboDK.</span></p>
+      <div class="hero-links">
+        <a href="https://www.manufai.com/freecad" target="_blank" rel="noopener noreferrer"><span data-locale="es">Descargar MANUFAI ↗</span><span data-locale="en" hidden>Download MANUFAI ↗</span></a>
+        <a href="https://github.com/jr23mx/MANUFAI_freecad_plugin" target="_blank" rel="noopener noreferrer"><span data-locale="es">Ver documentación ↗</span><span data-locale="en" hidden>View documentation ↗</span></a>
+      </div>
+    </div>
+  </header>
+
+  <main class="shell">
+    <div class="toolbar">
+      <label class="search" for="faq-search">
+        <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m16 16 5 5"/></svg>
+        <input id="faq-search" type="search" autocomplete="off" placeholder="Buscar una pregunta..." aria-label="Buscar una pregunta">
+      </label>
+      <span id="result-count" class="count" aria-live="polite"></span>
+    </div>
+    <div class="layout">
+      <nav class="side" aria-label="Categorías / Categories">
+        <p><span data-locale="es">Categorías</span><span data-locale="en" hidden>Categories</span></p>
+        <a href="#general"><span data-locale="es">Información general</span><span data-locale="en" hidden>Overview</span></a>
+        <a href="#setup"><span data-locale="es">Instalación y licencia</span><span data-locale="en" hidden>Installation and license</span></a>
+        <a href="#welding"><span data-locale="es">Crear soldaduras</span><span data-locale="en" hidden>Creating welds</span></a>
+        <a href="#process"><span data-locale="es">Simulación y datos</span><span data-locale="en" hidden>Simulation and data</span></a>
+      </nav>
+      <div id="faq-content">
+        <section class="faq-group" id="general" aria-labelledby="heading-general">
+          <div class="group-heading"><span class="number">01</span><h2 id="heading-general"><span data-locale="es">Información general</span><span data-locale="en" hidden>Overview</span></h2></div>
+          <details><summary><span data-locale="es">¿Qué es MANUFAI para FreeCAD?</span><span data-locale="en" hidden>What is MANUFAI for FreeCAD?</span></summary><div class="answer"><p data-locale="es">Es un banco de trabajo para FreeCAD orientado a trayectorias de soldadura. Permite crear soldaduras a partir de geometría CAD, asignar datos del proceso, revisar secuencias y preparar información para simulación y exportación.</p><p data-locale="en" hidden>It is a FreeCAD workbench for welding paths. It lets you create welds from CAD geometry, assign process data, review sequences, and prepare information for simulation and export.</p></div></details>
+          <details><summary><span data-locale="es">¿Qué herramientas incluye?</span><span data-locale="en" hidden>Which tools does it include?</span></summary><div class="answer"><p data-locale="es">La documentación organiza las herramientas en MANUFAI Workbench, alineación 3-2-1, C3P – WdCurve y automatización con RoboDK. Las opciones visibles dependen de los componentes instalados y activados.</p><p data-locale="en" hidden>The documentation groups the tools into MANUFAI Workbench, 3-2-1 alignment, C3P – WdCurve, and RoboDK process automation. The visible options depend on the installed and enabled components.</p></div></details>
+          <details><summary><span data-locale="es">¿Necesito RoboDK para crear soldaduras en FreeCAD?</span><span data-locale="en" hidden>Do I need RoboDK to create welds in FreeCAD?</span></summary><div class="answer"><p data-locale="es">No. Puedes definir las trayectorias dentro de FreeCAD. RoboDK interviene cuando quieres transferir geometría o datos de soldadura para preparar y revisar programas de robot.</p><p data-locale="en" hidden>No. You can define welding paths in FreeCAD. RoboDK comes into the workflow when you want to transfer geometry or weld data to prepare and review robot programs.</p></div></details>
+        </section>
+
+        <section class="faq-group" id="setup" aria-labelledby="heading-setup">
+          <div class="group-heading"><span class="number">02</span><h2 id="heading-setup"><span data-locale="es">Instalación y licencia</span><span data-locale="en" hidden>Installation and license</span></h2></div>
+          <details><summary><span data-locale="es">¿Cómo instalo MANUFAI?</span><span data-locale="en" hidden>How do I install MANUFAI?</span></summary><div class="answer"><p data-locale="es">Descarga el instalador para Windows desde el sitio de MANUFAI, sigue el asistente y reinicia FreeCAD. Antes de instalar, consulta la versión de FreeCAD requerida en la documentación de la versión que descargaste.</p><p data-locale="en" hidden>Download the Windows installer from the MANUFAI website, follow the setup wizard, and restart FreeCAD. Before installing, check the FreeCAD version required by the documentation for the release you downloaded.</p></div></details>
+          <details><summary><span data-locale="es">¿Cómo activo la licencia?</span><span data-locale="en" hidden>How do I activate the license?</span></summary><div class="answer"><p data-locale="es">Selecciona el banco de trabajo MANUFAI, abre <strong>Activator</strong>, introduce tu clave de serie, agrégala con <code>+</code> y pulsa <strong>Activate</strong>. La clave se obtiene mediante los canales indicados por MANUFAI.</p><p data-locale="en" hidden>Select the MANUFAI workbench, open <strong>Activator</strong>, enter your serial key, add it with <code>+</code>, and select <strong>Activate</strong>. Get the key through the channels specified by MANUFAI.</p></div></details>
+          <details><summary><span data-locale="es">¿Puedo elegir qué barras de herramientas se muestran?</span><span data-locale="en" hidden>Can I choose which toolbars are shown?</span></summary><div class="answer"><p data-locale="es">Sí. Abre <strong>Modifier</strong>, marca los componentes que quieras mostrar y aplica los cambios con <strong>Install</strong>. Reinicia FreeCAD para actualizar las barras. MANUFAI Workbench es el componente obligatorio.</p><p data-locale="en" hidden>Yes. Open <strong>Modifier</strong>, select the components you want to display, and apply the changes with <strong>Install</strong>. Restart FreeCAD to update the toolbars. MANUFAI Workbench is the required component.</p></div></details>
+          <details><summary><span data-locale="es">¿Qué hago si MANUFAI no aparece en FreeCAD?</span><span data-locale="en" hidden>What should I do if MANUFAI does not appear in FreeCAD?</span></summary><div class="answer"><p data-locale="es">Reinicia FreeCAD y revisa el selector de bancos de trabajo. Si sigue sin aparecer, comprueba que la instalación terminó, que el complemento quedó en la carpeta <code>Mod</code> de la instalación de FreeCAD que estás usando y que la versión de FreeCAD coincide con la indicada para tu instalador.</p><p data-locale="en" hidden>Restart FreeCAD and check the workbench selector. If it still does not appear, make sure installation completed, the plugin was placed in the <code>Mod</code> folder of the FreeCAD installation you are using, and your FreeCAD version matches the one specified for your installer.</p></div></details>
+        </section>
+
+        <section class="faq-group" id="welding" aria-labelledby="heading-welding">
+          <div class="group-heading"><span class="number">03</span><h2 id="heading-welding"><span data-locale="es">Crear soldaduras</span><span data-locale="en" hidden>Creating welds</span></h2></div>
+          <details><summary><span data-locale="es">¿Tengo que detectar las uniones soldables automáticamente?</span><span data-locale="en" hidden>Do I have to detect weldable joints automatically?</span></summary><div class="answer"><p data-locale="es">No. <strong>Extract Edges</strong> y <strong>Find Weld Edges</strong> ayudan a identificar candidatos en el modelo, pero también puedes seleccionar aristas directamente para definir las soldaduras.</p><p data-locale="en" hidden>No. <strong>Extract Edges</strong> and <strong>Find Weld Edges</strong> help identify candidates in the model, but you can also select edges directly to define welds.</p></div></details>
+          <details><summary><span data-locale="es">¿Cómo creo una soldadura a partir de una arista?</span><span data-locale="en" hidden>How do I create a weld from an edge?</span></summary><div class="answer"><p data-locale="es">Abre un modelo CAD, selecciona la arista que seguirá la soldadura y usa la herramienta de conversión a trayectoria o <strong>Weld Creator</strong>, según el tipo de soldadura que necesites. Antes de continuar, revisa la trayectoria creada en la vista 3D.</p><p data-locale="en" hidden>Open a CAD model, select the edge the weld should follow, and use the path conversion tool or <strong>Weld Creator</strong>, depending on the weld you need. Check the resulting path in the 3D view before proceeding.</p></div></details>
+          <details><summary><span data-locale="es">¿Se pueden crear soldaduras sobre curvas?</span><span data-locale="en" hidden>Can I create welds along curves?</span></summary><div class="answer"><p data-locale="es">Sí. Las trayectorias pueden seguir aristas rectas o curvas del modelo. Comprueba visualmente el resultado, en especial cuando la geometría contiene varios segmentos o curvas cerradas.</p><p data-locale="en" hidden>Yes. Paths can follow straight or curved model edges. Inspect the result visually, especially when the geometry contains multiple segments or closed curves.</p></div></details>
+          <details><summary><span data-locale="es">¿Puedo limitar la longitud o crear soldaduras intermitentes?</span><span data-locale="en" hidden>Can I limit the length or create intermittent welds?</span></summary><div class="answer"><p data-locale="es">Sí. Weld Creator incluye opciones para definir tramos de longitud específica y patrones intermitentes. En estos últimos se configuran la longitud de los cordones y la separación entre ellos.</p><p data-locale="en" hidden>Yes. Weld Creator provides options for specific-length segments and intermittent patterns. For intermittent welds, you set bead length and spacing between beads.</p></div></details>
+          <details><summary><span data-locale="es">¿Para qué sirven las normales de una soldadura?</span><span data-locale="en" hidden>What are weld normals used for?</span></summary><div class="answer"><p data-locale="es">Las normales aportan información de orientación para la antorcha respecto de la trayectoria y las superficies cercanas. La herramienta de cálculo de normales permite revisar y ajustar esa orientación antes de trabajar con trayectorias de robot.</p><p data-locale="en" hidden>Normals provide torch orientation information relative to the path and nearby surfaces. The normal-calculation tool lets you inspect and adjust that orientation before working with robot paths.</p></div></details>
+          <details><summary><span data-locale="es">¿Por qué una herramienta no acepta el objeto que seleccioné?</span><span data-locale="en" hidden>Why does a tool reject the object I selected?</span></summary><div class="answer"><p data-locale="es">Algunas herramientas requieren una arista del CAD o una soldadura existente, y no el cuerpo completo. Comprueba qué tipo de selección pide el panel y selecciona el elemento directamente en la vista 3D. Si aparece un error, consulta <strong>Report view</strong> para ver el mensaje exacto.</p><p data-locale="en" hidden>Some tools require a CAD edge or an existing weld rather than an entire body. Check the selection type requested by the panel and select that element directly in the 3D view. If an error appears, read the exact message in <strong>Report view</strong>.</p></div></details>
+        </section>
+
+        <section class="faq-group" id="process" aria-labelledby="heading-process">
+          <div class="group-heading"><span class="number">04</span><h2 id="heading-process"><span data-locale="es">Simulación y datos</span><span data-locale="en" hidden>Simulation and data</span></h2></div>
+          <details><summary><span data-locale="es">¿Cómo se define el orden de las soldaduras?</span><span data-locale="en" hidden>How is the welding order defined?</span></summary><div class="answer"><p data-locale="es">Asigna valores de <strong>Sequence</strong> a las soldaduras y revisa el orden en las herramientas de secuencia o en <strong>Line Weld Table</strong>. La tabla también permite editar parámetros del proceso, como corriente, voltaje y velocidad, cuando correspondan.</p><p data-locale="en" hidden>Assign <strong>Sequence</strong> values to welds and review their order with the sequence tools or in <strong>Line Weld Table</strong>. The table can also edit process parameters such as current, voltage, and speed when applicable.</p></div></details>
+          <details><summary><span data-locale="es">¿Qué muestra la simulación de soldadura?</span><span data-locale="en" hidden>What does the welding simulation show?</span></summary><div class="answer"><p data-locale="es">Permite recorrer las trayectorias y revisar visualmente el orden y la dirección de ejecución. Es una revisión virtual del plan de soldadura; los movimientos de robot y el proceso físico deben comprobarse por separado en el entorno correspondiente.</p><p data-locale="en" hidden>It lets you play through the paths and visually inspect execution order and direction. It is a virtual review of the welding plan; robot movements and the physical process must be checked separately in the relevant environment.</p></div></details>
+          <details><summary><span data-locale="es">¿Qué puedo enviar a RoboDK?</span><span data-locale="en" hidden>What can I send to RoboDK?</span></summary><div class="answer"><p data-locale="es">Las herramientas documentadas permiten exportar el conjunto CAD completo o las piezas seleccionadas y transferir datos de trayectorias para generar programas en RoboDK. Revisa la estación, los targets y la ejecución del programa en RoboDK después de la transferencia.</p><p data-locale="en" hidden>The documented tools can export the entire CAD assembly or selected parts and transfer welding path data to generate programs in RoboDK. Check the station, targets, and program execution in RoboDK after transfer.</p></div></details>
+          <details><summary><span data-locale="es">¿Se pueden importar archivos de trayectorias de soldadura?</span><span data-locale="en" hidden>Can I import welding path files?</span></summary><div class="answer"><p data-locale="es">Sí. <strong>Weld Loader Pro</strong> documenta la importación de archivos <code>.WDCurve</code> y <code>.cwsf</code>, con datos como geometría, secuencia y parámetros del proceso presentes en el archivo. Revisa las soldaduras importadas en el documento antes de utilizarlas.</p><p data-locale="en" hidden>Yes. <strong>Weld Loader Pro</strong> documents import of <code>.WDCurve</code> and <code>.cwsf</code> files, including geometry, sequence, and process parameters available in the file. Check imported welds in the document before using them.</p></div></details>
+          <details><summary><span data-locale="es">¿Qué datos pueden aparecer en los reportes?</span><span data-locale="en" hidden>Which data can appear in reports?</span></summary><div class="answer"><p data-locale="es">La documentación menciona longitud total de soldadura, estimaciones de consumo de material y tiempos de operación. Revisa los parámetros del proyecto y los resultados antes de emplear esas estimaciones para tomar decisiones.</p><p data-locale="en" hidden>The documentation mentions total weld length, estimated material consumption, and operation times. Check project parameters and results before using those estimates to make decisions.</p></div></details>
+        </section>
+        <p id="no-results" class="empty" hidden><span data-locale="es">No encontré preguntas con ese término. Prueba con “soldadura”, “licencia” o “RoboDK”.</span><span data-locale="en" hidden>No questions match that term. Try “weld”, “license”, or “RoboDK”.</span></p>
+      </div>
+    </div>
+  </main>
+
+  <footer><div class="shell footer-inner"><p><span data-locale="es">Contenido basado en la documentación de MANUFAI. Los nombres de los controles y las funciones disponibles pueden variar según la versión instalada.</span><span data-locale="en" hidden>Content based on MANUFAI documentation. Control names and available features may vary with the installed version.</span></p><a href="https://github.com/jr23mx/MANUFAI_freecad_plugin" target="_blank" rel="noopener noreferrer"><span data-locale="es">Documentación del proyecto ↗</span><span data-locale="en" hidden>Project documentation ↗</span></a></div></footer>
+
+  <script>
+    (() => {
+      const search = document.getElementById('faq-search');
+      const count = document.getElementById('result-count');
+      const empty = document.getElementById('no-results');
+      const items = [...document.querySelectorAll('.faq-group details')];
+      const groups = [...document.querySelectorAll('.faq-group')];
+      const buttons = { es: document.getElementById('lang-es'), en: document.getElementById('lang-en') };
+      let language = 'es';
+
+      function filter() {
+        const query = search.value.trim().toLocaleLowerCase(language);
+        let visible = 0;
+        for (const item of items) {
+          const content = [...item.querySelectorAll(`[data-locale="${language}"]`)].map(node => node.textContent).join(' ').toLocaleLowerCase(language);
+          item.hidden = Boolean(query && !content.includes(query));
+          if (!item.hidden) visible++;
+        }
+        for (const group of groups) group.hidden = ![...group.querySelectorAll('details')].some(item => !item.hidden);
+        empty.hidden = visible !== 0;
+        count.textContent = language === 'es' ? `${visible} de ${items.length} preguntas` : `${visible} of ${items.length} questions`;
+      }
+
+      function setLanguage(next) {
+        language = next;
+        document.documentElement.lang = next;
+        document.title = next === 'es' ? 'MANUFAI FreeCAD | Preguntas frecuentes' : 'MANUFAI FreeCAD | Frequently asked questions';
+        document.querySelector('meta[name="description"]').content = next === 'es'
+          ? 'Preguntas frecuentes en español e inglés sobre instalación, soldaduras, simulación y exportación con MANUFAI para FreeCAD.'
+          : 'Bilingual FAQs about installation, welds, simulation, and export with MANUFAI for FreeCAD.';
+        for (const node of document.querySelectorAll('[data-locale]')) node.hidden = node.dataset.locale !== next;
+        buttons.es.setAttribute('aria-pressed', String(next === 'es'));
+        buttons.en.setAttribute('aria-pressed', String(next === 'en'));
+        search.placeholder = next === 'es' ? 'Buscar una pregunta...' : 'Search a question...';
+        search.setAttribute('aria-label', search.placeholder);
+        filter();
+      }
+
+      buttons.es.addEventListener('click', () => setLanguage('es'));
+      buttons.en.addEventListener('click', () => setLanguage('en'));
+      search.addEventListener('input', filter);
+      setLanguage('es');
+    })();
+  </script>
+</body>
+</html>
