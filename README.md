@@ -28,11 +28,7 @@
 
 <img src="./docs/readme-svg/activation.svg" width="100%" alt="Activation">
 
-<p align="center">
-  <a href="https://youtu.be/MNOla3Mc2aI">
-    <img src="./docs/readme-svg/activation-tutorial.svg" width="280" alt="Activation tutorial">
-  </a>
-</p>
+<a href="https://youtu.be/MNOla3Mc2aI"><img src="./docs/readme-svg/activation-tutorial.svg" width="280" alt="Activation tutorial"></a>
 
 <a id="plugin-component-manager" name="plugin-component-manager"></a>
 
@@ -51,79 +47,75 @@
 <a href="#make-weld-trajectories"><img src="./docs/readme-svg/index-make-weld-trajectories.svg" width="100%" alt="Make Weld Trajectories"></a>
 
 <p align="left">
-<a href="#edge-split"><img src="./docs/readme-svg/nav-edge-split.svg" width="32%" alt="Edge Split"></a> <a href="#find-weldable-edges"><img src="./docs/readme-svg/nav-find-weldable-edges.svg" width="32%" alt="Find Weldable Edges"></a> <a href="#weld-creators"><img src="./docs/readme-svg/nav-weld-creators.svg" width="32%" alt="Weld Creators"></a>
+<a href="#edge-split"><img src="./docs/readme-svg/nav-edge-split.svg" width="24%" alt="Edge Split"></a> <a href="#find-weldable-edges"><img src="./docs/readme-svg/nav-find-weldable-edges.svg" width="24%" alt="Find Weldable Edges"></a> <a href="#weld-creators"><img src="./docs/readme-svg/nav-weld-creators.svg" width="24%" alt="Weld Creators"></a> <a href="#add-normals"><img src="./docs/readme-svg/nav-add-normals.svg" width="24%" alt="Add Normals"></a>
 <br>
-<a href="#add-normals"><img src="./docs/readme-svg/nav-add-normals.svg" width="32%" alt="Add Normals"></a> <a href="#surface-weld"><img src="./docs/readme-svg/nav-surface-weld.svg" width="32%" alt="Surface Weld"></a> <a href="#weld-loader"><img src="./docs/readme-svg/nav-weld-loader.svg" width="32%" alt="Weld Loader"></a>
+<a href="#surface-weld"><img src="./docs/readme-svg/nav-surface-weld.svg" width="24%" alt="Surface Weld"></a> <a href="#weld-loader"><img src="./docs/readme-svg/nav-weld-loader.svg" width="24%" alt="Weld Loader"></a>
 </p>
 
 <a href="#positions"><img src="./docs/readme-svg/index-positions.svg" width="100%" alt="Positions"></a>
 
 <p align="left">
-<a href="#make-positions"><img src="./docs/readme-svg/nav-make-positions.svg" width="32%" alt="Make Positions Groups"></a> <a href="#assign-welds-to-robots"><img src="./docs/readme-svg/nav-assign-welds-to-robots.svg" width="32%" alt="Assign Welds To Robots"></a> <a href="#subassembly"><img src="./docs/readme-svg/nav-subassembly.svg" width="32%" alt="SubAssembly"></a>
+<a href="#make-positions"><img src="./docs/readme-svg/nav-make-positions.svg" width="24%" alt="Make Positions Groups"></a> <a href="#assign-welds-to-robots"><img src="./docs/readme-svg/nav-assign-welds-to-robots.svg" width="24%" alt="Assign Welds To Robots"></a> <a href="#subassembly"><img src="./docs/readme-svg/nav-subassembly.svg" width="24%" alt="SubAssembly"></a> <a href="#assign-positions"><img src="./docs/readme-svg/nav-assign-positions.svg" width="24%" alt="Assign Positions"></a>
 <br>
-<a href="#assign-positions"><img src="./docs/readme-svg/nav-assign-positions.svg" width="32%" alt="Assign Positions"></a> <a href="#move-subassembly"><img src="./docs/readme-svg/nav-move-subassembly.svg" width="32%" alt="Move SubAssembly"></a> <a href="#move-welds"><img src="./docs/readme-svg/nav-move-welds.svg" width="32%" alt="Move Welds"></a>
+<a href="#move-subassembly"><img src="./docs/readme-svg/nav-move-subassembly.svg" width="24%" alt="Move SubAssembly"></a> <a href="#move-welds"><img src="./docs/readme-svg/nav-move-welds.svg" width="24%" alt="Move Welds"></a>
 </p>
 
 <a href="#length"><img src="./docs/readme-svg/index-length.svg" width="100%" alt="Length"></a>
 
 <p align="left">
-<a href="#weld-length-report"><img src="./docs/readme-svg/nav-weld-length-report.svg" width="32%" alt="Weld Length Report"></a>
+<a href="#weld-length-report"><img src="./docs/readme-svg/nav-weld-length-report.svg" width="24%" alt="Weld Length Report"></a>
 </p>
 
 <a href="#cycle-time-tools"><img src="./docs/readme-svg/index-cycle-time-tools.svg" width="100%" alt="Cycle Time"></a>
 
 <p align="left">
-<a href="#process"><img src="./docs/readme-svg/nav-process.svg" width="32%" alt="Process"></a> <a href="#assign-process"><img src="./docs/readme-svg/nav-assign-process.svg" width="32%" alt="Assign Process"></a> <a href="#welding-parameters"><img src="./docs/readme-svg/nav-welding-parameters.svg" width="32%" alt="Welding Parameters"></a>
+<a href="#process"><img src="./docs/readme-svg/nav-process.svg" width="24%" alt="Process"></a> <a href="#assign-process"><img src="./docs/readme-svg/nav-assign-process.svg" width="24%" alt="Assign Process"></a> <a href="#welding-parameters"><img src="./docs/readme-svg/nav-welding-parameters.svg" width="24%" alt="Welding Parameters"></a> <a href="#assign-welding-parameters"><img src="./docs/readme-svg/nav-assign-welding-parameters.svg" width="24%" alt="Assign Welding Parameters"></a>
 <br>
-<a href="#assign-welding-parameters"><img src="./docs/readme-svg/nav-assign-welding-parameters.svg" width="32%" alt="Assign Welding Parameters"></a> <a href="#cycle-time"><img src="./docs/readme-svg/nav-cycle-time.svg" width="32%" alt="Cycle Time"></a>
+<a href="#cycle-time"><img src="./docs/readme-svg/nav-cycle-time.svg" width="24%" alt="Cycle Time"></a>
 </p>
 
 <a href="#weight"><img src="./docs/readme-svg/index-weight.svg" width="100%" alt="Weight"></a>
 
 <p align="left">
-<a href="#create-materials"><img src="./docs/readme-svg/nav-create-materials.svg" width="32%" alt="Create Materials"></a> <a href="#assign-materials"><img src="./docs/readme-svg/nav-assign-materials.svg" width="32%" alt="Assign Materials"></a> <a href="#weight-of-welding-and-welded-part"><img src="./docs/readme-svg/nav-weight-of-welding-and-welded-part.svg" width="32%" alt="Weight of Welding and Welded Part"></a>
+<a href="#create-materials"><img src="./docs/readme-svg/nav-create-materials.svg" width="24%" alt="Create Materials"></a> <a href="#assign-materials"><img src="./docs/readme-svg/nav-assign-materials.svg" width="24%" alt="Assign Materials"></a> <a href="#weight-of-welding-and-welded-part"><img src="./docs/readme-svg/nav-weight-of-welding-and-welded-part.svg" width="24%" alt="Weight of Welding and Welded Part"></a>
 </p>
 
 <a href="#wso"><img src="./docs/readme-svg/index-wso.svg" width="100%" alt="Welding Sequence AI Advisor"></a>
 
 <p align="left">
-<a href="#export-stl"><img src="./docs/readme-svg/nav-export-stl.svg" width="32%" alt="Export STL"></a> <a href="#export-as-dk-project"><img src="./docs/readme-svg/nav-export-as-dk-project.svg" width="32%" alt="Export As DK Project"></a>
+<a href="#export-stl"><img src="./docs/readme-svg/nav-export-stl.svg" width="24%" alt="Export STL"></a> <a href="#export-as-dk-project"><img src="./docs/readme-svg/nav-export-as-dk-project.svg" width="24%" alt="Export As DK Project"></a>
 </p>
 
 <a href="#simulation"><img src="./docs/readme-svg/index-simulation.svg" width="100%" alt="Sequence and Process Visualization"></a>
 
 <p align="left">
-<a href="#assign-sequence"><img src="./docs/readme-svg/nav-assign-sequence.svg" width="32%" alt="Assign Sequence"></a> <a href="#weld-simulation"><img src="./docs/readme-svg/nav-weld-simulation.svg" width="32%" alt="Weld Simulation"></a> <a href="#weld-visualizer"><img src="./docs/readme-svg/nav-weld-visualizer.svg" width="32%" alt="Show Weld Sphere"></a>
-<br>
-<a href="#visualizer-cmd"><img src="./docs/readme-svg/nav-visualizer-cmd.svg" width="32%" alt="Visualizer"></a>
+<a href="#assign-sequence"><img src="./docs/readme-svg/nav-assign-sequence.svg" width="24%" alt="Assign Sequence"></a> <a href="#weld-simulation"><img src="./docs/readme-svg/nav-weld-simulation.svg" width="24%" alt="Weld Simulation"></a> <a href="#weld-visualizer"><img src="./docs/readme-svg/nav-weld-visualizer.svg" width="24%" alt="Show Weld Sphere"></a> <a href="#visualizer-cmd"><img src="./docs/readme-svg/nav-visualizer-cmd.svg" width="24%" alt="Visualizer"></a>
 </p>
 
 <a href="#datum-alignment-tools"><img src="./docs/readme-svg/index-datum-alignment-tools.svg" width="100%" alt="3-2-1 Datum Based Alignment &amp; Tools"></a>
 
 <p align="left">
-<a href="#toggle-visibility-recursive"><img src="./docs/readme-svg/nav-toggle-visibility-recursive.svg" width="32%" alt="Toggle Visibility Recursive"></a> <a href="#create-center-point"><img src="./docs/readme-svg/nav-create-center-point.svg" width="32%" alt="Create Center Point"></a> <a href="#create-sphere-at-origin"><img src="./docs/readme-svg/nav-create-sphere-at-origin.svg" width="32%" alt="Create Sphere at Origin"></a>
+<a href="#toggle-visibility-recursive"><img src="./docs/readme-svg/nav-toggle-visibility-recursive.svg" width="24%" alt="Toggle Visibility Recursive"></a> <a href="#create-center-point"><img src="./docs/readme-svg/nav-create-center-point.svg" width="24%" alt="Create Center Point"></a> <a href="#create-sphere-at-origin"><img src="./docs/readme-svg/nav-create-sphere-at-origin.svg" width="24%" alt="Create Sphere at Origin"></a> <a href="#datum-a"><img src="./docs/readme-svg/nav-datum-a.svg" width="24%" alt="Datum A"></a>
 <br>
-<a href="#datum-a"><img src="./docs/readme-svg/nav-datum-a.svg" width="32%" alt="Datum A"></a> <a href="#datum-b"><img src="./docs/readme-svg/nav-datum-b.svg" width="32%" alt="Datum B"></a> <a href="#datum-c"><img src="./docs/readme-svg/nav-datum-c.svg" width="32%" alt="Datum C"></a>
+<a href="#datum-b"><img src="./docs/readme-svg/nav-datum-b.svg" width="24%" alt="Datum B"></a> <a href="#datum-c"><img src="./docs/readme-svg/nav-datum-c.svg" width="24%" alt="Datum C"></a> <a href="#3-2-1-alignment"><img src="./docs/readme-svg/nav-3-2-1-alignment.svg" width="24%" alt="3-2-1 Datum-Based Alignment"></a> <a href="#move-model-to-origin"><img src="./docs/readme-svg/nav-move-model-to-origin.svg" width="24%" alt="Move Model To Origin"></a>
 <br>
-<a href="#3-2-1-alignment"><img src="./docs/readme-svg/nav-3-2-1-alignment.svg" width="32%" alt="3-2-1 Datum-Based Alignment"></a> <a href="#move-model-to-origin"><img src="./docs/readme-svg/nav-move-model-to-origin.svg" width="32%" alt="Move Model To Origin"></a> <a href="#reset-pos"><img src="./docs/readme-svg/nav-reset-pos.svg" width="32%" alt="Reset Position"></a>
+<a href="#reset-pos"><img src="./docs/readme-svg/nav-reset-pos.svg" width="24%" alt="Reset Position"></a> <a href="#show-welding-widget-command"><img src="./docs/readme-svg/nav-show-welding-widget-command.svg" width="24%" alt="Show Welding Widget"></a> <a href="#launch-find-data-panel"><img src="./docs/readme-svg/nav-launch-find-data-panel.svg" width="24%" alt="Launch Find Data Panel"></a> <a href="#focus-object-command"><img src="./docs/readme-svg/nav-focus-object-command.svg" width="24%" alt="Focus Object"></a>
 <br>
-<a href="#show-welding-widget-command"><img src="./docs/readme-svg/nav-show-welding-widget-command.svg" width="32%" alt="Show Welding Widget"></a> <a href="#launch-find-data-panel"><img src="./docs/readme-svg/nav-launch-find-data-panel.svg" width="32%" alt="Launch Find Data Panel"></a> <a href="#focus-object-command"><img src="./docs/readme-svg/nav-focus-object-command.svg" width="32%" alt="Focus Object"></a>
-<br>
-<a href="#move-weld-lines"><img src="./docs/readme-svg/nav-move-weld-lines.svg" width="32%" alt="Move Weld Lines"></a> <a href="#discretize"><img src="./docs/readme-svg/nav-discretize.svg" width="32%" alt="Discretize"></a>
+<a href="#move-weld-lines"><img src="./docs/readme-svg/nav-move-weld-lines.svg" width="24%" alt="Move Weld Lines"></a> <a href="#discretize"><img src="./docs/readme-svg/nav-discretize.svg" width="24%" alt="Discretize"></a>
 </p>
 
 <a href="#c3p-wdcurve-tools"><img src="./docs/readme-svg/index-c3p-wdcurve-tools.svg" width="100%" alt="C3P – WdCurve Tools"></a>
 
 <p align="left">
-<a href="#line-weld-table"><img src="./docs/readme-svg/nav-line-weld-table.svg" width="32%" alt="Line Weld Table"></a> <a href="#show-names"><img src="./docs/readme-svg/nav-show-names.svg" width="32%" alt="Show Names"></a> <a href="#selection-mode"><img src="./docs/readme-svg/nav-selection-mode.svg" width="32%" alt="Selection Mode (X-Ray &amp; Filter)"></a>
+<a href="#line-weld-table"><img src="./docs/readme-svg/nav-line-weld-table.svg" width="24%" alt="Line Weld Table"></a> <a href="#show-names"><img src="./docs/readme-svg/nav-show-names.svg" width="24%" alt="Show Names"></a> <a href="#selection-mode"><img src="./docs/readme-svg/nav-selection-mode.svg" width="24%" alt="Selection Mode (X-Ray &amp; Filter)"></a>
 </p>
 
 <a href="#robodk-process-automation"><img src="./docs/readme-svg/index-robodk-process-automation.svg" width="100%" alt="RoboDK &amp; Process Automation"></a>
 
 <p align="left">
-<a href="#weld-data-to-robodk"><img src="./docs/readme-svg/nav-weld-data-to-robodk.svg" width="32%" alt="Export To .rdk Project"></a> <a href="#export-full"><img src="./docs/readme-svg/nav-export-full.svg" width="32%" alt="Export Full"></a> <a href="#export-selected"><img src="./docs/readme-svg/nav-export-selected.svg" width="32%" alt="Export Selected"></a>
+<a href="#weld-data-to-robodk"><img src="./docs/readme-svg/nav-weld-data-to-robodk.svg" width="24%" alt="Export To .rdk Project"></a> <a href="#export-full"><img src="./docs/readme-svg/nav-export-full.svg" width="24%" alt="Export Full"></a> <a href="#export-selected"><img src="./docs/readme-svg/nav-export-selected.svg" width="24%" alt="Export Selected"></a> <a href="#glue-manager"><img src="./docs/readme-svg/nav-glue-manager.svg" width="24%" alt="Glue Manager"></a>
 <br>
-<a href="#glue-manager"><img src="./docs/readme-svg/nav-glue-manager.svg" width="32%" alt="Glue Manager"></a> <a href="#drilling-manager"><img src="./docs/readme-svg/nav-drilling-manager.svg" width="32%" alt="Drilling Manager"></a>
+<a href="#drilling-manager"><img src="./docs/readme-svg/nav-drilling-manager.svg" width="24%" alt="Drilling Manager"></a>
 </p>
 
 <a id="manufai-workbench" name="manufai-workbench"></a>
