@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1120" height="393" viewBox="0 0 1120 393" role="img" aria-labelledby="title description">
+<title id="title">Show Weld Sphere</title><desc id="description">Show Weld Sphere Lightweight 3D visual verification and playback sequence control. Designed for rapid visual verification of welds without the computational overhead of generating complex geometric solids. It utilizes direct scene graph rendering to project a customizable &quot;cloud&quot; of spheres along the trajectory, providing an immediate visual representation of weld coverage while maintaining a lightweight model size and fluid viewport navigation. It includes an integrated sequence table and playback controls to inspect your production flow row by row.</desc>
+<defs><linearGradient id="panel-bg" x2="1" y2="1"><stop stop-color="#0A0E17"/><stop offset="1" stop-color="#142133"/></linearGradient></defs>
+<rect x=".7" y=".7" width="1118.6" height="391.6" rx="18" fill="url(#panel-bg)" stroke="#365171" stroke-opacity=".8"/>
+<path d="M20 1H1100Q1119 1 1119 20V120H1V20Q1 1 20 1" fill="#182A44" fill-opacity=".38"/>
+<text x="149.00" y="57.00" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#E8F0FE">Show</text>
+<text x="234.09" y="57.00" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#E8F0FE">Weld</text>
+<text x="310.69" y="57.00" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#E8F0FE">Sphere</text>
+<text x="149.00" y="90.00" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#8FAFD3">Lightweight</text>
+<text x="255.55" y="90.00" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#8FAFD3">3D</text>
+<text x="286.67" y="90.00" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#8FAFD3">visual</text>
+<text x="343.36" y="90.00" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#8FAFD3">verification</text>
+<text x="443.95" y="90.00" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#8FAFD3">and</text>
+<text x="482.89" y="90.00" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#8FAFD3">playback</text>
+<text x="566.97" y="90.00" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#8FAFD3">sequence</text>
+<text x="659.41" y="90.00" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#8FAFD3">control.</text>
+<rect x="1021" y="30" width="57" height="38" rx="9" fill="#1E88E5" fill-opacity=".14" stroke="#64B5F6" stroke-opacity=".2"/>
+<text x="1036" y="56" fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" >26</text>
+<rect x="39" y="30" width="78" height="78" rx="15" fill="#1E88E5" fill-opacity=".13" stroke="#64B5F6" stroke-opacity=".22"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="0 0 800 800" x="52" y="43" preserveAspectRatio="xMidYMid meet">
+ <defs>
+  <filter height="200%" width="200%" y="-50%" x="-50%" id="icon-svg_5_blur">
+   <feGaussianBlur stdDeviation="10" in="SourceGraphic"/>
+  </filter>
+  <filter height="200%" width="200%" y="-50%" x="-50%" id="icon-svg_10_blur">
+   <feGaussianBlur stdDeviation="10" in="SourceGraphic"/>
+  </filter>
+  <filter height="200%" width="200%" y="-50%" x="-50%" id="icon-svg_14_blur">
+   <feGaussianBlur stdDeviation="10" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <ellipse opacity="0.75" stroke="#000" ry="180" rx="180" id="icon-svg_1" cy="607.5" cx="191.99999" fill="#ff0000"/>
+  <ellipse opacity="0.75" stroke="#000" ry="180" rx="180" id="icon-svg_2" cy="384.5" cx="393.99999" fill="#ff0000"/>
+  <ellipse opacity="0.75" stroke="#000" ry="180" rx="180" id="icon-svg_3" cy="187.5" cx="610.99999" fill="#ff0000"/>
+  <rect transform="rotate(-45 401.328 398.328)" stroke="#000" id="icon-svg_4" height="35.24138" width="1093.39906" y="380.70689" x="-145.37195" fill="#ff2216"/>
+  <ellipse opacity="0.75" stroke="#000" filter="url(#icon-svg_5_blur)" stroke-width="0" ry="70" rx="65" id="icon-svg_5" cy="578" cx="95.5" fill="#ff7c75"/>
+  <ellipse opacity="0.75" filter="url(#icon-svg_5_blur)" stroke-width="0" ry="70" rx="63.5" id="icon-svg_6" cy="356" cx="303.5" stroke="#000" fill="#ff7c75"/>
+  <path id="icon-svg_9" d="m353,638" opacity="NaN" stroke-width="0" stroke="#000" fill="#ff7c75"/>
+  <path filter="url(#icon-svg_10_blur)" id="icon-svg_10" d="m301,745c0,0 17,-67 17,-67c0,0 7,-36 7,-36c0,0 -2,-28 -2,-30c0,-2 -3,-28 -3,-28c0,0 1,-28 1,-28c0,0 42,10 42,10c0,0 6,24 6,26c0,2 0,19 0,19c0,0 -4,32 -4,32c0,0 2,10 0,12c-2,2 -9,22 -11,25c-2,3 -10,18 -12,21c-2,3 -14,20 -15,21c-1,1 -7,6 -7,6" opacity="0.75" stroke-width="0" stroke="#000" fill="#602926"/>
+  <path transform="rotate(5.49612 516.309 454.482)" stroke="#000" filter="url(#icon-svg_10_blur)" id="icon-svg_11" d="m472.10732,562.08608c0,0 22.10101,-76.29098 22.10101,-76.29098c0,0 9.10041,-40.99217 9.10041,-40.99217c0,0 -2.60012,-31.8828 -2.60012,-34.16014c0,-2.27734 -3.90018,-31.8828 -3.90018,-31.8828c0,0 1.30006,-31.8828 1.30006,-31.8828c0,0 54.60249,11.38671 54.60249,11.38671c0,0 7.80036,27.32811 7.80036,29.60545c0,2.27734 0,21.63475 0,21.63475c0,0 -5.20024,36.43748 -5.20024,36.43748c0,0 2.60012,11.38671 0,13.66406c-2.60012,2.27734 -11.70053,25.05077 -14.30065,28.46678c-2.60012,3.41601 -13.00059,20.49608 -15.60071,23.9121c-2.60012,3.41601 -18.20083,22.77343 -19.50089,23.9121c-1.30006,1.13867 -9.10041,6.83203 -9.10041,6.83203" opacity="0.75" stroke-width="0" fill="#602926"/>
+  <ellipse filter="url(#icon-svg_5_blur)" stroke-width="0" ry="70" rx="63.5" id="icon-svg_12" cy="139" cx="529.5" stroke="#000" fill="#ff7c75"/>
+  <path stroke="#000" filter="url(#icon-svg_14_blur)" id="icon-svg_14" d="m676.92857,327c0,0 34.43878,-52 34.43878,-52c0,0 8.26531,-68 8.26531,-68c0,0 5.5102,-75 5.5102,-75c0,0 1.37755,-31 1.37755,-31c0,0 -6.88776,-25 -6.88776,-25c0,0 44.08163,45 44.08163,45c0,0 11.02041,29 11.02041,29c0,0 8.26531,36 8.26531,36c0,0 -1.37755,29 -1.37755,29c0,0 -1.37755,23 -1.37755,23c0,0 -17.90816,33 -17.90816,35c0,2 -31.68367,39 -31.68367,40c0,1 -28.92857,12 -28.92857,12c0,0 -53.72449,24 -53.72449,24" opacity="0.75" stroke-width="0" fill="#602926"/>
+ </g>
+</svg>
+<path d="M1 120H1119" stroke="#7CA3D2" stroke-opacity=".16"/>
+<text x="45.00" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">Designed</text>
+<text x="143.89" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">for</text>
+<text x="175.45" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">rapid</text>
+<text x="230.39" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">visual</text>
+<text x="292.75" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">verification</text>
+<text x="403.41" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">of</text>
+<text x="427.86" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">welds</text>
+<text x="489.84" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">without</text>
+<text x="565.53" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">the</text>
+<text x="602.09" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">computational</text>
+<text x="744.97" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">overhead</text>
+<text x="841.83" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">of</text>
+<text x="866.28" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">generating</text>
+<text x="975.81" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">complex</text>
+<text x="45.00" y="197.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">geometric</text>
+<text x="147.30" y="197.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">solids.</text>
+<text x="45.00" y="241.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">It</text>
+<text x="63.33" y="241.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">utilizes</text>
+<text x="135.75" y="241.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">direct</text>
+<text x="195.61" y="241.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">scene</text>
+<text x="260.55" y="241.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">graph</text>
+<text x="322.67" y="241.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">rendering</text>
+<text x="421.53" y="241.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">to</text>
+<text x="445.72" y="241.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">project</text>
+<text x="517.78" y="241.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">a</text>
+<text x="536.12" y="241.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">customizable</text>
+<text x="669.92" y="241.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">&quot;cloud&quot;</text>
+<text x="744.27" y="241.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">of</text>
+<text x="768.72" y="241.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">spheres</text>
+<text x="852.78" y="241.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">along</text>
+<text x="912.72" y="241.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">the</text>
+<text x="949.28" y="241.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">trajectory,</text>
+<text x="45.00" y="275.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">providing</text>
+<text x="139.88" y="275.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">an</text>
+<text x="170.45" y="275.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">immediate</text>
+<text x="277.50" y="275.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">visual</text>
+<text x="339.86" y="275.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">representation</text>
+<text x="485.69" y="275.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">of</text>
+<text x="510.14" y="275.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">weld</text>
+<text x="561.12" y="275.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">coverage</text>
+<text x="656.72" y="275.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">while</text>
+<text x="712.97" y="275.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">maintaining</text>
+<text x="831.55" y="275.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">a</text>
+<text x="849.89" y="275.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">lightweight</text>
+<text x="959.88" y="275.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">model</text>
+<text x="1025.81" y="275.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">size</text>
+<text x="45.00" y="309.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">and</text>
+<text x="87.81" y="309.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">fluid</text>
+<text x="134.28" y="309.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">viewport</text>
+<text x="222.83" y="309.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">navigation.</text>
+<text x="334.31" y="309.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">It</text>
+<text x="352.64" y="309.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">includes</text>
+<text x="439.39" y="309.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">an</text>
+<text x="469.97" y="309.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">integrated</text>
+<text x="572.83" y="309.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">sequence</text>
+<text x="674.47" y="309.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">table</text>
+<text x="728.23" y="309.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">and</text>
+<text x="771.05" y="309.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">playback</text>
+<text x="863.52" y="309.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">controls</text>
+<text x="946.59" y="309.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">to</text>
+<text x="970.78" y="309.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">inspect</text>
+<text x="45.00" y="343.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">your</text>
+<text x="93.42" y="343.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">production</text>
+<text x="202.20" y="343.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">flow</text>
+<text x="247.17" y="343.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">row</text>
+<text x="288.34" y="343.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">by</text>
+<text x="317.31" y="343.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">row.</text>
+</svg>

@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1120" height="500" viewBox="0 0 1120 500" role="img" aria-labelledby="title description">
+<title id="title">Surface Weld</title><desc id="description">Surface Weld Volumetric modeling and physical joint representation Designed for visual validation and mechanical documentation. Unlike trajectory modules that generate invisible paths for robots, this tool generates the actual solid geometry representing Fillet, Butt, and Complex Curve welds. This is essential for collision detection, mass calculation, and rendering. Edge Weld (Auto-Detect): Automatically detects the geometric type of the edge (Straight, Arc, BSpline, etc.) and generates a solid weld bead between two intersecting faces. It uses an advanced parallel transport algorithm to prevent the 3D shape from twisting along complex curves. Butt Weld (Angular): Generates an extruded arc shape to accurately represent V-groove and butt welding joints between two planar faces. WeldLine Constructor: A built-in freehand polyline tool to manually draw 3D weld.</desc>
+<defs><linearGradient id="panel-bg" x2="1" y2="1"><stop stop-color="#0A0E17"/><stop offset="1" stop-color="#142133"/></linearGradient></defs>
+<rect x=".7" y=".7" width="1118.6" height="498.6" rx="18" fill="url(#panel-bg)" stroke="#365171" stroke-opacity=".8"/>
+<path d="M20 1H1100Q1119 1 1119 20V120H1V20Q1 1 20 1" fill="#182A44" fill-opacity=".38"/>
+<text x="149.00" y="57.00" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#E8F0FE">Surface</text>
+<text x="264.25" y="57.00" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#E8F0FE">Weld</text>
+<text x="149.00" y="90.00" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#8FAFD3">Volumetric</text>
+<text x="247.77" y="90.00" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#8FAFD3">modeling</text>
+<text x="334.41" y="90.00" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#8FAFD3">and</text>
+<text x="373.34" y="90.00" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#8FAFD3">physical</text>
+<text x="450.62" y="90.00" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#8FAFD3">joint</text>
+<text x="492.88" y="90.00" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#8FAFD3">representation</text>
+<rect x="1021" y="30" width="57" height="38" rx="9" fill="#1E88E5" fill-opacity=".14" stroke="#64B5F6" stroke-opacity=".2"/>
+<text x="1036" y="56" fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" >05</text>
+<rect x="39" y="30" width="78" height="78" rx="15" fill="#1E88E5" fill-opacity=".13" stroke="#64B5F6" stroke-opacity=".22"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="0 0 800 800" x="52" y="43" preserveAspectRatio="xMidYMid meet">
+ <defs>
+  <radialGradient r="0.57243" gradientTransform="rotate(5.999999999999998,0.07421875,0) translate(0,0) scale(1,0.95)" cy="0" cx="0.07422" spreadMethod="pad" id="icon-svg_13">
+   <stop offset="0" stop-opacity="0.99609" stop-color="#ffffff"/>
+   <stop offset="1" stop-opacity="0.99609" stop-color="#007fff"/>
+  </radialGradient>
+  <radialGradient r="0.87965" cy="1" cx="0" spreadMethod="pad" id="icon-svg_15">
+   <stop offset="0" stop-opacity="0.99219" stop-color="#073666"/>
+   <stop offset="1" stop-opacity="0.99609" stop-color="#007fff"/>
+  </radialGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <path id="icon-svg_8" d="m-305.46,509.54814l0.5,-2.00001l0.5,2.00001l-1.00001,0z" stroke-width="10" stroke="#000" fill="#000000"/>
+  <rect stroke-width="5" stroke="#000" id="icon-svg_10" height="681.99996" width="210" y="55" x="65" fill="url(#icon-svg_13)"/>
+  <rect transform="rotate(90 512.5 632)" stroke-width="5" stroke="#000" id="icon-svg_11" height="470.99997" width="210" y="396.50003" x="407.5001" fill="url(#icon-svg_15)"/>
+  <rect transform="rotate(45 477.774 324.27)" stroke-width="5" stroke="#000" id="icon-svg_12" height="38.00103" width="526.77517" y="305.26903" x="214.38613" fill="#ff7f00"/>
+ </g>
+</svg>
+<path d="M1 120H1119" stroke="#7CA3D2" stroke-opacity=".16"/>
+<text x="45.00" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">Designed</text>
+<text x="143.89" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">for</text>
+<text x="175.45" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">visual</text>
+<text x="237.81" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">validation</text>
+<text x="336.06" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">and</text>
+<text x="378.88" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">mechanical</text>
+<text x="496.42" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">documentation.</text>
+<text x="652.58" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">Unlike</text>
+<text x="719.23" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">trajectory</text>
+<text x="815.91" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">modules</text>
+<text x="905.08" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">that</text>
+<text x="947.52" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">generate</text>
+<text x="45.00" y="197.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">invisible</text>
+<text x="129.09" y="197.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">paths</text>
+<text x="188.66" y="197.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">for</text>
+<text x="220.22" y="197.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">robots,</text>
+<text x="293.03" y="197.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">this</text>
+<text x="333.25" y="197.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">tool</text>
+<text x="374.56" y="197.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">generates</text>
+<text x="477.67" y="197.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">the</text>
+<text x="514.23" y="197.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#E8F0FE">actual</text>
+<text x="583.89" y="197.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#E8F0FE">solid</text>
+<text x="641.33" y="197.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#E8F0FE">geometry</text>
+<text x="746.91" y="197.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">representing</text>
+<text x="874.67" y="197.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">Fillet,</text>
+<text x="932.56" y="197.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">Butt,</text>
+<text x="984.02" y="197.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">and</text>
+<text x="45.00" y="231.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">Complex</text>
+<text x="137.25" y="231.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">Curve</text>
+<text x="202.22" y="231.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">welds.</text>
+<text x="270.09" y="231.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">This</text>
+<text x="317.66" y="231.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">is</text>
+<text x="339.66" y="231.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">essential</text>
+<text x="432.44" y="231.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">for</text>
+<text x="464.00" y="231.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">collision</text>
+<text x="548.55" y="231.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">detection,</text>
+<text x="649.59" y="231.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">mass</text>
+<text x="708.31" y="231.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">calculation,</text>
+<text x="824.31" y="231.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">and</text>
+<text x="867.12" y="231.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">rendering.</text>
+<text x="50" y="275" fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" >•</text>
+<text x="77.00" y="275.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#E8F0FE">Edge</text>
+<text x="136.69" y="275.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#E8F0FE">Weld</text>
+<text x="194.77" y="275.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#E8F0FE">(Auto-Detect):</text>
+<text x="346.75" y="275.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">Automatically</text>
+<text x="482.89" y="275.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">detects</text>
+<text x="559.58" y="275.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">the</text>
+<text x="596.14" y="275.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">geometric</text>
+<text x="698.44" y="275.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">type</text>
+<text x="746.48" y="275.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">of</text>
+<text x="770.94" y="275.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">the</text>
+<text x="807.50" y="275.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">edge</text>
+<text x="862.53" y="275.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">(Straight,</text>
+<text x="957.06" y="275.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">Arc,</text>
+<text x="77.00" y="309.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">BSpline,</text>
+<text x="164.34" y="309.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">etc.)</text>
+<text x="212.69" y="309.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">and</text>
+<text x="255.50" y="309.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">generates</text>
+<text x="358.61" y="309.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">a</text>
+<text x="376.95" y="309.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">solid</text>
+<text x="428.31" y="309.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">weld</text>
+<text x="479.30" y="309.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">bead</text>
+<text x="534.19" y="309.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">between</text>
+<text x="623.53" y="309.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">two</text>
+<text x="664.19" y="309.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">intersecting</text>
+<text x="782.66" y="309.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">faces.</text>
+<text x="847.09" y="309.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">It</text>
+<text x="865.42" y="309.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">uses</text>
+<text x="917.91" y="309.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">an</text>
+<text x="948.48" y="309.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">advanced</text>
+<text x="77.00" y="343.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">parallel</text>
+<text x="153.86" y="343.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">transport</text>
+<text x="247.17" y="343.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">algorithm</text>
+<text x="343.64" y="343.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">to</text>
+<text x="367.83" y="343.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">prevent</text>
+<text x="446.33" y="343.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">the</text>
+<text x="482.89" y="343.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">3D</text>
+<text x="517.12" y="343.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">shape</text>
+<text x="583.17" y="343.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">from</text>
+<text x="633.16" y="343.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">twisting</text>
+<text x="713.00" y="343.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">along</text>
+<text x="772.94" y="343.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">complex</text>
+<text x="860.52" y="343.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">curves.</text>
+<text x="50" y="382" fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" >•</text>
+<text x="77.00" y="382.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#E8F0FE">Butt</text>
+<text x="127.41" y="382.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#E8F0FE">Weld</text>
+<text x="185.48" y="382.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#E8F0FE">(Angular):</text>
+<text x="296.33" y="382.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">Generates</text>
+<text x="404.42" y="382.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">an</text>
+<text x="435.00" y="382.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">extruded</text>
+<text x="526.02" y="382.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">arc</text>
+<text x="562.59" y="382.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">shape</text>
+<text x="628.64" y="382.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">to</text>
+<text x="652.83" y="382.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">accurately</text>
+<text x="758.61" y="382.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">represent</text>
+<text x="857.12" y="382.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">V-groove</text>
+<text x="950.97" y="382.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">and</text>
+<text x="993.78" y="382.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">butt</text>
+<text x="77.00" y="416.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">welding</text>
+<text x="157.34" y="416.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">joints</text>
+<text x="214.81" y="416.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">between</text>
+<text x="304.16" y="416.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">two</text>
+<text x="344.81" y="416.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">planar</text>
+<text x="412.08" y="416.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">faces.</text>
+<text x="50" y="455" fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" >•</text>
+<text x="77.00" y="455.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#E8F0FE">WeldLine</text>
+<text x="180.06" y="455.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#E8F0FE">Constructor:</text>
+<text x="318.98" y="455.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">A</text>
+<text x="339.77" y="455.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">built-in</text>
+<text x="410.33" y="455.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">freehand</text>
+<text x="502.95" y="455.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">polyline</text>
+<text x="583.47" y="455.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">tool</text>
+<text x="624.78" y="455.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">to</text>
+<text x="648.97" y="455.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">manually</text>
+<text x="743.02" y="455.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">draw</text>
+<text x="796.44" y="455.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">3D</text>
+<text x="830.67" y="455.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">weld.</text>
+</svg>
