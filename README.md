@@ -169,18 +169,12 @@
 
 <a id="weld-creators" name="weld-creators"></a>
 
-<table>
-  <tr>
-    <td width="180" align="center" valign="top">
-<img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/Weld_tree_item.svg" width="90" alt="Weld Creators Icon">
-    </td>
-    <td valign="top">
-<h3>Weld Creators</h3>
-<strong>Trajectory Generation</strong>
-<p align="justify">This core module transforms extracted edges into processable welding trajectories. Beyond just creating paths, it calculates the <strong>Normal Vectors</strong> (torch orientation angles) required for accurate process simulation in both FreeCAD and RoboDK.</p>
-<p><strong>Weld creation modes:</strong></p>
-<h4>Make Weld</h4>
-<p align="justify">Manual mode. You directly select the specific edges where the weld beads should be placed.</p>
+<img src="./docs/readme-svg/tool-weld-creators.svg" width="100%" alt="Weld Creators — Trajectory Generation">
+
+<a id="weld-creators-make-weld" name="weld-creators-make-weld"></a>
+
+<img src="./docs/readme-svg/weld-creators-make-weld.svg" width="100%" alt="Weld Creators — Make Weld">
+
 <p align="center">
 <a href="https://youtu.be/QdZxZB9vzDA">
           <img src="https://img.youtube.com/vi/QdZxZB9vzDA/maxresdefault.jpg" width="450" alt="Weld Projector Demo">
@@ -188,8 +182,11 @@
 <br>
 <a href="https://youtu.be/QdZxZB9vzDA"><strong>FreeCAD - Welding plugin - Define Welds Demo</strong></a>
 </p>
-<h4>Make Weld with All Edges</h4>
-<p align="justify">Automated mode. Instantly generates welds on all the viable edges detected in the previous filtering step.</p>
+
+<a id="weld-creators-make-weld-with-all-edges" name="weld-creators-make-weld-with-all-edges"></a>
+
+<img src="./docs/readme-svg/weld-creators-make-weld-with-all-edges.svg" width="100%" alt="Weld Creators — Make Weld with All Edges">
+
 <p align="center">
 <a href="https://youtu.be/QdZxZB9vzDA">
           <img src="https://img.youtube.com/vi/QdZxZB9vzDA/maxresdefault.jpg" width="450" alt="Weld Projector Demo">
@@ -197,8 +194,11 @@
 <br>
 <a href="https://youtu.be/QdZxZB9vzDA"><strong>FreeCAD - Welding plugin - Define Welds Demo</strong></a>
 </p>
-<h4>Make Weld with Specific Length</h4>
-<p align="justify">Trims the weld bead by defining offset distances from the start or end (useful for avoiding corners).</p>
+
+<a id="weld-creators-make-weld-with-specific-length" name="weld-creators-make-weld-with-specific-length"></a>
+
+<img src="./docs/readme-svg/weld-creators-make-weld-with-specific-length.svg" width="100%" alt="Weld Creators — Make Weld with Specific Length">
+
 <p align="center">
 <a href="https://youtu.be/QdZxZB9vzDA">
           <img src="https://img.youtube.com/vi/QdZxZB9vzDA/maxresdefault.jpg" width="450" alt="Weld Projector Demo">
@@ -206,8 +206,11 @@
 <br>
 <a href="https://youtu.be/QdZxZB9vzDA"><strong>FreeCAD - Welding plugin - Define Welds Demo</strong></a>
 </p>
-<h4>Make Weld with Chosen Points</h4>
-<p align="justify">High precision mode. Graphically define the exact Start and End points of the trajectory.</p>
+
+<a id="weld-creators-make-weld-with-chosen-points" name="weld-creators-make-weld-with-chosen-points"></a>
+
+<img src="./docs/readme-svg/weld-creators-make-weld-with-chosen-points.svg" width="100%" alt="Weld Creators — Make Weld with Chosen Points">
+
 <p align="center">
 <a href="https://youtu.be/QdZxZB9vzDA">
           <img src="https://img.youtube.com/vi/QdZxZB9vzDA/maxresdefault.jpg" width="450" alt="Weld Projector Demo">
@@ -215,8 +218,11 @@
 <br>
 <a href="https://youtu.be/QdZxZB9vzDA"><strong>FreeCAD - Welding plugin - Define Welds Demo</strong></a>
 </p>
-<h4>Make Weld with Multiple Specific Lengths</h4>
-<p align="justify">Segmented mode. Allows you to create stitch or intermittent welds along a single edge.</p>
+
+<a id="weld-creators-make-weld-with-multiple-specific-lengths" name="weld-creators-make-weld-with-multiple-specific-lengths"></a>
+
+<img src="./docs/readme-svg/weld-creators-make-weld-with-multiple-specific-lengths.svg" width="100%" alt="Weld Creators — Make Weld with Multiple Specific Lengths">
+
 <p align="center">
 <a href="https://youtu.be/QdZxZB9vzDA">
           <img src="https://img.youtube.com/vi/QdZxZB9vzDA/maxresdefault.jpg" width="450" alt="Weld Projector Demo">
@@ -224,8 +230,11 @@
 <br>
 <a href="https://youtu.be/QdZxZB9vzDA"><strong>FreeCAD - Welding plugin - Define Welds Demo</strong></a>
 </p>
-<h4>By Bead Quantity</h4>
-<p align="justify">Specify the exact number of weld segments you need, and the system automatically calculates the required gap and length to fit the edge perfectly.</p>
+
+<a id="weld-creators-by-bead-quantity" name="weld-creators-by-bead-quantity"></a>
+
+<img src="./docs/readme-svg/weld-creators-by-bead-quantity.svg" width="100%" alt="Weld Creators — By Bead Quantity">
+
 <p align="center">
 <a href="https://youtu.be/QdZxZB9vzDA">
           <img src="https://img.youtube.com/vi/QdZxZB9vzDA/maxresdefault.jpg" width="450" alt="Weld Projector Demo">
@@ -233,8 +242,11 @@
 <br>
 <a href="https://youtu.be/QdZxZB9vzDA"><strong>FreeCAD - Welding plugin - Define Welds Demo</strong></a>
 </p>
-<h4>By Bead Length</h4>
-<p align="justify">Define the exact length of each weld bead, and let the algorithm determine how many segments fit and the correct pitch between them.</p>
+
+<a id="weld-creators-by-bead-length" name="weld-creators-by-bead-length"></a>
+
+<img src="./docs/readme-svg/weld-creators-by-bead-length.svg" width="100%" alt="Weld Creators — By Bead Length">
+
 <p align="center">
 <a href="https://youtu.be/QdZxZB9vzDA">
           <img src="https://img.youtube.com/vi/QdZxZB9vzDA/maxresdefault.jpg" width="450" alt="Weld Projector Demo">
@@ -242,8 +254,11 @@
 <br>
 <a href="https://youtu.be/QdZxZB9vzDA"><strong>FreeCAD - Welding plugin - Define Welds Demo</strong></a>
 </p>
-<h4>By Bead Pitch</h4>
-<p align="justify">Set the specific center-to-center distance between each weld bead to strictly comply with engineering blueprints.</p>
+
+<a id="weld-creators-by-bead-pitch" name="weld-creators-by-bead-pitch"></a>
+
+<img src="./docs/readme-svg/weld-creators-by-bead-pitch.svg" width="100%" alt="Weld Creators — By Bead Pitch">
+
 <p align="center">
 <a href="https://youtu.be/QdZxZB9vzDA">
           <img src="https://img.youtube.com/vi/QdZxZB9vzDA/maxresdefault.jpg" width="450" alt="Weld Projector Demo">
@@ -251,8 +266,11 @@
 <br>
 <a href="https://youtu.be/QdZxZB9vzDA"><strong>FreeCAD - Welding plugin - Define Welds Demo</strong></a>
 </p>
-<h4>Smart Vector Control</h4>
-<p align="justify">Automatically calculates bisector angles between faces and allows manual overrides (angle offsets) or individual normal corrections to avoid robot torch collisions.</p>
+
+<a id="weld-creators-smart-vector-control" name="weld-creators-smart-vector-control"></a>
+
+<img src="./docs/readme-svg/weld-creators-smart-vector-control.svg" width="100%" alt="Weld Creators — Smart Vector Control">
+
 <p align="center">
 <a href="https://youtu.be/QdZxZB9vzDA">
           <img src="https://img.youtube.com/vi/QdZxZB9vzDA/maxresdefault.jpg" width="450" alt="Weld Projector Demo">
@@ -260,9 +278,6 @@
 <br>
 <a href="https://youtu.be/QdZxZB9vzDA"><strong>FreeCAD - Welding plugin - Define Welds Demo</strong></a>
 </p>
-    </td>
-  </tr>
-</table>
 
 <p align="center">
 <a href="./MANUFAI_Workbench/Weld_Trajectory_Generation"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Weld Creators"></a>
