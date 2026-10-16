@@ -28,7 +28,11 @@
 
 <img src="./docs/readme-svg/activation.svg" width="100%" alt="Activation">
 
-<a href="https://youtu.be/MNOla3Mc2aI"><img src="./docs/readme-svg/activation-tutorial.svg" width="280" alt="Activation tutorial"></a>
+<p align="center">
+  <a href="https://youtu.be/MNOla3Mc2aI">
+    <img src="./docs/readme-svg/activation-tutorial.svg" width="280" alt="Activation tutorial">
+  </a>
+</p>
 
 <a id="plugin-component-manager" name="plugin-component-manager"></a>
 
