@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1120" height="213" viewBox="0 0 1120 213" role="img" aria-labelledby="title description">
+<title id="title">Make Weld with Chosen Points</title><desc id="description">Make Weld with Chosen Points Weld Creators High precision mode. Graphically define the exact Start and End points of the trajectory.</desc>
+<defs><linearGradient id="panel-bg" x2="1" y2="1"><stop stop-color="#0A0E17"/><stop offset="1" stop-color="#142133"/></linearGradient></defs>
+<rect x=".7" y=".7" width="1118.6" height="211.6" rx="18" fill="url(#panel-bg)" stroke="#365171" stroke-opacity=".8"/>
+<path d="M20 1H1100Q1119 1 1119 20V120H1V20Q1 1 20 1" fill="#182A44" fill-opacity=".38"/>
+<text x="43.00" y="57.00" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#E8F0FE">Make</text>
+<text x="123.12" y="57.00" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#E8F0FE">Weld</text>
+<text x="199.72" y="57.00" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#E8F0FE">with</text>
+<text x="265.69" y="57.00" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#E8F0FE">Chosen</text>
+<text x="380.09" y="57.00" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#E8F0FE">Points</text>
+<text x="43.00" y="90.00" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#8FAFD3">Weld</text>
+<text x="93.47" y="90.00" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#8FAFD3">Creators</text>
+<rect x="1021" y="30" width="57" height="38" rx="9" fill="#1E88E5" fill-opacity=".14" stroke="#64B5F6" stroke-opacity=".2"/>
+<text x="1036" y="56" fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" >04</text>
+<path d="M1 120H1119" stroke="#7CA3D2" stroke-opacity=".16"/>
+<text x="45.00" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">High</text>
+<text x="96.19" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">precision</text>
+<text x="190.12" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">mode.</text>
+<text x="256.88" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">Graphically</text>
+<text x="372.98" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">define</text>
+<text x="439.03" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">the</text>
+<text x="475.59" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">exact</text>
+<text x="533.42" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">Start</text>
+<text x="586.44" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">and</text>
+<text x="629.25" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">End</text>
+<text x="674.50" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">points</text>
+<text x="739.31" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">of</text>
+<text x="763.77" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">the</text>
+<text x="800.33" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">trajectory.</text>
+</svg>

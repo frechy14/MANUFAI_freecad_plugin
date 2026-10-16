@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1120" height="213" viewBox="0 0 1120 213" role="img" aria-labelledby="title description">
+<title id="title">Make Weld</title><desc id="description">Make Weld Weld Creators Manual mode. You directly select the specific edges where the weld beads should be placed.</desc>
+<defs><linearGradient id="panel-bg" x2="1" y2="1"><stop stop-color="#0A0E17"/><stop offset="1" stop-color="#142133"/></linearGradient></defs>
+<rect x=".7" y=".7" width="1118.6" height="211.6" rx="18" fill="url(#panel-bg)" stroke="#365171" stroke-opacity=".8"/>
+<path d="M20 1H1100Q1119 1 1119 20V120H1V20Q1 1 20 1" fill="#182A44" fill-opacity=".38"/>
+<text x="43.00" y="57.00" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#E8F0FE">Make</text>
+<text x="123.12" y="57.00" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#E8F0FE">Weld</text>
+<text x="43.00" y="90.00" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#8FAFD3">Weld</text>
+<text x="93.47" y="90.00" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#8FAFD3">Creators</text>
+<rect x="1021" y="30" width="57" height="38" rx="9" fill="#1E88E5" fill-opacity=".14" stroke="#64B5F6" stroke-opacity=".2"/>
+<text x="1036" y="56" fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" >01</text>
+<path d="M1 120H1119" stroke="#7CA3D2" stroke-opacity=".16"/>
+<text x="45.00" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">Manual</text>
+<text x="123.27" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">mode.</text>
+<text x="190.02" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">You</text>
+<text x="233.39" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">directly</text>
+<text x="309.03" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">select</text>
+<text x="372.69" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">the</text>
+<text x="409.25" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">specific</text>
+<text x="488.72" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">edges</text>
+<text x="554.66" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">where</text>
+<text x="620.47" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">the</text>
+<text x="657.03" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">weld</text>
+<text x="708.02" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">beads</text>
+<text x="773.91" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">should</text>
+<text x="844.84" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">be</text>
+<text x="875.42" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">placed.</text>
+</svg>

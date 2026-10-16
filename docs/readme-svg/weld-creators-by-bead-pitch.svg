@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1120" height="247" viewBox="0 0 1120 247" role="img" aria-labelledby="title description">
+<title id="title">By Bead Pitch</title><desc id="description">By Bead Pitch Weld Creators Set the specific center-to-center distance between each weld bead to strictly comply with engineering blueprints.</desc>
+<defs><linearGradient id="panel-bg" x2="1" y2="1"><stop stop-color="#0A0E17"/><stop offset="1" stop-color="#142133"/></linearGradient></defs>
+<rect x=".7" y=".7" width="1118.6" height="245.6" rx="18" fill="url(#panel-bg)" stroke="#365171" stroke-opacity=".8"/>
+<path d="M20 1H1100Q1119 1 1119 20V120H1V20Q1 1 20 1" fill="#182A44" fill-opacity=".38"/>
+<text x="43.00" y="57.00" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#E8F0FE">By</text>
+<text x="87.95" y="57.00" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#E8F0FE">Bead</text>
+<text x="167.06" y="57.00" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#E8F0FE">Pitch</text>
+<text x="43.00" y="90.00" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#8FAFD3">Weld</text>
+<text x="93.47" y="90.00" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#8FAFD3">Creators</text>
+<rect x="1021" y="30" width="57" height="38" rx="9" fill="#1E88E5" fill-opacity=".14" stroke="#64B5F6" stroke-opacity=".2"/>
+<text x="1036" y="56" fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" >08</text>
+<path d="M1 120H1119" stroke="#7CA3D2" stroke-opacity=".16"/>
+<text x="45.00" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">Set</text>
+<text x="83.86" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">the</text>
+<text x="120.42" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">specific</text>
+<text x="199.89" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">center-to-center</text>
+<text x="359.47" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">distance</text>
+<text x="447.53" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">between</text>
+<text x="536.88" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">each</text>
+<text x="590.53" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">weld</text>
+<text x="641.52" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">bead</text>
+<text x="696.41" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">to</text>
+<text x="720.59" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">strictly</text>
+<text x="788.94" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">comply</text>
+<text x="864.81" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">with</text>
+<text x="909.92" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">engineering</text>
+<text x="45.00" y="197.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">blueprints.</text>
+</svg>

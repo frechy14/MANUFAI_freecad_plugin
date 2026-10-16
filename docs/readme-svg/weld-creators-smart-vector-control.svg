@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1120" height="247" viewBox="0 0 1120 247" role="img" aria-labelledby="title description">
+<title id="title">Smart Vector Control</title><desc id="description">Smart Vector Control Weld Creators Automatically calculates bisector angles between faces and allows manual overrides (angle offsets) or individual normal corrections to avoid robot torch collisions.</desc>
+<defs><linearGradient id="panel-bg" x2="1" y2="1"><stop stop-color="#0A0E17"/><stop offset="1" stop-color="#142133"/></linearGradient></defs>
+<rect x=".7" y=".7" width="1118.6" height="245.6" rx="18" fill="url(#panel-bg)" stroke="#365171" stroke-opacity=".8"/>
+<path d="M20 1H1100Q1119 1 1119 20V120H1V20Q1 1 20 1" fill="#182A44" fill-opacity=".38"/>
+<text x="43.00" y="57.00" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#E8F0FE">Smart</text>
+<text x="133.86" y="57.00" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#E8F0FE">Vector</text>
+<text x="230.66" y="57.00" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#E8F0FE">Control</text>
+<text x="43.00" y="90.00" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#8FAFD3">Weld</text>
+<text x="93.47" y="90.00" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#8FAFD3">Creators</text>
+<path d="M1 120H1119" stroke="#7CA3D2" stroke-opacity=".16"/>
+<text x="45.00" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">Automatically</text>
+<text x="181.14" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">calculates</text>
+<text x="284.61" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">bisector</text>
+<text x="367.66" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">angles</text>
+<text x="438.38" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">between</text>
+<text x="527.72" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">faces</text>
+<text x="586.27" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">and</text>
+<text x="629.08" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">allows</text>
+<text x="695.95" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">manual</text>
+<text x="774.22" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">overrides</text>
+<text x="869.91" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">(angle</text>
+<text x="937.05" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">offsets)</text>
+<text x="1015.09" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">or</text>
+<text x="45.00" y="197.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">individual</text>
+<text x="142.83" y="197.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">normal</text>
+<text x="216.19" y="197.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">corrections</text>
+<text x="329.91" y="197.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">to</text>
+<text x="354.09" y="197.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">avoid</text>
+<text x="411.98" y="197.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">robot</text>
+<text x="467.91" y="197.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">torch</text>
+<text x="522.56" y="197.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">collisions.</text>
+</svg>
