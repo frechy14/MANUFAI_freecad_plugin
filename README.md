@@ -4,6 +4,9 @@
 
 <img src="./docs/readme-svg/manufai-hero.svg" width="100%" alt="MANUFAI FreeCAD Plugin — Welding engineering &amp; simulation">
 
+
+<img src="./docs/readme-svg/requirements.svg" width="100%" alt="FreeCAD 1.1.1 required; Windows installer; RoboDK, C3P and WSO workflows">
+
 <a id="overview" name="overview"></a>
 
 <img src="./docs/readme-svg/overview.svg" width="100%" alt="Welding engineering &amp; simulation">
@@ -20,9 +23,9 @@
 
 <img src="./docs/readme-svg/installation.svg" width="100%" alt="Download &amp; installation">
 
-<a href="https://www.manufai.com/freecad"><img src="./docs/readme-svg/open-download.svg" width="280" alt="Download plugin"></a>
-
-<a href="https://youtu.be/3LZCjwZW4YY"><img src="./docs/readme-svg/installation-tutorial.svg" width="280" alt="Installation tutorial"></a>
+<p align="left">
+<a href="https://www.manufai.com/freecad"><img src="./docs/readme-svg/open-download.svg" width="280" alt="Download plugin"></a> <a href="https://youtu.be/3LZCjwZW4YY"><img src="./docs/readme-svg/installation-tutorial.svg" width="280" alt="Installation tutorial"></a>
+</p>
 
 <a id="activation" name="activation"></a>
 
