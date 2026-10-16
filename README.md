@@ -139,79 +139,73 @@
 
 <img src="./docs/readme-svg/tool-edge-split.svg" width="100%" alt="Edge Split — Geometric Extraction &amp; Intersection">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./MANUFAI_Workbench/Edge_Splitting"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Edge Split"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=BuyjTM-gB38"><img src="./docs/readme-svg/video-BuyjTM-gB38-6025.svg" height="64" alt="Watch demo: Welding FreeCAD add-on - Automatic weldable edges recognition Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=BuyjTM-gB38"><img width="100%" src="./docs/readme-svg/video-BuyjTM-gB38-6025.svg" alt="Watch demo: Welding FreeCAD add-on - Automatic weldable edges recognition Demo"></a>
+</p>
+
+<p align="center">
+<a href="./MANUFAI_Workbench/Edge_Splitting"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Edge Split"></a>
+</p>
 
 <a id="find-weldable-edges" name="find-weldable-edges"></a>
 
 <img src="./docs/readme-svg/tool-find-weldable-edges.svg" width="100%" alt="Find Weldable Edges — Weldable Union Recognition &amp; Filtering">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./MANUFAI_Workbench/Find_Weld_Edges"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Find Weldable Edges"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=BuyjTM-gB38"><img src="./docs/readme-svg/video-BuyjTM-gB38-6025.svg" height="64" alt="Watch demo: Welding FreeCAD add-on - Automatic weldable edges recognition Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=BuyjTM-gB38"><img width="100%" src="./docs/readme-svg/video-BuyjTM-gB38-6025.svg" alt="Watch demo: Welding FreeCAD add-on - Automatic weldable edges recognition Demo"></a>
+</p>
+
+<p align="center">
+<a href="./MANUFAI_Workbench/Find_Weld_Edges"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Find Weldable Edges"></a>
+</p>
 
 <a id="weld-creators" name="weld-creators"></a>
 
 <img src="./docs/readme-svg/tool-weld-creators.svg" width="100%" alt="Weld Creators — Trajectory Generation">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./MANUFAI_Workbench/Weld_Trajectory_Generation"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Weld Creators"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://youtu.be/QdZxZB9vzDA"><img src="./docs/readme-svg/video-QdZxZB9vzDA-3756.svg" height="64" alt="Watch demo: FreeCAD - Welding plugin - Define Welds Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://youtu.be/QdZxZB9vzDA"><img width="100%" src="./docs/readme-svg/video-QdZxZB9vzDA-3756.svg" alt="Watch demo: FreeCAD - Welding plugin - Define Welds Demo"></a>
+</p>
+
+<p align="center">
+<a href="./MANUFAI_Workbench/Weld_Trajectory_Generation"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Weld Creators"></a>
+</p>
 
 <a id="add-normals" name="add-normals"></a>
 
 <img src="./docs/readme-svg/tool-add-normals.svg" width="100%" alt="Add Normals — Create and define orientation normals along the welding path">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./MANUFAI_Workbench/Weld_Trajectory_Generation"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Add Normals"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://youtu.be/QdZxZB9vzDA"><img src="./docs/readme-svg/video-QdZxZB9vzDA-3756.svg" height="64" alt="Watch demo: FreeCAD - Welding plugin - Define Welds Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://youtu.be/QdZxZB9vzDA"><img width="100%" src="./docs/readme-svg/video-QdZxZB9vzDA-3756.svg" alt="Watch demo: FreeCAD - Welding plugin - Define Welds Demo"></a>
+</p>
+
+<p align="center">
+<a href="./MANUFAI_Workbench/Weld_Trajectory_Generation"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Add Normals"></a>
+</p>
 
 <a id="surface-weld" name="surface-weld"></a>
 
 <img src="./docs/readme-svg/tool-surface-weld.svg" width="100%" alt="Surface Weld — Volumetric modeling and physical joint representation">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./MANUFAI_Workbench/Surface_Weld_Generator"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Surface Weld"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=5uwMWgmB7Lk"><img src="./docs/readme-svg/video-5uwMWgmB7Lk-3879.svg" height="64" alt="Watch demo: Surface Weld Generator - FreeCAD Plugin Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=5uwMWgmB7Lk"><img width="100%" src="./docs/readme-svg/video-5uwMWgmB7Lk-3879.svg" alt="Watch demo: Surface Weld Generator - FreeCAD Plugin Demo"></a>
+</p>
+
+<p align="center">
+<a href="./MANUFAI_Workbench/Surface_Weld_Generator"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Surface Weld"></a>
+</p>
 
 <a id="weld-loader" name="weld-loader"></a>
 
 <img src="./docs/readme-svg/tool-weld-loader.svg" width="100%" alt="Weld Loader — Advanced Welding Data Importer &amp; Interoperability">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./C3P_WdCurve_Tools/Weld_Loader_Pro"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Weld Loader"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=5uwMWgmB7Lk"><img src="./docs/readme-svg/video-5uwMWgmB7Lk-3879.svg" height="64" alt="Watch demo: Surface Weld Generator - FreeCAD Plugin Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=5uwMWgmB7Lk"><img width="100%" src="./docs/readme-svg/video-5uwMWgmB7Lk-3879.svg" alt="Watch demo: Surface Weld Generator - FreeCAD Plugin Demo"></a>
+</p>
+
+<p align="center">
+<a href="./C3P_WdCurve_Tools/Weld_Loader_Pro"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Weld Loader"></a>
+</p>
 
 <a id="positions" name="positions"></a>
 
@@ -221,79 +215,73 @@
 
 <img src="./docs/readme-svg/tool-make-positions.svg" width="100%" alt="Make Positions Groups — Create and organize workstation position groups.">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./C3P_WdCurve_Tools/Weld_Loader_Pro"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Make Positions Groups"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=5uwMWgmB7Lk"><img src="./docs/readme-svg/video-5uwMWgmB7Lk-3879.svg" height="64" alt="Watch demo: Surface Weld Generator - FreeCAD Plugin Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=5uwMWgmB7Lk"><img width="100%" src="./docs/readme-svg/video-5uwMWgmB7Lk-3879.svg" alt="Watch demo: Surface Weld Generator - FreeCAD Plugin Demo"></a>
+</p>
+
+<p align="center">
+<a href="./C3P_WdCurve_Tools/Weld_Loader_Pro"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Make Positions Groups"></a>
+</p>
 
 <a id="assign-welds-to-robots" name="assign-welds-to-robots"></a>
 
 <img src="./docs/readme-svg/tool-assign-welds-to-robots.svg" width="100%" alt="Assign Welds To Robots — Define workstations and assign welds to specific robots">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./MANUFAI_Workbench/Robot_Assignment"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Assign Welds To Robots"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=TU_ENLACE"><img src="./docs/readme-svg/video-TU_ENLACE-4791.svg" height="64" alt="Watch demo: Robotic Cell &amp; Assignment Manager - FreeCAD Plugin Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=TU_ENLACE"><img width="100%" src="./docs/readme-svg/video-TU_ENLACE-4791.svg" alt="Watch demo: Robotic Cell &amp; Assignment Manager - FreeCAD Plugin Demo"></a>
+</p>
+
+<p align="center">
+<a href="./MANUFAI_Workbench/Robot_Assignment"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Assign Welds To Robots"></a>
+</p>
 
 <a id="subassembly" name="subassembly"></a>
 
 <img src="./docs/readme-svg/tool-subassembly.svg" width="100%" alt="SubAssembly — Create and organize manufacturing SubAssemblies.">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./C3P_WdCurve_Tools/Weld_Loader_Pro"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for SubAssembly"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=5uwMWgmB7Lk"><img src="./docs/readme-svg/video-5uwMWgmB7Lk-3879.svg" height="64" alt="Watch demo: Surface Weld Generator - FreeCAD Plugin Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=5uwMWgmB7Lk"><img width="100%" src="./docs/readme-svg/video-5uwMWgmB7Lk-3879.svg" alt="Watch demo: Surface Weld Generator - FreeCAD Plugin Demo"></a>
+</p>
+
+<p align="center">
+<a href="./C3P_WdCurve_Tools/Weld_Loader_Pro"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for SubAssembly"></a>
+</p>
 
 <a id="assign-positions" name="assign-positions"></a>
 
 <img src="./docs/readme-svg/tool-assign-positions.svg" width="100%" alt="Assign Positions — Assign manufacturing positions to SubAssemblies">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./MANUFAI_Workbench/SubAssembly_Manager"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Assign Positions"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=TU_ENLACE"><img src="./docs/readme-svg/video-TU_ENLACE-4587.svg" height="64" alt="Watch demo: SubAssembly &amp; Position Manager - FreeCAD Plugin Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=TU_ENLACE"><img width="100%" src="./docs/readme-svg/video-TU_ENLACE-4587.svg" alt="Watch demo: SubAssembly &amp; Position Manager - FreeCAD Plugin Demo"></a>
+</p>
+
+<p align="center">
+<a href="./MANUFAI_Workbench/SubAssembly_Manager"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Assign Positions"></a>
+</p>
 
 <a id="move-subassembly" name="move-subassembly"></a>
 
 <img src="./docs/readme-svg/tool-move-subassembly.svg" width="100%" alt="Move SubAssembly — Move CAD parts between SubAssemblies using drag and drop.">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./MANUFAI_Workbench/Hierarchy_Organizers"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Move SubAssembly"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=TU_ENLACE"><img src="./docs/readme-svg/video-TU_ENLACE-4341.svg" height="64" alt="Watch demo: Smart Hierarchy Organizers - FreeCAD Plugin Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=TU_ENLACE"><img width="100%" src="./docs/readme-svg/video-TU_ENLACE-4341.svg" alt="Watch demo: Smart Hierarchy Organizers - FreeCAD Plugin Demo"></a>
+</p>
+
+<p align="center">
+<a href="./MANUFAI_Workbench/Hierarchy_Organizers"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Move SubAssembly"></a>
+</p>
 
 <a id="move-welds" name="move-welds"></a>
 
 <img src="./docs/readme-svg/tool-move-welds.svg" width="100%" alt="Move Welds — Reassign weld trajectories between robots using drag and drop.">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./C3P_WdCurve_Tools/Weld_Loader_Pro"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Move Welds"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=5uwMWgmB7Lk"><img src="./docs/readme-svg/video-5uwMWgmB7Lk-3879.svg" height="64" alt="Watch demo: Surface Weld Generator - FreeCAD Plugin Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=5uwMWgmB7Lk"><img width="100%" src="./docs/readme-svg/video-5uwMWgmB7Lk-3879.svg" alt="Watch demo: Surface Weld Generator - FreeCAD Plugin Demo"></a>
+</p>
+
+<p align="center">
+<a href="./C3P_WdCurve_Tools/Weld_Loader_Pro"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Move Welds"></a>
+</p>
 
 <a id="length" name="length"></a>
 
@@ -303,14 +291,13 @@
 
 <img src="./docs/readme-svg/tool-weld-length-report.svg" width="100%" alt="Weld Length Report — Production Reports &amp; Quotations">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./MANUFAI_Workbench/Reports"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Weld Length Report"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=hXmbLb0A_RI"><img src="./docs/readme-svg/video-hXmbLb0A_RI-4017.svg" height="64" alt="Watch demo: FreeCAD - Plugin - Total welding distance Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=hXmbLb0A_RI"><img width="100%" src="./docs/readme-svg/video-hXmbLb0A_RI-4017.svg" alt="Watch demo: FreeCAD - Plugin - Total welding distance Demo"></a>
+</p>
+
+<p align="center">
+<a href="./MANUFAI_Workbench/Reports"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Weld Length Report"></a>
+</p>
 
 <a id="cycle-time-tools" name="cycle-time-tools"></a>
 
@@ -320,66 +307,61 @@
 
 <img src="./docs/readme-svg/tool-process.svg" width="100%" alt="Process — Define the welding process parameters.">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./C3P_WdCurve_Tools/Weld_Loader_Pro"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Process"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=5uwMWgmB7Lk"><img src="./docs/readme-svg/video-5uwMWgmB7Lk-3879.svg" height="64" alt="Watch demo: Surface Weld Generator - FreeCAD Plugin Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=5uwMWgmB7Lk"><img width="100%" src="./docs/readme-svg/video-5uwMWgmB7Lk-3879.svg" alt="Watch demo: Surface Weld Generator - FreeCAD Plugin Demo"></a>
+</p>
+
+<p align="center">
+<a href="./C3P_WdCurve_Tools/Weld_Loader_Pro"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Process"></a>
+</p>
 
 <a id="assign-process" name="assign-process"></a>
 
 <img src="./docs/readme-svg/tool-assign-process.svg" width="100%" alt="Assign Process — Assign process information to welding trajectories.">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./C3P_WdCurve_Tools/Weld_Loader_Pro"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Assign Process"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=5uwMWgmB7Lk"><img src="./docs/readme-svg/video-5uwMWgmB7Lk-3879.svg" height="64" alt="Watch demo: Surface Weld Generator - FreeCAD Plugin Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=5uwMWgmB7Lk"><img width="100%" src="./docs/readme-svg/video-5uwMWgmB7Lk-3879.svg" alt="Watch demo: Surface Weld Generator - FreeCAD Plugin Demo"></a>
+</p>
+
+<p align="center">
+<a href="./C3P_WdCurve_Tools/Weld_Loader_Pro"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Assign Process"></a>
+</p>
 
 <a id="welding-parameters" name="welding-parameters"></a>
 
 <img src="./docs/readme-svg/tool-welding-parameters.svg" width="100%" alt="Welding Parameters — Define the heat source used by the welding process.">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./C3P_WdCurve_Tools/Weld_Loader_Pro"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Welding Parameters"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=5uwMWgmB7Lk"><img src="./docs/readme-svg/video-5uwMWgmB7Lk-3879.svg" height="64" alt="Watch demo: Surface Weld Generator - FreeCAD Plugin Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=5uwMWgmB7Lk"><img width="100%" src="./docs/readme-svg/video-5uwMWgmB7Lk-3879.svg" alt="Watch demo: Surface Weld Generator - FreeCAD Plugin Demo"></a>
+</p>
+
+<p align="center">
+<a href="./C3P_WdCurve_Tools/Weld_Loader_Pro"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Welding Parameters"></a>
+</p>
 
 <a id="assign-welding-parameters" name="assign-welding-parameters"></a>
 
 <img src="./docs/readme-svg/tool-assign-welding-parameters.svg" width="100%" alt="Assign Welding Parameters — Assign heat-source data to individual weld lines.">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./C3P_WdCurve_Tools/Weld_Loader_Pro"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Assign Welding Parameters"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=5uwMWgmB7Lk"><img src="./docs/readme-svg/video-5uwMWgmB7Lk-3879.svg" height="64" alt="Watch demo: Surface Weld Generator - FreeCAD Plugin Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=5uwMWgmB7Lk"><img width="100%" src="./docs/readme-svg/video-5uwMWgmB7Lk-3879.svg" alt="Watch demo: Surface Weld Generator - FreeCAD Plugin Demo"></a>
+</p>
+
+<p align="center">
+<a href="./C3P_WdCurve_Tools/Weld_Loader_Pro"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Assign Welding Parameters"></a>
+</p>
 
 <a id="cycle-time" name="cycle-time"></a>
 
 <img src="./docs/readme-svg/tool-cycle-time.svg" width="100%" alt="Cycle Time — Sequence Verification &amp; Process Timing">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./MANUFAI_Workbench/Find_Weld_Edges"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Cycle Time"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=Giv5xZ7Uw44"><img src="./docs/readme-svg/video-Giv5xZ7Uw44-5730.svg" height="64" alt="Watch demo: FreeCAD Plugin - Cycle time report - Robot or Manual welding Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=Giv5xZ7Uw44"><img width="100%" src="./docs/readme-svg/video-Giv5xZ7Uw44-5730.svg" alt="Watch demo: FreeCAD Plugin - Cycle time report - Robot or Manual welding Demo"></a>
+</p>
+
+<p align="center">
+<a href="./MANUFAI_Workbench/Find_Weld_Edges"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Cycle Time"></a>
+</p>
 
 <a id="weight" name="weight"></a>
 
@@ -389,40 +371,37 @@
 
 <img src="./docs/readme-svg/tool-create-materials.svg" width="100%" alt="Create Materials — Create custom materials for weight calculations.">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./C3P_WdCurve_Tools/Weld_Loader_Pro"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Create Materials"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=5uwMWgmB7Lk"><img src="./docs/readme-svg/video-5uwMWgmB7Lk-3879.svg" height="64" alt="Watch demo: Surface Weld Generator - FreeCAD Plugin Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=5uwMWgmB7Lk"><img width="100%" src="./docs/readme-svg/video-5uwMWgmB7Lk-3879.svg" alt="Watch demo: Surface Weld Generator - FreeCAD Plugin Demo"></a>
+</p>
+
+<p align="center">
+<a href="./C3P_WdCurve_Tools/Weld_Loader_Pro"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Create Materials"></a>
+</p>
 
 <a id="assign-materials" name="assign-materials"></a>
 
 <img src="./docs/readme-svg/tool-assign-materials.svg" width="100%" alt="Assign Materials — Assign materials to CAD components.">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./C3P_WdCurve_Tools/Weld_Loader_Pro"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Assign Materials"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=5uwMWgmB7Lk"><img src="./docs/readme-svg/video-5uwMWgmB7Lk-3879.svg" height="64" alt="Watch demo: Surface Weld Generator - FreeCAD Plugin Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=5uwMWgmB7Lk"><img width="100%" src="./docs/readme-svg/video-5uwMWgmB7Lk-3879.svg" alt="Watch demo: Surface Weld Generator - FreeCAD Plugin Demo"></a>
+</p>
+
+<p align="center">
+<a href="./C3P_WdCurve_Tools/Weld_Loader_Pro"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Assign Materials"></a>
+</p>
 
 <a id="weight-of-welding-and-welded-part" name="weight-of-welding-and-welded-part"></a>
 
 <img src="./docs/readme-svg/tool-weight-of-welding-and-welded-part.svg" width="100%" alt="Weight of Welding and Welded Part — Calculate the weight of weld metal and the complete welded assembly">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./MANUFAI_Workbench/Weight_Report"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Weight of Welding and Welded Part"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=HbsH8DEtrP8"><img src="./docs/readme-svg/video-HbsH8DEtrP8-4206.svg" height="64" alt="Watch demo: FreeCAD plugin welded part weight report Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=HbsH8DEtrP8"><img width="100%" src="./docs/readme-svg/video-HbsH8DEtrP8-4206.svg" alt="Watch demo: FreeCAD plugin welded part weight report Demo"></a>
+</p>
+
+<p align="center">
+<a href="./MANUFAI_Workbench/Weight_Report"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Weight of Welding and Welded Part"></a>
+</p>
 
 <a id="wso" name="wso"></a>
 
@@ -432,28 +411,29 @@
 
 <img src="./docs/readme-svg/tool-export-stl.svg" width="100%" alt="Export STL — Export selected objects or the complete part to STL format.">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./MANUFAI_Workbench/Weight_Report"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Export STL"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=HbsH8DEtrP8"><img src="./docs/readme-svg/video-HbsH8DEtrP8-4206.svg" height="64" alt="Watch demo: FreeCAD plugin welded part weight report Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=HbsH8DEtrP8"><img width="100%" src="./docs/readme-svg/video-HbsH8DEtrP8-4206.svg" alt="Watch demo: FreeCAD plugin welded part weight report Demo"></a>
+</p>
+
+<p align="center">
+<a href="./MANUFAI_Workbench/Weight_Report"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Export STL"></a>
+</p>
 
 <a id="export-as-dk-project" name="export-as-dk-project"></a>
 
 <img src="./docs/readme-svg/tool-export-as-dk-project.svg" width="100%" alt="Export As DK Project — Create a new DK project file from the current project.">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./MANUFAI_Workbench/Sequence_AI_Advisor"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Export As DK Project"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://youtu.be/48nRLUuxqVA"><img src="./docs/readme-svg/video-48nRLUuxqVA-2288.svg" height="64" alt="Watch demo: WSO with DK Algorithm Demo"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://youtu.be/bhIbrSHBmeU"><img src="./docs/readme-svg/video-bhIbrSHBmeU-3221.svg" height="64" alt="Watch demo: Sequence Visualizer [Output] Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://youtu.be/48nRLUuxqVA"><img width="100%" src="./docs/readme-svg/video-48nRLUuxqVA-2288.svg" alt="Watch demo: WSO with DK Algorithm Demo"></a>
+</p>
+
+<p align="center">
+<a href="https://youtu.be/bhIbrSHBmeU"><img width="100%" src="./docs/readme-svg/video-bhIbrSHBmeU-3221.svg" alt="Watch demo: Sequence Visualizer [Output] Demo"></a>
+</p>
+
+<p align="center">
+<a href="./MANUFAI_Workbench/Sequence_AI_Advisor"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Export As DK Project"></a>
+</p>
 
 <a id="simulation" name="simulation"></a>
 
@@ -463,53 +443,49 @@
 
 <img src="./docs/readme-svg/tool-assign-sequence.svg" width="100%" alt="Assign Sequence — Define the execution order of the welding process.">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./MANUFAI_Workbench/Weight_Report"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Assign Sequence"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=HbsH8DEtrP8"><img src="./docs/readme-svg/video-HbsH8DEtrP8-4206.svg" height="64" alt="Watch demo: FreeCAD plugin welded part weight report Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=HbsH8DEtrP8"><img width="100%" src="./docs/readme-svg/video-HbsH8DEtrP8-4206.svg" alt="Watch demo: FreeCAD plugin welded part weight report Demo"></a>
+</p>
+
+<p align="center">
+<a href="./MANUFAI_Workbench/Weight_Report"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Assign Sequence"></a>
+</p>
 
 <a id="weld-simulation" name="weld-simulation"></a>
 
 <img src="./docs/readme-svg/tool-weld-simulation.svg" width="100%" alt="Weld Simulation — Validate torch accessibility, motion, and welding trajectories.">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./MANUFAI_Workbench/Welding_Gun_Simulation"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Weld Simulation"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=kuIgRGPw8nU"><img src="./docs/readme-svg/video-kuIgRGPw8nU-5256.svg" height="64" alt="Watch demo: FreeCAD Plugin - Simulate welding gun on a trajectory Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=kuIgRGPw8nU"><img width="100%" src="./docs/readme-svg/video-kuIgRGPw8nU-5256.svg" alt="Watch demo: FreeCAD Plugin - Simulate welding gun on a trajectory Demo"></a>
+</p>
+
+<p align="center">
+<a href="./MANUFAI_Workbench/Welding_Gun_Simulation"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Weld Simulation"></a>
+</p>
 
 <a id="weld-visualizer" name="weld-visualizer"></a>
 
 <img src="./docs/readme-svg/tool-weld-visualizer.svg" width="100%" alt="Show Weld Sphere — Lightweight 3D visual verification and playback sequence control.">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./MANUFAI_Workbench/Weld_Visualizer"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Show Weld Sphere"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=Ccb7qmT_r68"><img src="./docs/readme-svg/video-Ccb7qmT_r68-4418.svg" height="64" alt="Watch demo: Weld Visualizer (Sphere Mode) - FreeCAD Plugin Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=Ccb7qmT_r68"><img width="100%" src="./docs/readme-svg/video-Ccb7qmT_r68-4418.svg" alt="Watch demo: Weld Visualizer (Sphere Mode) - FreeCAD Plugin Demo"></a>
+</p>
+
+<p align="center">
+<a href="./MANUFAI_Workbench/Weld_Visualizer"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Show Weld Sphere"></a>
+</p>
 
 <a id="visualizer-cmd" name="visualizer-cmd"></a>
 
 <img src="./docs/readme-svg/tool-visualizer-cmd.svg" width="100%" alt="Visualizer — Interactive 3D visibility control and rapid weld inspection.">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./MANUFAI_Workbench/Assembly_Visualizer"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Visualizer"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=TU_ENLACE"><img src="./docs/readme-svg/video-TU_ENLACE-3705.svg" height="64" alt="Watch demo: Assembly Visualizer - FreeCAD Plugin Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=TU_ENLACE"><img width="100%" src="./docs/readme-svg/video-TU_ENLACE-3705.svg" alt="Watch demo: Assembly Visualizer - FreeCAD Plugin Demo"></a>
+</p>
+
+<p align="center">
+<a href="./MANUFAI_Workbench/Assembly_Visualizer"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Visualizer"></a>
+</p>
 
 <a href="#toolbar-layout"><img src="./docs/readme-svg/back-index.svg" width="280" alt="Tool index"></a> <a href="#top"><img src="./docs/readme-svg/back-top.svg" width="280" alt="Back to top"></a>
 
@@ -521,183 +497,169 @@
 
 <img src="./docs/readme-svg/tool-toggle-visibility-recursive.svg" width="100%" alt="Toggle Visibility Recursive — Instantly restore visual control over complex assemblies.">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./Datum_321_Alignment/Recursive_Visibility"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Toggle Visibility Recursive"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=360sB3FVUp4"><img src="./docs/readme-svg/video-360sB3FVUp4-6644.svg" height="64" alt="Watch demo: Recursive Visibility Toggle for Complex Assemblies - FreeCAD Plugin Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=360sB3FVUp4"><img width="100%" src="./docs/readme-svg/video-360sB3FVUp4-6644.svg" alt="Watch demo: Recursive Visibility Toggle for Complex Assemblies - FreeCAD Plugin Demo"></a>
+</p>
+
+<p align="center">
+<a href="./Datum_321_Alignment/Recursive_Visibility"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Toggle Visibility Recursive"></a>
+</p>
 
 <a id="create-center-point" name="create-center-point"></a>
 
 <img src="./docs/readme-svg/tool-create-center-point.svg" width="100%" alt="Create Center Point — Calculates geometric centers for quick referencing.">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./Datum_321_Alignment/Center_Point"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Create Center Point"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=AsVGiXEPmd4"><img src="./docs/readme-svg/video-AsVGiXEPmd4-3479.svg" height="64" alt="Watch demo: Center Point - MANUFAI FreeCAD Plugin Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=AsVGiXEPmd4"><img width="100%" src="./docs/readme-svg/video-AsVGiXEPmd4-3479.svg" alt="Watch demo: Center Point - MANUFAI FreeCAD Plugin Demo"></a>
+</p>
+
+<p align="center">
+<a href="./Datum_321_Alignment/Center_Point"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Create Center Point"></a>
+</p>
 
 <a id="create-sphere-at-origin" name="create-sphere-at-origin"></a>
 
 <img src="./docs/readme-svg/tool-create-sphere-at-origin.svg" width="100%" alt="Create Sphere at Origin — Generates a visual reference at the Global Origin (0,0,0).">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./Datum_321_Alignment/Create_Sphere_Origin"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Create Sphere at Origin"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=HbsH8DEtrP8"><img src="./docs/readme-svg/video-HbsH8DEtrP8-4206.svg" height="64" alt="Watch demo: FreeCAD plugin welded part weight report Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=HbsH8DEtrP8"><img width="100%" src="./docs/readme-svg/video-HbsH8DEtrP8-4206.svg" alt="Watch demo: FreeCAD plugin welded part weight report Demo"></a>
+</p>
+
+<p align="center">
+<a href="./Datum_321_Alignment/Create_Sphere_Origin"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Create Sphere at Origin"></a>
+</p>
 
 <a id="datum-a" name="datum-a"></a>
 
 <img src="./docs/readme-svg/tool-datum-a.svg" width="100%" alt="Datum A — Define the primary reference for the alignment system.">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./Datum_321_Alignment/Create_Sphere_Origin"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Datum A"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=HbsH8DEtrP8"><img src="./docs/readme-svg/video-HbsH8DEtrP8-4206.svg" height="64" alt="Watch demo: FreeCAD plugin welded part weight report Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=HbsH8DEtrP8"><img width="100%" src="./docs/readme-svg/video-HbsH8DEtrP8-4206.svg" alt="Watch demo: FreeCAD plugin welded part weight report Demo"></a>
+</p>
+
+<p align="center">
+<a href="./Datum_321_Alignment/Create_Sphere_Origin"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Datum A"></a>
+</p>
 
 <a id="datum-b" name="datum-b"></a>
 
 <img src="./docs/readme-svg/tool-datum-b.svg" width="100%" alt="Datum B — Define the secondary direction of the coordinate system.">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./Datum_321_Alignment/Create_Sphere_Origin"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Datum B"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=HbsH8DEtrP8"><img src="./docs/readme-svg/video-HbsH8DEtrP8-4206.svg" height="64" alt="Watch demo: FreeCAD plugin welded part weight report Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=HbsH8DEtrP8"><img width="100%" src="./docs/readme-svg/video-HbsH8DEtrP8-4206.svg" alt="Watch demo: FreeCAD plugin welded part weight report Demo"></a>
+</p>
+
+<p align="center">
+<a href="./Datum_321_Alignment/Create_Sphere_Origin"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Datum B"></a>
+</p>
 
 <a id="datum-c" name="datum-c"></a>
 
 <img src="./docs/readme-svg/tool-datum-c.svg" width="100%" alt="Datum C — Define the final reference required for positioning.">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./Datum_321_Alignment/Create_Sphere_Origin"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Datum C"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=HbsH8DEtrP8"><img src="./docs/readme-svg/video-HbsH8DEtrP8-4206.svg" height="64" alt="Watch demo: FreeCAD plugin welded part weight report Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=HbsH8DEtrP8"><img width="100%" src="./docs/readme-svg/video-HbsH8DEtrP8-4206.svg" alt="Watch demo: FreeCAD plugin welded part weight report Demo"></a>
+</p>
+
+<p align="center">
+<a href="./Datum_321_Alignment/Create_Sphere_Origin"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Datum C"></a>
+</p>
 
 <a id="3-2-1-alignment" name="3-2-1-alignment"></a>
 
 <img src="./docs/readme-svg/tool-3-2-1-alignment.svg" width="100%" alt="3-2-1 Datum-Based Alignment — This suite provides a step-by-step workflow to establish a definitive coordinate system (CSYS) using standard 3-2-1 alignment logic. It guides you from reference identification to assembly-safe model repositioning">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./Datum_321_Alignment/Create_Sphere_Origin"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for 3-2-1 Datum-Based Alignment"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=HbsH8DEtrP8"><img src="./docs/readme-svg/video-HbsH8DEtrP8-4206.svg" height="64" alt="Watch demo: FreeCAD plugin welded part weight report Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=HbsH8DEtrP8"><img width="100%" src="./docs/readme-svg/video-HbsH8DEtrP8-4206.svg" alt="Watch demo: FreeCAD plugin welded part weight report Demo"></a>
+</p>
+
+<p align="center">
+<a href="./Datum_321_Alignment/Create_Sphere_Origin"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for 3-2-1 Datum-Based Alignment"></a>
+</p>
 
 <a id="move-model-to-origin" name="move-model-to-origin"></a>
 
 <img src="./docs/readme-svg/tool-move-model-to-origin.svg" width="100%" alt="Move Model To Origin — Reposition the model using the calculated 3-2-1 alignment.">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./Datum_321_Alignment/Create_Sphere_Origin"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Move Model To Origin"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=hPKx3S9DQLc"><img src="./docs/readme-svg/video-hPKx3S9DQLc-4565.svg" height="64" alt="Watch demo: 3-2-1 Datum Based Alignment - MANUFAI FreeCAD Plugin Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=hPKx3S9DQLc"><img width="100%" src="./docs/readme-svg/video-hPKx3S9DQLc-4565.svg" alt="Watch demo: 3-2-1 Datum Based Alignment - MANUFAI FreeCAD Plugin Demo"></a>
+</p>
+
+<p align="center">
+<a href="./Datum_321_Alignment/Create_Sphere_Origin"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Move Model To Origin"></a>
+</p>
 
 <a id="reset-pos" name="reset-pos"></a>
 
 <img src="./docs/readme-svg/tool-reset-pos.svg" width="100%" alt="Reset Position — Toggle transformation reset and coordinate zeroing">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./MANUFAI_Workbench/Reset_Position"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Reset Position"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=TU_ENLACE"><img src="./docs/readme-svg/video-TU_ENLACE-3171.svg" height="64" alt="Watch demo: Reset Position - FreeCAD Plugin Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=TU_ENLACE"><img width="100%" src="./docs/readme-svg/video-TU_ENLACE-3171.svg" alt="Watch demo: Reset Position - FreeCAD Plugin Demo"></a>
+</p>
+
+<p align="center">
+<a href="./MANUFAI_Workbench/Reset_Position"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Reset Position"></a>
+</p>
 
 <a id="show-welding-widget-command" name="show-welding-widget-command"></a>
 
 <img src="./docs/readme-svg/tool-show-welding-widget-command.svg" width="100%" alt="Show Welding Widget — 2D Blueprint to 3D Model Synchronization.">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./Datum_321_Alignment/Welding_Reference"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Show Welding Widget"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=Yp307CxQaUM"><img src="./docs/readme-svg/video-Yp307CxQaUM-3874.svg" height="64" alt="Watch demo: Welding Reference Tool - FreeCAD Plugin Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=Yp307CxQaUM"><img width="100%" src="./docs/readme-svg/video-Yp307CxQaUM-3874.svg" alt="Watch demo: Welding Reference Tool - FreeCAD Plugin Demo"></a>
+</p>
+
+<p align="center">
+<a href="./Datum_321_Alignment/Welding_Reference"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Show Welding Widget"></a>
+</p>
 
 <a id="launch-find-data-panel" name="launch-find-data-panel"></a>
 
 <img src="./docs/readme-svg/tool-launch-find-data-panel.svg" width="100%" alt="Launch Find Data Panel — Centralized control for weld tracking and interoperability.">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./Datum_321_Alignment/Find_Data_Panel"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Launch Find Data Panel"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=AJxwoL3yqto"><img src="./docs/readme-svg/video-AJxwoL3yqto-4921.svg" height="64" alt="Watch demo: How to see all the weld data? - MANUFAI FreeCAD plugin Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=AJxwoL3yqto"><img width="100%" src="./docs/readme-svg/video-AJxwoL3yqto-4921.svg" alt="Watch demo: How to see all the weld data? - MANUFAI FreeCAD plugin Demo"></a>
+</p>
+
+<p align="center">
+<a href="./Datum_321_Alignment/Find_Data_Panel"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Launch Find Data Panel"></a>
+</p>
 
 <a id="focus-object-command" name="focus-object-command"></a>
 
 <img src="./docs/readme-svg/tool-focus-object-command.svg" width="100%" alt="Focus Object — Instant Navigation.">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./Datum_321_Alignment/Focus_on_Object"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Focus Object"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=vnDtbglly2k"><img src="./docs/readme-svg/video-vnDtbglly2k-3167.svg" height="64" alt="Watch demo: Focus on Object - FreeCAD Plugin Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=vnDtbglly2k"><img width="100%" src="./docs/readme-svg/video-vnDtbglly2k-3167.svg" alt="Watch demo: Focus on Object - FreeCAD Plugin Demo"></a>
+</p>
+
+<p align="center">
+<a href="./Datum_321_Alignment/Focus_on_Object"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Focus Object"></a>
+</p>
 
 <a id="move-weld-lines" name="move-weld-lines"></a>
 
 <img src="./docs/readme-svg/tool-move-weld-lines.svg" width="100%" alt="Move Weld Lines — Precision Trajectory Re-positioning.">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./Datum_321_Alignment/Smart_Discretize"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Move Weld Lines"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=HbsH8DEtrP8"><img src="./docs/readme-svg/video-HbsH8DEtrP8-4206.svg" height="64" alt="Watch demo: FreeCAD plugin welded part weight report Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=HbsH8DEtrP8"><img width="100%" src="./docs/readme-svg/video-HbsH8DEtrP8-4206.svg" alt="Watch demo: FreeCAD plugin welded part weight report Demo"></a>
+</p>
+
+<p align="center">
+<a href="./Datum_321_Alignment/Smart_Discretize"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Move Weld Lines"></a>
+</p>
 
 <a id="discretize" name="discretize"></a>
 
 <img src="./docs/readme-svg/tool-discretize.svg" width="100%" alt="Discretize — Geometry-Aware Path Projection.">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./Datum_321_Alignment/Smart_Discretize"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Discretize"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=HbsH8DEtrP8"><img src="./docs/readme-svg/video-HbsH8DEtrP8-4206.svg" height="64" alt="Watch demo: FreeCAD plugin welded part weight report Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=HbsH8DEtrP8"><img width="100%" src="./docs/readme-svg/video-HbsH8DEtrP8-4206.svg" alt="Watch demo: FreeCAD plugin welded part weight report Demo"></a>
+</p>
+
+<p align="center">
+<a href="./Datum_321_Alignment/Smart_Discretize"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Discretize"></a>
+</p>
 
 <a href="#toolbar-layout"><img src="./docs/readme-svg/back-index.svg" width="280" alt="Tool index"></a> <a href="#top"><img src="./docs/readme-svg/back-top.svg" width="280" alt="Back to top"></a>
 
@@ -709,40 +671,37 @@
 
 <img src="./docs/readme-svg/tool-line-weld-table.svg" width="100%" alt="Line Weld Table — Parameter Editor &amp; WDCurve Exporter">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./C3P_WdCurve_Tools/Line_Weld_Table"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Line Weld Table"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=wSOsoFvLScI"><img src="./docs/readme-svg/video-wSOsoFvLScI-4559.svg" height="64" alt="Watch demo: Line Weld Table &amp; WDCurve Export - FreeCAD Plugin Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=wSOsoFvLScI"><img width="100%" src="./docs/readme-svg/video-wSOsoFvLScI-4559.svg" alt="Watch demo: Line Weld Table &amp; WDCurve Export - FreeCAD Plugin Demo"></a>
+</p>
+
+<p align="center">
+<a href="./C3P_WdCurve_Tools/Line_Weld_Table"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Line Weld Table"></a>
+</p>
 
 <a id="show-names" name="show-names"></a>
 
 <img src="./docs/readme-svg/tool-show-names.svg" width="100%" alt="Show Names — Orientation &amp; ID HUD.">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./C3P_WdCurve_Tools/Show_Names"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Show Names"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=uVRiyf8H4nk"><img src="./docs/readme-svg/video-uVRiyf8H4nk-4802.svg" height="64" alt="Watch demo: Weld Path Name &amp; Direction Display - FreeCAD Plugin Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=uVRiyf8H4nk"><img width="100%" src="./docs/readme-svg/video-uVRiyf8H4nk-4802.svg" alt="Watch demo: Weld Path Name &amp; Direction Display - FreeCAD Plugin Demo"></a>
+</p>
+
+<p align="center">
+<a href="./C3P_WdCurve_Tools/Show_Names"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Show Names"></a>
+</p>
 
 <a id="selection-mode" name="selection-mode"></a>
 
 <img src="./docs/readme-svg/tool-selection-mode.svg" width="100%" alt="Selection Mode (X-Ray &amp; Filter) — Visual isolation and Selection Lock.">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./C3P_WdCurve_Tools/Selection_Mode"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Selection Mode (X-Ray &amp; Filter)"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=Y3D3PVF0ubI"><img src="./docs/readme-svg/video-Y3D3PVF0ubI-4019.svg" height="64" alt="Watch demo: X-Ray Weld Selection Mode - FreeCAD Plugin Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=Y3D3PVF0ubI"><img width="100%" src="./docs/readme-svg/video-Y3D3PVF0ubI-4019.svg" alt="Watch demo: X-Ray Weld Selection Mode - FreeCAD Plugin Demo"></a>
+</p>
+
+<p align="center">
+<a href="./C3P_WdCurve_Tools/Selection_Mode"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Selection Mode (X-Ray &amp; Filter)"></a>
+</p>
 
 <a href="#toolbar-layout"><img src="./docs/readme-svg/back-index.svg" width="280" alt="Tool index"></a> <a href="#top"><img src="./docs/readme-svg/back-top.svg" width="280" alt="Back to top"></a>
 
@@ -754,29 +713,33 @@
 
 <img src="./docs/readme-svg/tool-weld-data-to-robodk.svg" width="100%" alt="Export To .rdk Project — Automated Welding Path &amp; Program Generation.">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./RoboDK_Process_Automation/Weld_Data_to_RoboDK"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Export To .rdk Project"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://youtu.be/bNV_s38_P9E"><img src="./docs/readme-svg/video-bNV_s38_P9E-6741.svg" height="64" alt="Watch demo: FreeCAD Plugin - Robotic Cell Modeling for automatic transfer of weld data"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://youtu.be/PpmaKM3XEzY"><img src="./docs/readme-svg/video-PpmaKM3XEzY-4479.svg" height="64" alt="Watch demo: FreeCAD to RoboDK welding Modeling and Simulation"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=_DmwPQABFhU"><img src="./docs/readme-svg/video-_DmwPQABFhU-4165.svg" height="64" alt="Watch demo: Weld Path to Robot Program - FreeCAD Plugin Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://youtu.be/bNV_s38_P9E"><img width="100%" src="./docs/readme-svg/video-bNV_s38_P9E-6741.svg" alt="Watch demo: FreeCAD Plugin - Robotic Cell Modeling for automatic transfer of weld data"></a>
+</p>
+
+<p align="center">
+<a href="https://youtu.be/PpmaKM3XEzY"><img width="100%" src="./docs/readme-svg/video-PpmaKM3XEzY-4479.svg" alt="Watch demo: FreeCAD to RoboDK welding Modeling and Simulation"></a>
+</p>
+
+<p align="center">
+<a href="https://www.youtube.com/watch?v=_DmwPQABFhU"><img width="100%" src="./docs/readme-svg/video-_DmwPQABFhU-4165.svg" alt="Watch demo: Weld Path to Robot Program - FreeCAD Plugin Demo"></a>
+</p>
+
+<p align="center">
+<a href="./RoboDK_Process_Automation/Weld_Data_to_RoboDK"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Export To .rdk Project"></a>
+</p>
 
 <a id="export-full" name="export-full"></a>
 
 <img src="./docs/readme-svg/tool-export-full.svg" width="100%" alt="Export Full — Transfer the complete visible CAD assembly to RoboDK">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./Datum_321_Alignment/Create_Sphere_Origin"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Export Full"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=HbsH8DEtrP8"><img src="./docs/readme-svg/video-HbsH8DEtrP8-4206.svg" height="64" alt="Watch demo: FreeCAD plugin welded part weight report Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=HbsH8DEtrP8"><img width="100%" src="./docs/readme-svg/video-HbsH8DEtrP8-4206.svg" alt="Watch demo: FreeCAD plugin welded part weight report Demo"></a>
+</p>
+
+<p align="center">
+<a href="./Datum_321_Alignment/Create_Sphere_Origin"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Export Full"></a>
+</p>
 
 <a id="export-selected" name="export-selected"></a>
 
@@ -784,39 +747,36 @@
 
 <img src="./docs/readme-svg/tool-export-selected.svg" width="100%" alt="Export Selected — Transfer only selected CAD components to RoboDK.">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./RoboDK_Process_Automation/RoboDK_Export_Tools"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Export Selected"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=RDRtrwVmNSQ"><img src="./docs/readme-svg/video-RDRtrwVmNSQ-3454.svg" height="64" alt="Watch demo: CAD to Robot Export - FreeCAD Plugin Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=RDRtrwVmNSQ"><img width="100%" src="./docs/readme-svg/video-RDRtrwVmNSQ-3454.svg" alt="Watch demo: CAD to Robot Export - FreeCAD Plugin Demo"></a>
+</p>
+
+<p align="center">
+<a href="./RoboDK_Process_Automation/RoboDK_Export_Tools"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Export Selected"></a>
+</p>
 
 <a id="glue-manager" name="glue-manager"></a>
 
 <img src="./docs/readme-svg/tool-glue-manager.svg" width="100%" alt="Glue Manager — Weld-to-Dispensing Path Conversion.">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./RoboDK_Process_Automation/Glue_Manager"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Glue Manager"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=iWT9zPO1s58"><img src="./docs/readme-svg/video-iWT9zPO1s58-5537.svg" height="64" alt="Watch demo: Dispensing operations with RoboDK - MANUFAI FreeCAD Plugin Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=iWT9zPO1s58"><img width="100%" src="./docs/readme-svg/video-iWT9zPO1s58-5537.svg" alt="Watch demo: Dispensing operations with RoboDK - MANUFAI FreeCAD Plugin Demo"></a>
+</p>
+
+<p align="center">
+<a href="./RoboDK_Process_Automation/Glue_Manager"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Glue Manager"></a>
+</p>
 
 <a id="drilling-manager" name="drilling-manager"></a>
 
 <img src="./docs/readme-svg/tool-drilling-manager.svg" width="100%" alt="Drilling Manager — Automated Hole &amp; Rivet Processing.">
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" height="80"><a href="./RoboDK_Process_Automation/Drilling_Manager"><img src="./docs/readme-svg/open-materials.svg" height="64" alt="Test files &amp; output for Drilling Manager"></a></td>
-<td align="center" valign="middle" height="80"><a href="https://www.youtube.com/watch?v=Aw_dtBkk4sY"><img src="./docs/readme-svg/video-Aw_dtBkk4sY-3556.svg" height="64" alt="Watch demo: Automated Drilling - FreeCAD Plugin Demo"></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=Aw_dtBkk4sY"><img width="100%" src="./docs/readme-svg/video-Aw_dtBkk4sY-3556.svg" alt="Watch demo: Automated Drilling - FreeCAD Plugin Demo"></a>
+</p>
+
+<p align="center">
+<a href="./RoboDK_Process_Automation/Drilling_Manager"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Drilling Manager"></a>
+</p>
 
 <a href="#toolbar-layout"><img src="./docs/readme-svg/back-index.svg" width="280" alt="Tool index"></a> <a href="#top"><img src="./docs/readme-svg/back-top.svg" width="280" alt="Back to top"></a>
