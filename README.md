@@ -23,7 +23,7 @@
 
 <img src="./docs/readme-svg/installation.svg" width="100%" alt="Download &amp; installation">
 
-<p align="left">
+<p align="center">
 <a href="https://www.manufai.com/freecad"><img src="./docs/readme-svg/open-download.svg" width="280" alt="Download plugin"></a> <a href="https://youtu.be/3LZCjwZW4YY"><img src="./docs/readme-svg/installation-tutorial.svg" width="280" alt="Installation tutorial"></a>
 </p>
 
