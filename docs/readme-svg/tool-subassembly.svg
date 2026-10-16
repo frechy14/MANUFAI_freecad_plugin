@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1120" height="364" viewBox="0 0 1120 364" role="img" aria-labelledby="title description">
+<title id="title">SubAssembly</title><desc id="description">SubAssembly Create and organize manufacturing SubAssemblies. Allows the user to divide complex CAD assemblies into logical manufacturing SubAssemblies, providing a structured organization of the components involved in the welding process. Visual Part Grouping: Organizes CAD parts into logical manufacturing SubAssemblies. Tree Organization: Creates a clear manufacturing hierarchy inside the FreeCAD tree. CAD Preservation: Organizes the parts without modifying the original CAD constraints.</desc>
+<defs><linearGradient id="panel-bg" x2="1" y2="1"><stop stop-color="#0A0E17"/><stop offset="1" stop-color="#142133"/></linearGradient></defs>
+<rect x=".7" y=".7" width="1118.6" height="362.6" rx="18" fill="url(#panel-bg)" stroke="#365171" stroke-opacity=".8"/>
+<path d="M20 1H1100Q1119 1 1119 20V120H1V20Q1 1 20 1" fill="#182A44" fill-opacity=".38"/>
+<text x="149.00" y="57.00" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#E8F0FE">SubAssembly</text>
+<text x="149.00" y="90.00" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#8FAFD3">Create</text>
+<text x="213.75" y="90.00" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#8FAFD3">and</text>
+<text x="252.69" y="90.00" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#8FAFD3">organize</text>
+<text x="334.02" y="90.00" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#8FAFD3">manufacturing</text>
+<text x="466.27" y="90.00" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#8FAFD3">SubAssemblies.</text>
+<rect x="1021" y="30" width="57" height="38" rx="9" fill="#1E88E5" fill-opacity=".14" stroke="#64B5F6" stroke-opacity=".2"/>
+<text x="1036" y="56" fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" >09</text>
+<rect x="39" y="30" width="78" height="78" rx="15" fill="#1E88E5" fill-opacity=".13" stroke="#64B5F6" stroke-opacity=".22"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0,0,255.99431,255.99431" width="52" height="52" fill-rule="nonzero" x="52" y="43" preserveAspectRatio="xMidYMid meet"><defs><linearGradient x1="24" y1="6.955" x2="24" y2="23.167" gradientUnits="userSpaceOnUse" id="icon-color-1"><stop offset="0" stop-color="#006ceb"/><stop offset="1" stop-color="#003cc2"/></linearGradient><linearGradient x1="23.934" y1="19.228" x2="23.934" y2="33.821" gradientUnits="userSpaceOnUse" id="icon-color-2"><stop offset="0" stop-color="#69a0ff"/><stop offset="1" stop-color="#2b73fe"/></linearGradient></defs><g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><g transform="scale(5.33333,5.33333)"><path d="M24.414,10.414l-2.536,-2.536c-0.562,-0.562 -1.325,-0.878 -2.121,-0.878h-14.757c-1.105,0 -2,0.895 -2,2v30c0,1.105 0.895,2 2,2h38c1.105,0 2,-0.895 2,-2v-26c0,-1.105 -0.895,-2 -2,-2h-17.172c-0.53,0 -1.039,-0.211 -1.414,-0.586z" fill="url(#icon-color-1)"/><path d="M24,23l3.854,-3.854c0.093,-0.093 0.22,-0.146 0.353,-0.146h16.603c1.176,0 2.098,1.01 1.992,2.181l-1.636,18c-0.094,1.03 -0.958,1.819 -1.992,1.819h-38.384c-1.019,0 -1.875,-0.766 -1.988,-1.779l-1.74,-15.666c-0.033,-0.296 0.199,-0.555 0.497,-0.555z" fill="url(#icon-color-2)"/></g></g></svg>
+<path d="M1 120H1119" stroke="#7CA3D2" stroke-opacity=".16"/>
+<text x="45.00" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">Allows</text>
+<text x="114.31" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">the</text>
+<text x="150.88" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">user</text>
+<text x="199.78" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">to</text>
+<text x="223.97" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">divide</text>
+<text x="287.55" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">complex</text>
+<text x="375.12" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">CAD</text>
+<text x="426.97" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">assemblies</text>
+<text x="543.08" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">into</text>
+<text x="584.39" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">logical</text>
+<text x="653.03" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">manufacturing</text>
+<text x="798.47" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">SubAssemblies,</text>
+<text x="961.98" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">providing</text>
+<text x="1056.86" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">a</text>
+<text x="45.00" y="197.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">structured</text>
+<text x="148.66" y="197.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">organization</text>
+<text x="273.59" y="197.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">of</text>
+<text x="298.05" y="197.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">the</text>
+<text x="334.61" y="197.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">components</text>
+<text x="460.75" y="197.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">involved</text>
+<text x="546.48" y="197.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">in</text>
+<text x="569.72" y="197.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">the</text>
+<text x="606.28" y="197.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">welding</text>
+<text x="686.62" y="197.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">process.</text>
+<text x="50" y="241" fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" >•</text>
+<text x="77.00" y="241.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#E8F0FE">Visual</text>
+<text x="147.80" y="241.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#E8F0FE">Part</text>
+<text x="197.02" y="241.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#E8F0FE">Grouping:</text>
+<text x="309.64" y="241.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">Organizes</text>
+<text x="414.89" y="241.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">CAD</text>
+<text x="466.73" y="241.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">parts</text>
+<text x="522.34" y="241.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">into</text>
+<text x="563.66" y="241.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">logical</text>
+<text x="632.30" y="241.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">manufacturing</text>
+<text x="777.73" y="241.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">SubAssemblies.</text>
+<text x="50" y="280" fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" >•</text>
+<text x="77.00" y="280.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#E8F0FE">Tree</text>
+<text x="128.05" y="280.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#E8F0FE">Organization:</text>
+<text x="275.67" y="280.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">Creates</text>
+<text x="357.80" y="280.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">a</text>
+<text x="376.14" y="280.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">clear</text>
+<text x="429.80" y="280.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">manufacturing</text>
+<text x="575.23" y="280.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">hierarchy</text>
+<text x="671.20" y="280.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">inside</text>
+<text x="734.80" y="280.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">the</text>
+<text x="771.36" y="280.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">FreeCAD</text>
+<text x="867.42" y="280.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">tree.</text>
+<text x="50" y="319" fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" >•</text>
+<text x="77.00" y="319.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#E8F0FE">CAD</text>
+<text x="130.17" y="319.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#E8F0FE">Preservation:</text>
+<text x="277.08" y="319.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">Organizes</text>
+<text x="382.33" y="319.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">the</text>
+<text x="418.89" y="319.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">parts</text>
+<text x="474.50" y="319.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">without</text>
+<text x="550.19" y="319.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">modifying</text>
+<text x="650.84" y="319.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">the</text>
+<text x="687.41" y="319.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">original</text>
+<text x="764.45" y="319.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">CAD</text>
+<text x="816.30" y="319.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">constraints.</text>
+</svg>

@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1120" height="510" viewBox="0 0 1120 510" role="img" aria-labelledby="title description">
+<title id="title">Drilling Manager</title><desc id="description">Drilling Manager Automated Hole &amp; Rivet Processing. A complete suite for automating drilling or riveting operations. It detects circular edges on the 3D model to extract centers and normal vectors automatically. Operation Modes: Manual: Step-by-step definition (Start/End points) for visual depth control. Precision: Apply specific numeric depth values to single holes. Batch Processing: The &quot;Crown Jewel&quot; feature—select dozens of holes and apply global drilling parameters to all of them instantly. Full Simulation: Generates complete Approach, Drill, and Retract targets within RoboDK automatically.</desc>
+<defs><linearGradient id="panel-bg" x2="1" y2="1"><stop stop-color="#0A0E17"/><stop offset="1" stop-color="#142133"/></linearGradient></defs>
+<rect x=".7" y=".7" width="1118.6" height="508.6" rx="18" fill="url(#panel-bg)" stroke="#365171" stroke-opacity=".8"/>
+<path d="M20 1H1100Q1119 1 1119 20V120H1V20Q1 1 20 1" fill="#182A44" fill-opacity=".38"/>
+<text x="149.00" y="57.00" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#E8F0FE">Drilling</text>
+<text x="256.77" y="57.00" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#E8F0FE">Manager</text>
+<text x="149.00" y="90.00" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#8FAFD3">Automated</text>
+<text x="250.36" y="90.00" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#8FAFD3">Hole</text>
+<text x="297.05" y="90.00" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#8FAFD3">&amp;</text>
+<text x="315.95" y="90.00" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#8FAFD3">Rivet</text>
+<text x="366.47" y="90.00" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#8FAFD3">Processing.</text>
+<rect x="1021" y="30" width="57" height="38" rx="9" fill="#1E88E5" fill-opacity=".14" stroke="#64B5F6" stroke-opacity=".2"/>
+<text x="1036" y="56" fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" >49</text>
+<rect x="39" y="30" width="78" height="78" rx="15" fill="#1E88E5" fill-opacity=".13" stroke="#64B5F6" stroke-opacity=".22"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="52" height="52" preserveAspectRatio="xMidYMid meet" viewBox="0 0 800 800" x="52" y="43">
+
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="icon-svg_1">
+   <path stroke="null" id="icon-svg_2" d="m777.55042,355.41761l-80.47242,0c0,0 -1.08747,0 -1.08747,0c-60.89805,5.0777 -78.29749,45.69932 -79.38496,67.02567l0,93.42973c0,115.77162 -94.60947,209.20134 -210.96825,209.20134c-116.35878,0 -210.96825,-93.42973 -210.96825,-209.20134l0,-93.42973c0,-5.0777 1.08747,-28.43513 -16.31198,-46.71486c-13.04958,-13.20203 -32.62396,-20.31081 -58.72312,-20.31081l-96.7844,0c-7.61226,0 -13.04958,6.09324 -13.04958,12.18649l0,412.30944c0,7.10878 6.52479,12.18649 13.04958,12.18649l754.70084,0c7.61226,0 13.04958,-6.09324 13.04958,-12.18649l0,-412.30944c0,-12.18649 -5.43733,-12.18649 -13.04958,-12.18649z" fill="#1B2E45"/>
+   <path stroke="#FFFFFF" id="icon-svg_3" d="m287.10362,391.97706l-22.83677,-9.13986c-9.78719,-4.06216 -19.57437,0 -23.92423,9.13986c-4.34986,9.13986 0,18.27973 9.78719,22.34189l38.06128,15.23311l0,55.85473c0,0 0,0 0,1.01554l0,62.96351c0,4.06216 1.08747,8.12432 4.34986,11.17095l96.7844,106.63175c3.2624,4.06216 8.69972,6.09324 14.13705,6.09324c0,0 0,0 0,0c5.43733,0 10.87465,-2.03108 14.13705,-6.09324l83.73482,-92.41419c3.2624,-4.06216 5.43733,-9.13986 4.34986,-15.23311s-5.43733,-9.13986 -9.78719,-12.18649l-170.73203,-73.11892l0,-30.46622l47.84847,19.29527l164.20724,67.02567c2.17493,1.01554 5.43733,1.01554 7.61226,1.01554c6.52479,0 14.13705,-4.06216 16.31198,-10.15541c4.34986,-9.13986 0,-18.27973 -9.78719,-22.34189l-30.44903,-12.18649l0,-38.59054c0,-7.10878 -4.34986,-13.20203 -10.87465,-16.24865l-184.86908,-72.10338l0,-30.46622l164.20724,67.02567l41.32368,17.26419c2.17493,1.01554 5.43733,1.01554 7.61226,1.01554c6.52479,0 14.13705,-4.06216 16.31198,-10.15541c4.34986,-9.13986 0,-18.27973 -9.78719,-22.34189l-30.44903,-12.18649l0,-37.575c0,-7.10878 -4.34986,-13.20203 -10.87465,-16.24865l-184.86908,-72.10338l0,-35.54392l210.96825,86.32094c2.17493,1.01554 5.43733,1.01554 7.61226,1.01554c6.52479,0 14.13705,-4.06216 16.31198,-10.15541c4.34986,-9.13986 0,-18.27973 -9.78719,-22.34189l-23.92423,-10.15541l0,-42.6527c0,-7.10878 -4.34986,-13.20203 -10.87465,-15.23311l-184.86908,-74.13446l0,-30.46622l164.20724,67.02567l47.84847,19.29527c2.17493,1.01554 5.43733,1.01554 7.61226,1.01554c6.52479,0 14.13705,-4.06216 16.31198,-10.15541c4.34986,-9.13986 0,-18.27973 -9.78719,-22.34189l-30.44903,-12.18649l0,-32.4973c0,-7.10878 -4.34986,-13.20203 -10.87465,-16.24865l-195.74373,-76.16554c-5.43733,-2.03108 -11.96212,-2.03108 -17.39944,2.03108s-8.69972,8.12432 -8.69972,14.21757l0,13.20203l-22.83677,-9.13986c-9.78719,-4.06216 -19.57437,0 -23.92423,9.13986c-4.34986,9.13986 0,18.27973 9.78719,22.34189l38.06128,15.23311l0,55.85473l0,26.40405l-22.83677,-9.13986c-9.78719,-4.06216 -19.57437,0 -23.92423,9.13986c-4.34986,9.13986 0,18.27973 9.78719,22.34189l38.06128,15.23311l0,61.94797l0,17.26419l-22.83677,-9.13986c-9.78719,-4.06216 -19.57437,0 -23.92423,9.13986c-4.34986,9.13986 0,18.27973 9.78719,22.34189l38.06128,15.23311l0,60.93243l0,19.29527l-3.2624,0z" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.5" fill="#96A2B5"/>
+  </g>
+ </g>
+</svg>
+<path d="M1 120H1119" stroke="#7CA3D2" stroke-opacity=".16"/>
+<text x="45.00" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">A</text>
+<text x="65.78" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">complete</text>
+<text x="160.83" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">suite</text>
+<text x="213.09" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">for</text>
+<text x="244.66" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">automating</text>
+<text x="359.00" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">drilling</text>
+<text x="428.72" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">or</text>
+<text x="454.39" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">riveting</text>
+<text x="530.67" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">operations.</text>
+<text x="644.97" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">It</text>
+<text x="663.30" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">detects</text>
+<text x="739.98" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">circular</text>
+<text x="816.92" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">edges</text>
+<text x="882.86" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">on</text>
+<text x="913.44" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">the</text>
+<text x="950.00" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">3D</text>
+<text x="984.23" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">model</text>
+<text x="1050.17" y="163.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">to</text>
+<text x="45.00" y="197.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">extract</text>
+<text x="116.45" y="197.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">centers</text>
+<text x="194.62" y="197.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">and</text>
+<text x="237.44" y="197.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">normal</text>
+<text x="310.80" y="197.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">vectors</text>
+<text x="387.39" y="197.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">automatically.</text>
+<text x="50" y="241" fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" >•</text>
+<text x="77.00" y="241.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#E8F0FE">Operation</text>
+<text x="187.00" y="241.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#E8F0FE">Modes:</text>
+<text x="77" y="280" fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" >•</text>
+<text x="104.00" y="280.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#E8F0FE">Manual:</text>
+<text x="193.22" y="280.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">Step-by-step</text>
+<text x="322.41" y="280.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">definition</text>
+<text x="416.47" y="280.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">(Start/End</text>
+<text x="522.78" y="280.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">points)</text>
+<text x="594.92" y="280.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">for</text>
+<text x="626.48" y="280.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">visual</text>
+<text x="688.84" y="280.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">depth</text>
+<text x="749.81" y="280.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">control.</text>
+<text x="77" y="319" fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" >•</text>
+<text x="104.00" y="319.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#E8F0FE">Precision:</text>
+<text x="216.56" y="319.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">Apply</text>
+<text x="277.59" y="319.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">specific</text>
+<text x="357.06" y="319.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">numeric</text>
+<text x="441.44" y="319.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">depth</text>
+<text x="502.41" y="319.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">values</text>
+<text x="571.64" y="319.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">to</text>
+<text x="595.83" y="319.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">single</text>
+<text x="659.30" y="319.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">holes.</text>
+<text x="77" y="358" fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" >•</text>
+<text x="104.00" y="358.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#E8F0FE">Batch</text>
+<text x="170.89" y="358.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#E8F0FE">Processing:</text>
+<text x="303.50" y="358.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">The</text>
+<text x="347.41" y="358.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#E8F0FE">&quot;Crown</text>
+<text x="432.08" y="358.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#E8F0FE">Jewel&quot;</text>
+<text x="508.27" y="358.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">feature—select</text>
+<text x="661.39" y="358.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">dozens</text>
+<text x="737.55" y="358.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">of</text>
+<text x="762.00" y="358.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">holes</text>
+<text x="820.61" y="358.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">and</text>
+<text x="863.42" y="358.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">apply</text>
+<text x="922.02" y="358.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">global</text>
+<text x="986.72" y="358.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">drilling</text>
+<text x="104.00" y="392.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">parameters</text>
+<text x="220.88" y="392.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">to</text>
+<text x="245.06" y="392.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">all</text>
+<text x="273.19" y="392.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">of</text>
+<text x="297.64" y="392.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">them</text>
+<text x="352.53" y="392.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">instantly.</text>
+<text x="50" y="431" fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" >•</text>
+<text x="77.00" y="431.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#E8F0FE">Full</text>
+<text x="121.66" y="431.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#E8F0FE">Simulation:</text>
+<text x="247.47" y="431.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">Generates</text>
+<text x="355.56" y="431.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">complete</text>
+<text x="450.61" y="431.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">Approach,</text>
+<text x="556.88" y="431.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">Drill,</text>
+<text x="606.62" y="431.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">and</text>
+<text x="649.44" y="431.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">Retract</text>
+<text x="726.00" y="431.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">targets</text>
+<text x="798.94" y="431.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">within</text>
+<text x="861.17" y="431.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">RoboDK</text>
+<text x="77.00" y="465.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#C0D0E4">automatically.</text>
+</svg>
