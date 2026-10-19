@@ -998,8 +998,6 @@
 
 <img src="./docs/readme-svg/section-robodk-process-automation.svg" width="100%" alt="RoboDK &amp; Process Automation">
 
-<img src="./docs/readme-svg/LINE.svg" width="100%" alt="78">
-
 <a id="weld-data-to-robodk" name="weld-data-to-robodk"></a>
 
 <img src="./docs/readme-svg/tool-weld-data-to-robodk.svg" width="100%" alt="Export To .rdk Project — Automated Welding Path &amp; Program Generation.">
