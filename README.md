@@ -730,7 +730,7 @@
 
 <a href="#toolbar-layout"><img src="./docs/readme-svg/back-index.svg" width="280" alt="Tool index"></a> <a href="#top"><img src="./docs/readme-svg/back-top.svg" width="280" alt="Back to top"></a>
 
-
+<img src="./docs/readme-svg/double.svg" width="100%" alt="78">
 
 <a id="datum-alignment-tools" name="datum-alignment-tools"></a>
 
@@ -752,6 +752,8 @@
 <a href="./Datum_321_Alignment/Recursive_Visibility"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Toggle Visibility Recursive"></a>
 </p>
 
+<img src="./docs/readme-svg/LINE.svg" width="100%" alt="78">
+
 <a id="create-center-point" name="create-center-point"></a>
 
 <img src="./docs/readme-svg/tool-create-center-point.svg" width="100%" alt="Create Center Point — Calculates geometric centers for quick referencing.">
@@ -767,6 +769,8 @@
 <p align="center">
 <a href="./Datum_321_Alignment/Center_Point"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Create Center Point"></a>
 </p>
+
+<img src="./docs/readme-svg/LINE.svg" width="100%" alt="78">
 
 <a id="create-sphere-at-origin" name="create-sphere-at-origin"></a>
 
@@ -786,69 +790,22 @@
 
 <img src="./docs/readme-svg/category 3-2-1 Datum Based Alignment.svg" width="100%" alt="category 3-2-1 Datum Based Alignment">
 
+<img src="./docs/readme-svg/LINE.svg" width="100%" alt="78">
+
 <a id="datum-a" name="datum-a"></a>
 
 <img src="./docs/readme-svg/tool-datum-a.svg" width="100%" alt="Datum A — Define the primary reference for the alignment system.">
 
-<p align="center">
-<a href="https://www.youtube.com/watch?v=HbsH8DEtrP8">
-        <img src="https://img.youtube.com/vi/HbsH8DEtrP8/maxresdefault.jpg" width="450" alt="Weight After Welding Demo">
-      </a>
-<br>
-<a href="https://youtu.be/HbsH8DEtrP8"><strong>FreeCAD plugin welded part weight report Demo</strong></a>
-</p>
-
-<p align="center">
-<a href="./Datum_321_Alignment/Create_Sphere_Origin"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Datum A"></a>
-</p>
 
 <a id="datum-b" name="datum-b"></a>
 
 <img src="./docs/readme-svg/tool-datum-b.svg" width="100%" alt="Datum B — Define the secondary direction of the coordinate system.">
 
-<p align="center">
-<a href="https://www.youtube.com/watch?v=HbsH8DEtrP8">
-        <img src="https://img.youtube.com/vi/HbsH8DEtrP8/maxresdefault.jpg" width="450" alt="Weight After Welding Demo">
-      </a>
-<br>
-<a href="https://youtu.be/HbsH8DEtrP8"><strong>FreeCAD plugin welded part weight report Demo</strong></a>
-</p>
-
-<p align="center">
-<a href="./Datum_321_Alignment/Create_Sphere_Origin"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Datum B"></a>
-</p>
-
 <a id="datum-c" name="datum-c"></a>
 
 <img src="./docs/readme-svg/tool-datum-c.svg" width="100%" alt="Datum C — Define the final reference required for positioning.">
 
-<p align="center">
-<a href="https://www.youtube.com/watch?v=HbsH8DEtrP8">
-        <img src="https://img.youtube.com/vi/HbsH8DEtrP8/maxresdefault.jpg" width="450" alt="Weight After Welding Demo">
-      </a>
-<br>
-<a href="https://youtu.be/HbsH8DEtrP8"><strong>FreeCAD plugin welded part weight report Demo</strong></a>
-</p>
-
-<p align="center">
-<a href="./Datum_321_Alignment/Create_Sphere_Origin"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Datum C"></a>
-</p>
-
 <a id="3-2-1-alignment" name="3-2-1-alignment"></a>
-
-<img src="./docs/readme-svg/tool-3-2-1-alignment.svg" width="100%" alt="3-2-1 Datum-Based Alignment — This suite provides a step-by-step workflow to establish a definitive coordinate system (CSYS) using standard 3-2-1 alignment logic. It guides you from reference identification to assembly-safe model repositioning">
-
-<p align="center">
-<a href="https://www.youtube.com/watch?v=HbsH8DEtrP8">
-        <img src="https://img.youtube.com/vi/HbsH8DEtrP8/maxresdefault.jpg" width="450" alt="Weight After Welding Demo">
-      </a>
-<br>
-<a href="https://youtu.be/HbsH8DEtrP8"><strong>FreeCAD plugin welded part weight report Demo</strong></a>
-</p>
-
-<p align="center">
-<a href="./Datum_321_Alignment/Create_Sphere_Origin"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for 3-2-1 Datum-Based Alignment"></a>
-</p>
 
 <a id="move-model-to-origin" name="move-model-to-origin"></a>
 
@@ -868,6 +825,8 @@
 
 <img src="./docs/readme-svg/category tools.svg" width="100%" alt="category tools">
 
+<img src="./docs/readme-svg/LINE.svg" width="100%" alt="78">
+
 <a id="reset-pos" name="reset-pos"></a>
 
 <img src="./docs/readme-svg/tool-reset-pos.svg" width="100%" alt="Reset Position — Toggle transformation reset and coordinate zeroing">
@@ -883,6 +842,8 @@
 <p align="center">
 <a href="./MANUFAI_Workbench/Reset_Position"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Reset Position"></a>
 </p>
+
+<img src="./docs/readme-svg/LINE.svg" width="100%" alt="78">
 
 <a id="show-welding-widget-command" name="show-welding-widget-command"></a>
 
@@ -900,6 +861,8 @@
 <a href="./Datum_321_Alignment/Welding_Reference"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Show Welding Widget"></a>
 </p>
 
+<img src="./docs/readme-svg/LINE.svg" width="100%" alt="78">
+
 <a id="launch-find-data-panel" name="launch-find-data-panel"></a>
 
 <img src="./docs/readme-svg/tool-launch-find-data-panel.svg" width="100%" alt="Launch Find Data Panel — Centralized control for weld tracking and interoperability.">
@@ -915,6 +878,8 @@
 <p align="center">
 <a href="./Datum_321_Alignment/Find_Data_Panel"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Launch Find Data Panel"></a>
 </p>
+
+<img src="./docs/readme-svg/LINE.svg" width="100%" alt="78">
 
 <a id="focus-object-command" name="focus-object-command"></a>
 
@@ -932,6 +897,8 @@
 <a href="./Datum_321_Alignment/Focus_on_Object"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Focus Object"></a>
 </p>
 
+<img src="./docs/readme-svg/LINE.svg" width="100%" alt="78">
+
 <a id="move-weld-lines" name="move-weld-lines"></a>
 
 <img src="./docs/readme-svg/tool-move-weld-lines.svg" width="100%" alt="Move Weld Lines — Precision Trajectory Re-positioning.">
@@ -947,6 +914,8 @@
 <p align="center">
 <a href="./Datum_321_Alignment/Smart_Discretize"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Move Weld Lines"></a>
 </p>
+
+<img src="./docs/readme-svg/LINE.svg" width="100%" alt="78">
 
 <a id="discretize" name="discretize"></a>
 
@@ -965,6 +934,8 @@
 </p>
 
 <a href="#toolbar-layout"><img src="./docs/readme-svg/back-index.svg" width="280" alt="Tool index"></a> <a href="#top"><img src="./docs/readme-svg/back-top.svg" width="280" alt="Back to top"></a>
+
+<img src="./docs/readme-svg/double.svg" width="100%" alt="78">
 
 <a id="c3p-wdcurve-tools" name="c3p-wdcurve-tools"></a>
 
@@ -985,6 +956,7 @@
 <p align="center">
 <a href="./C3P_WdCurve_Tools/Line_Weld_Table"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Line Weld Table"></a>
 </p>
+
 
 <a id="show-names" name="show-names"></a>
 
@@ -1020,9 +992,13 @@
 
 <a href="#toolbar-layout"><img src="./docs/readme-svg/back-index.svg" width="280" alt="Tool index"></a> <a href="#top"><img src="./docs/readme-svg/back-top.svg" width="280" alt="Back to top"></a>
 
+<img src="./docs/readme-svg/double.svg" width="100%" alt="78">
+
 <a id="robodk-process-automation" name="robodk-process-automation"></a>
 
 <img src="./docs/readme-svg/section-robodk-process-automation.svg" width="100%" alt="RoboDK &amp; Process Automation">
+
+<img src="./docs/readme-svg/LINE.svg" width="100%" alt="78">
 
 <a id="weld-data-to-robodk" name="weld-data-to-robodk"></a>
 
@@ -1090,6 +1066,8 @@
 <a href="./RoboDK_Process_Automation/RoboDK_Export_Tools"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Export Selected"></a>
 </p>
 
+<img src="./docs/readme-svg/LINE.svg" width="100%" alt="78">
+
 <a id="glue-manager" name="glue-manager"></a>
 
 <img src="./docs/readme-svg/tool-glue-manager.svg" width="100%" alt="Glue Manager — Weld-to-Dispensing Path Conversion.">
@@ -1106,6 +1084,8 @@
 <a href="./RoboDK_Process_Automation/Glue_Manager"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Glue Manager"></a>
 </p>
 
+<img src="./docs/readme-svg/LINE.svg" width="100%" alt="78">
+
 <a id="drilling-manager" name="drilling-manager"></a>
 
 <img src="./docs/readme-svg/tool-drilling-manager.svg" width="100%" alt="Drilling Manager — Automated Hole &amp; Rivet Processing.">
@@ -1121,5 +1101,7 @@
 <p align="center">
 <a href="./RoboDK_Process_Automation/Drilling_Manager"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Drilling Manager"></a>
 </p>
+
+<img src="./docs/readme-svg/double.svg" width="100%" alt="78">
 
 <a href="#toolbar-layout"><img src="./docs/readme-svg/back-index.svg" width="280" alt="Tool index"></a> <a href="#top"><img src="./docs/readme-svg/back-top.svg" width="280" alt="Back to top"></a>
