@@ -364,11 +364,11 @@
 <a href="https://youtu.be/TU_ENLACE"><strong>Robotic Cell &amp; Assignment Manager - FreeCAD Plugin Demo</strong></a>
 </p>
 
-<img src="./docs/readme-svg/LINE.svg" width="100%" alt="78">
-
 <p align="center">
 <a href="./MANUFAI_Workbench/Robot_Assignment"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Assign Welds To Robots"></a>
 </p>
+
+<img src="./docs/readme-svg/LINE.svg" width="100%" alt="78">
 
 <a id="subassembly" name="subassembly"></a>
 
