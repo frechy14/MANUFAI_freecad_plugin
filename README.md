@@ -746,6 +746,8 @@
 <a href="./Datum_321_Alignment/Create_Sphere_Origin"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Create Sphere at Origin"></a>
 </p>
 
+<img src="./docs/readme-svg/category 3-2-1 Datum Based Alignment.svg" width="100%" alt="category 3-2-1 Datum Based Alignment">
+
 <a id="datum-a" name="datum-a"></a>
 
 <img src="./docs/readme-svg/tool-datum-a.svg" width="100%" alt="Datum A — Define the primary reference for the alignment system.">
@@ -825,6 +827,8 @@
 <p align="center">
 <a href="./Datum_321_Alignment/Create_Sphere_Origin"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Move Model To Origin"></a>
 </p>
+
+<img src="./docs/readme-svg/category tools.svg" width="100%" alt="category tools">
 
 <a id="reset-pos" name="reset-pos"></a>
 
