@@ -496,6 +496,8 @@
 <a href="./C3P_WdCurve_Tools/Weld_Loader_Pro"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Assign Process"></a>
 </p>
 
+<img src="./docs/readme-svg/LINE.svg" width="100%" alt="78">
+
 <a id="welding-parameters" name="welding-parameters"></a>
 
 <img src="./docs/readme-svg/tool-welding-parameters.svg" width="100%" alt="Welding Parameters — Define the heat source used by the welding process.">
@@ -527,6 +529,8 @@
 <p align="center">
 <a href="./C3P_WdCurve_Tools/Weld_Loader_Pro"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Assign Welding Parameters"></a>
 </p>
+
+<img src="./docs/readme-svg/LINE.svg" width="100%" alt="78">
 
 <a id="cycle-time" name="cycle-time"></a>
 
@@ -581,6 +585,8 @@
 <p align="center">
 <a href="./C3P_WdCurve_Tools/Weld_Loader_Pro"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Assign Materials"></a>
 </p>
+
+<img src="./docs/readme-svg/LINE.svg" width="100%" alt="78">
 
 <a id="weight-of-welding-and-welded-part" name="weight-of-welding-and-welded-part"></a>
 
