@@ -364,6 +364,8 @@
 <a href="https://youtu.be/TU_ENLACE"><strong>Robotic Cell &amp; Assignment Manager - FreeCAD Plugin Demo</strong></a>
 </p>
 
+<img src="./docs/readme-svg/LINE.svg" width="100%" alt="78">
+
 <p align="center">
 <a href="./MANUFAI_Workbench/Robot_Assignment"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Assign Welds To Robots"></a>
 </p>
@@ -400,6 +402,8 @@
 <a href="./MANUFAI_Workbench/SubAssembly_Manager"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Assign Positions"></a>
 </p>
 
+<img src="./docs/readme-svg/LINE.svg" width="100%" alt="78">
+
 <a id="move-subassembly" name="move-subassembly"></a>
 
 <img src="./docs/readme-svg/tool-move-subassembly.svg" width="100%" alt="Move SubAssembly — Move CAD parts between SubAssemblies using drag and drop.">
@@ -431,6 +435,8 @@
 <p align="center">
 <a href="./C3P_WdCurve_Tools/Weld_Loader_Pro"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Move Welds"></a>
 </p>
+
+<img src="./docs/readme-svg/double.svg" width="100%" alt="78">
 
 <a id="length" name="length"></a>
 
