@@ -26,6 +26,8 @@
 <a href="https://www.manufai.com/freecad"><img src="./docs/readme-svg/open-download.svg" width="280" alt="Download plugin"></a> <a href="https://youtu.be/3LZCjwZW4YY"><img src="./docs/readme-svg/installation-tutorial.svg" width="280" alt="Installation tutorial"></a>
 </p>
 
+<img src="./docs/readme-svg/double.svg" width="100%" alt="78">
+
 <a id="activation" name="activation"></a>
 
 <img src="./docs/readme-svg/activation.svg" width="100%" alt="Activation">
@@ -34,9 +36,13 @@
 <a href="https://youtu.be/MNOla3Mc2aI"><img src="./docs/readme-svg/activation-tutorial.svg" width="280" alt="Activation tutorial"></a>
 </p>
 
+<img src="./docs/readme-svg/double.svg" width="100%" alt="78">
+
 <a id="plugin-component-manager" name="plugin-component-manager"></a>
 
 <img src="./docs/readme-svg/component-manager.svg" width="100%" alt="Plugin Component Manager">
+
+<img src="./docs/readme-svg/double.svg" width="100%" alt="78">
 
 <a id="repository-resources" name="repository-resources"></a>
 
@@ -121,6 +127,8 @@
 <br>
 <a href="#drilling-manager"><img src="./docs/readme-svg/nav-drilling-manager.svg" width="24%" alt="Drilling Manager"></a>
 </p>
+
+<img src="./docs/readme-svg/double.svg" width="100%" alt="78">
 
 <a id="manufai-workbench" name="manufai-workbench"></a>
 
