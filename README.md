@@ -458,6 +458,8 @@
 <a href="./MANUFAI_Workbench/Reports"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Weld Length Report"></a>
 </p>
 
+<img src="./docs/readme-svg/double.svg" width="100%" alt="78">
+
 <a id="cycle-time-tools" name="cycle-time-tools"></a>
 
 <img src="./docs/readme-svg/category-cycle-time-tools.svg" width="100%" alt="Cycle Time">
@@ -542,6 +544,8 @@
 <a href="./MANUFAI_Workbench/Find_Weld_Edges"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Cycle Time"></a>
 </p>
 
+<img src="./docs/readme-svg/double.svg" width="100%" alt="78">
+
 <a id="weight" name="weight"></a>
 
 <img src="./docs/readme-svg/category-weight.svg" width="100%" alt="Weight">
@@ -594,6 +598,8 @@
 <a href="./MANUFAI_Workbench/Weight_Report"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Weight of Welding and Welded Part"></a>
 </p>
 
+<img src="./docs/readme-svg/double.svg" width="100%" alt="78">
+
 <a id="wso" name="wso"></a>
 
 <img src="./docs/readme-svg/category-wso.svg" width="100%" alt="Welding Sequence AI Advisor">
@@ -609,6 +615,8 @@
 <br>
 <a href="https://youtu.be/HbsH8DEtrP8"><strong>FreeCAD plugin welded part weight report Demo</strong></a>
 </p>
+
+<img src="./docs/readme-svg/LINE.svg" width="100%" alt="78">
 
 <p align="center">
 <a href="./MANUFAI_Workbench/Weight_Report"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Export STL"></a>
@@ -637,6 +645,8 @@
 <p align="center">
 <a href="./MANUFAI_Workbench/Sequence_AI_Advisor"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Export As DK Project"></a>
 </p>
+
+<img src="./docs/readme-svg/double.svg" width="100%" alt="78">
 
 <a id="simulation" name="simulation"></a>
 
