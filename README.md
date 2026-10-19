@@ -2,25 +2,25 @@
 
 <a id="top" name="top"></a>
 
-<a name="readme-image-001" href="#readme-image-001"><img src="./docs/readme-svg/manufai-hero.svg" width="100%" alt="MANUFAI FreeCAD Plugin — Welding engineering &amp; simulation"></a>
+<a name="readme-image-001" href="#toolbar-layout"><img src="./docs/readme-svg/manufai-hero.svg" width="100%" alt="MANUFAI FreeCAD Plugin — Welding engineering &amp; simulation"></a>
 
 <a id="overview" name="overview"></a>
 
-<a name="readme-image-002" href="#readme-image-002"><img src="./docs/readme-svg/overview.svg" width="100%" alt="Welding engineering &amp; simulation"></a>
+<a name="readme-image-002" href="#toolbar-layout"><img src="./docs/readme-svg/overview.svg" width="100%" alt="Welding engineering &amp; simulation"></a>
 
 <a id="key-capabilities" name="key-capabilities"></a>
 
-<a name="readme-image-003" href="#readme-image-003"><img src="./docs/readme-svg/key-capabilities.svg" width="100%" alt="Key capabilities"></a>
+<a name="readme-image-003" href="#toolbar-layout"><img src="./docs/readme-svg/key-capabilities.svg" width="100%" alt="Key capabilities"></a>
 
 <a id="interoperability" name="interoperability"></a>
 
-<a name="readme-image-004" href="#readme-image-004"><img src="./docs/readme-svg/interoperability.svg" width="100%" alt="Interoperability: from CAD to manufacturing"></a>
+<a name="readme-image-004" href="#toolbar-layout"><img src="./docs/readme-svg/interoperability.svg" width="100%" alt="Interoperability: from CAD to manufacturing"></a>
 
 <a name="readme-image-005" href="#readme-image-005"><img src="./docs/readme-svg/double.svg" width="100%" alt="78"></a>
 
 <a id="installation" name="installation"></a>
 
-<a name="readme-image-006" href="#readme-image-006"><img src="./docs/readme-svg/installation.svg" width="100%" alt="Download &amp; installation"></a>
+<a name="readme-image-006" href="#toolbar-layout"><img src="./docs/readme-svg/installation.svg" width="100%" alt="Download &amp; installation"></a>
 
 <p align="center">
 <a href="https://www.manufai.com/freecad"><img src="./docs/readme-svg/open-download.svg" width="280" alt="Download plugin"></a> <a href="https://youtu.be/3LZCjwZW4YY"><img src="./docs/readme-svg/installation-tutorial.svg" width="280" alt="Installation tutorial"></a>
@@ -30,7 +30,7 @@
 
 <a id="activation" name="activation"></a>
 
-<a name="readme-image-008" href="#readme-image-008"><img src="./docs/readme-svg/activation.svg" width="100%" alt="Activation"></a>
+<a name="readme-image-008" href="#toolbar-layout"><img src="./docs/readme-svg/activation.svg" width="100%" alt="Activation"></a>
 
 <p align="center">
 <a href="https://youtu.be/MNOla3Mc2aI"><img src="./docs/readme-svg/activation-tutorial.svg" width="280" alt="Activation tutorial"></a>
@@ -40,13 +40,13 @@
 
 <a id="plugin-component-manager" name="plugin-component-manager"></a>
 
-<a name="readme-image-010" href="#readme-image-010"><img src="./docs/readme-svg/component-manager.svg" width="100%" alt="Plugin Component Manager"></a>
+<a name="readme-image-010" href="#toolbar-layout"><img src="./docs/readme-svg/component-manager.svg" width="100%" alt="Plugin Component Manager"></a>
 
 <a name="readme-image-011" href="#readme-image-011"><img src="./docs/readme-svg/double.svg" width="100%" alt="78"></a>
 
 <a id="repository-resources" name="repository-resources"></a>
 
-<a name="readme-image-012" href="#readme-image-012"><img src="./docs/readme-svg/repository-resources.svg" width="100%" alt="Repository structure &amp; test resources"></a>
+<a name="readme-image-012" href="#toolbar-layout"><img src="./docs/readme-svg/repository-resources.svg" width="100%" alt="Repository structure &amp; test resources"></a>
 
 <a id="toolbar-layout" name="toolbar-layout"></a>
 
@@ -197,15 +197,15 @@
 
 <a id="manufai-workbench" name="manufai-workbench"></a>
 
-<a name="readme-image-014" href="#readme-image-014"><img src="./docs/readme-svg/section-manufai-workbench.svg" width="100%" alt="MANUFAI Workbench"></a>
+<a name="readme-image-014" href="#toolbar-layout"><img src="./docs/readme-svg/section-manufai-workbench.svg" width="100%" alt="MANUFAI Workbench"></a>
 
 <a id="make-weld-trajectories" name="make-weld-trajectories"></a>
 
-<a name="readme-image-015" href="#readme-image-015"><img src="./docs/readme-svg/category-make-weld-trajectories.svg" width="100%" alt="Make Weld Trajectories"></a>
+<a name="readme-image-015" href="#toolbar-layout"><img src="./docs/readme-svg/category-make-weld-trajectories.svg" width="100%" alt="Make Weld Trajectories"></a>
 
 <a id="edge-split" name="edge-split"></a>
 
-<a name="readme-image-016" href="#readme-image-016"><img src="./docs/readme-svg/tool-edge-split.svg" width="100%" alt="Edge Split — Geometric Extraction &amp; Intersection"></a>
+<a name="readme-image-016" href="#toolbar-layout"><img src="./docs/readme-svg/tool-edge-split.svg" width="100%" alt="Edge Split — Geometric Extraction &amp; Intersection"></a>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=BuyjTM-gB38">
@@ -221,7 +221,7 @@
 
 <a id="find-weldable-edges" name="find-weldable-edges"></a>
 
-<a name="readme-image-017" href="#readme-image-017"><img src="./docs/readme-svg/tool-find-weldable-edges.svg" width="100%" alt="Find Weldable Edges — Weldable Union Recognition &amp; Filtering"></a>
+<a name="readme-image-017" href="#toolbar-layout"><img src="./docs/readme-svg/tool-find-weldable-edges.svg" width="100%" alt="Find Weldable Edges — Weldable Union Recognition &amp; Filtering"></a>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=BuyjTM-gB38">
@@ -239,11 +239,11 @@
 
 <a id="weld-creators" name="weld-creators"></a>
 
-<a name="readme-image-019" href="#readme-image-019"><img src="./docs/readme-svg/tool-weld-creators.svg" width="100%" alt="Weld Creators — Trajectory Generation"></a>
+<a name="readme-image-019" href="#toolbar-layout"><img src="./docs/readme-svg/tool-weld-creators.svg" width="100%" alt="Weld Creators — Trajectory Generation"></a>
 
 <a id="weld-creators-make-weld" name="weld-creators-make-weld"></a>
 
-<a name="readme-image-020" href="#readme-image-020"><img src="./docs/readme-svg/weld-creators-make-weld.svg" width="100%" alt="Weld Creators — Make Weld"></a>
+<a name="readme-image-020" href="#toolbar-layout"><img src="./docs/readme-svg/weld-creators-make-weld.svg" width="100%" alt="Weld Creators — Make Weld"></a>
 
 <p align="center">
 <a href="https://youtu.be/QdZxZB9vzDA">
@@ -255,7 +255,7 @@
 
 <a id="weld-creators-make-weld-with-all-edges" name="weld-creators-make-weld-with-all-edges"></a>
 
-<a name="readme-image-021" href="#readme-image-021"><img src="./docs/readme-svg/weld-creators-make-weld-with-all-edges.svg" width="100%" alt="Weld Creators — Make Weld with All Edges"></a>
+<a name="readme-image-021" href="#toolbar-layout"><img src="./docs/readme-svg/weld-creators-make-weld-with-all-edges.svg" width="100%" alt="Weld Creators — Make Weld with All Edges"></a>
 
 <p align="center">
 <a href="https://youtu.be/QdZxZB9vzDA">
@@ -267,7 +267,7 @@
 
 <a id="weld-creators-make-weld-with-specific-length" name="weld-creators-make-weld-with-specific-length"></a>
 
-<a name="readme-image-022" href="#readme-image-022"><img src="./docs/readme-svg/weld-creators-make-weld-with-specific-length.svg" width="100%" alt="Weld Creators — Make Weld with Specific Length"></a>
+<a name="readme-image-022" href="#toolbar-layout"><img src="./docs/readme-svg/weld-creators-make-weld-with-specific-length.svg" width="100%" alt="Weld Creators — Make Weld with Specific Length"></a>
 
 <p align="center">
 <a href="https://youtu.be/QdZxZB9vzDA">
@@ -279,7 +279,7 @@
 
 <a id="weld-creators-make-weld-with-chosen-points" name="weld-creators-make-weld-with-chosen-points"></a>
 
-<a name="readme-image-023" href="#readme-image-023"><img src="./docs/readme-svg/weld-creators-make-weld-with-chosen-points.svg" width="100%" alt="Weld Creators — Make Weld with Chosen Points"></a>
+<a name="readme-image-023" href="#toolbar-layout"><img src="./docs/readme-svg/weld-creators-make-weld-with-chosen-points.svg" width="100%" alt="Weld Creators — Make Weld with Chosen Points"></a>
 
 <p align="center">
 <a href="https://youtu.be/QdZxZB9vzDA">
@@ -291,7 +291,7 @@
 
 <a id="weld-creators-make-weld-with-multiple-specific-lengths" name="weld-creators-make-weld-with-multiple-specific-lengths"></a>
 
-<a name="readme-image-024" href="#readme-image-024"><img src="./docs/readme-svg/weld-creators-make-weld-with-multiple-specific-lengths.svg" width="100%" alt="Weld Creators — Make Weld with Multiple Specific Lengths"></a>
+<a name="readme-image-024" href="#toolbar-layout"><img src="./docs/readme-svg/weld-creators-make-weld-with-multiple-specific-lengths.svg" width="100%" alt="Weld Creators — Make Weld with Multiple Specific Lengths"></a>
 
 <p align="center">
 <a href="https://youtu.be/QdZxZB9vzDA">
@@ -303,7 +303,7 @@
 
 <a id="weld-creators-by-bead-quantity" name="weld-creators-by-bead-quantity"></a>
 
-<a name="readme-image-025" href="#readme-image-025"><img src="./docs/readme-svg/weld-creators-by-bead-quantity.svg" width="100%" alt="Weld Creators — By Bead Quantity"></a>
+<a name="readme-image-025" href="#toolbar-layout"><img src="./docs/readme-svg/weld-creators-by-bead-quantity.svg" width="100%" alt="Weld Creators — By Bead Quantity"></a>
 
 <p align="center">
 <a href="https://youtu.be/QdZxZB9vzDA">
@@ -315,7 +315,7 @@
 
 <a id="weld-creators-by-bead-length" name="weld-creators-by-bead-length"></a>
 
-<a name="readme-image-026" href="#readme-image-026"><img src="./docs/readme-svg/weld-creators-by-bead-length.svg" width="100%" alt="Weld Creators — By Bead Length"></a>
+<a name="readme-image-026" href="#toolbar-layout"><img src="./docs/readme-svg/weld-creators-by-bead-length.svg" width="100%" alt="Weld Creators — By Bead Length"></a>
 
 <p align="center">
 <a href="https://youtu.be/QdZxZB9vzDA">
@@ -327,7 +327,7 @@
 
 <a id="weld-creators-by-bead-pitch" name="weld-creators-by-bead-pitch"></a>
 
-<a name="readme-image-027" href="#readme-image-027"><img src="./docs/readme-svg/weld-creators-by-bead-pitch.svg" width="100%" alt="Weld Creators — By Bead Pitch"></a>
+<a name="readme-image-027" href="#toolbar-layout"><img src="./docs/readme-svg/weld-creators-by-bead-pitch.svg" width="100%" alt="Weld Creators — By Bead Pitch"></a>
 
 <p align="center">
 <a href="https://youtu.be/QdZxZB9vzDA">
@@ -345,7 +345,7 @@
 
 <a id="add-normals" name="add-normals"></a>
 
-<a name="readme-image-029" href="#readme-image-029"><img src="./docs/readme-svg/tool-add-normals.svg" width="100%" alt="Add Normals — Create and define orientation normals along the welding path"></a>
+<a name="readme-image-029" href="#toolbar-layout"><img src="./docs/readme-svg/tool-add-normals.svg" width="100%" alt="Add Normals — Create and define orientation normals along the welding path"></a>
 
 <p align="center">
 <a href="https://youtu.be/QdZxZB9vzDA">
@@ -363,7 +363,7 @@
 
 <a id="surface-weld" name="surface-weld"></a>
 
-<a name="readme-image-031" href="#readme-image-031"><img src="./docs/readme-svg/tool-surface-weld.svg" width="100%" alt="Surface Weld — Volumetric modeling and physical joint representation"></a>
+<a name="readme-image-031" href="#toolbar-layout"><img src="./docs/readme-svg/tool-surface-weld.svg" width="100%" alt="Surface Weld — Volumetric modeling and physical joint representation"></a>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=5uwMWgmB7Lk">
@@ -381,7 +381,7 @@
 
 <a id="weld-loader" name="weld-loader"></a>
 
-<a name="readme-image-033" href="#readme-image-033"><img src="./docs/readme-svg/tool-weld-loader.svg" width="100%" alt="Weld Loader — Advanced Welding Data Importer &amp; Interoperability"></a>
+<a name="readme-image-033" href="#toolbar-layout"><img src="./docs/readme-svg/tool-weld-loader.svg" width="100%" alt="Weld Loader — Advanced Welding Data Importer &amp; Interoperability"></a>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=5uwMWgmB7Lk">
@@ -399,11 +399,11 @@
 
 <a id="positions" name="positions"></a>
 
-<a name="readme-image-035" href="#readme-image-035"><img src="./docs/readme-svg/category-positions.svg" width="100%" alt="Positions"></a>
+<a name="readme-image-035" href="#toolbar-layout"><img src="./docs/readme-svg/category-positions.svg" width="100%" alt="Positions"></a>
 
 <a id="make-positions" name="make-positions"></a>
 
-<a name="readme-image-036" href="#readme-image-036"><img src="./docs/readme-svg/tool-make-positions.svg" width="100%" alt="Make Positions Groups — Create and organize workstation position groups."></a>
+<a name="readme-image-036" href="#toolbar-layout"><img src="./docs/readme-svg/tool-make-positions.svg" width="100%" alt="Make Positions Groups — Create and organize workstation position groups."></a>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=5uwMWgmB7Lk">
@@ -419,7 +419,7 @@
 
 <a id="assign-welds-to-robots" name="assign-welds-to-robots"></a>
 
-<a name="readme-image-037" href="#readme-image-037"><img src="./docs/readme-svg/tool-assign-welds-to-robots.svg" width="100%" alt="Assign Welds To Robots — Define workstations and assign welds to specific robots"></a>
+<a name="readme-image-037" href="#toolbar-layout"><img src="./docs/readme-svg/tool-assign-welds-to-robots.svg" width="100%" alt="Assign Welds To Robots — Define workstations and assign welds to specific robots"></a>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=TU_ENLACE">
@@ -437,7 +437,7 @@
 
 <a id="subassembly" name="subassembly"></a>
 
-<a name="readme-image-039" href="#readme-image-039"><img src="./docs/readme-svg/tool-subassembly.svg" width="100%" alt="SubAssembly — Create and organize manufacturing SubAssemblies."></a>
+<a name="readme-image-039" href="#toolbar-layout"><img src="./docs/readme-svg/tool-subassembly.svg" width="100%" alt="SubAssembly — Create and organize manufacturing SubAssemblies."></a>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=5uwMWgmB7Lk">
@@ -453,7 +453,7 @@
 
 <a id="assign-positions" name="assign-positions"></a>
 
-<a name="readme-image-040" href="#readme-image-040"><img src="./docs/readme-svg/tool-assign-positions.svg" width="100%" alt="Assign Positions — Assign manufacturing positions to SubAssemblies"></a>
+<a name="readme-image-040" href="#toolbar-layout"><img src="./docs/readme-svg/tool-assign-positions.svg" width="100%" alt="Assign Positions — Assign manufacturing positions to SubAssemblies"></a>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=TU_ENLACE">
@@ -471,7 +471,7 @@
 
 <a id="move-subassembly" name="move-subassembly"></a>
 
-<a name="readme-image-042" href="#readme-image-042"><img src="./docs/readme-svg/tool-move-subassembly.svg" width="100%" alt="Move SubAssembly — Move CAD parts between SubAssemblies using drag and drop."></a>
+<a name="readme-image-042" href="#toolbar-layout"><img src="./docs/readme-svg/tool-move-subassembly.svg" width="100%" alt="Move SubAssembly — Move CAD parts between SubAssemblies using drag and drop."></a>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=TU_ENLACE">
@@ -487,7 +487,7 @@
 
 <a id="move-welds" name="move-welds"></a>
 
-<a name="readme-image-043" href="#readme-image-043"><img src="./docs/readme-svg/tool-move-welds.svg" width="100%" alt="Move Welds — Reassign weld trajectories between robots using drag and drop."></a>
+<a name="readme-image-043" href="#toolbar-layout"><img src="./docs/readme-svg/tool-move-welds.svg" width="100%" alt="Move Welds — Reassign weld trajectories between robots using drag and drop."></a>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=5uwMWgmB7Lk">
@@ -505,11 +505,11 @@
 
 <a id="length" name="length"></a>
 
-<a name="readme-image-045" href="#readme-image-045"><img src="./docs/readme-svg/category-length.svg" width="100%" alt="Length"></a>
+<a name="readme-image-045" href="#toolbar-layout"><img src="./docs/readme-svg/category-length.svg" width="100%" alt="Length"></a>
 
 <a id="weld-length-report" name="weld-length-report"></a>
 
-<a name="readme-image-046" href="#readme-image-046"><img src="./docs/readme-svg/tool-weld-length-report.svg" width="100%" alt="Weld Length Report — Production Reports &amp; Quotations"></a>
+<a name="readme-image-046" href="#toolbar-layout"><img src="./docs/readme-svg/tool-weld-length-report.svg" width="100%" alt="Weld Length Report — Production Reports &amp; Quotations"></a>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=hXmbLb0A_RI">
@@ -527,11 +527,11 @@
 
 <a id="cycle-time-tools" name="cycle-time-tools"></a>
 
-<a name="readme-image-048" href="#readme-image-048"><img src="./docs/readme-svg/category-cycle-time-tools.svg" width="100%" alt="Cycle Time"></a>
+<a name="readme-image-048" href="#toolbar-layout"><img src="./docs/readme-svg/category-cycle-time-tools.svg" width="100%" alt="Cycle Time"></a>
 
 <a id="process" name="process"></a>
 
-<a name="readme-image-049" href="#readme-image-049"><img src="./docs/readme-svg/tool-process.svg" width="100%" alt="Process — Define the welding process parameters."></a>
+<a name="readme-image-049" href="#toolbar-layout"><img src="./docs/readme-svg/tool-process.svg" width="100%" alt="Process — Define the welding process parameters."></a>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=5uwMWgmB7Lk">
@@ -547,7 +547,7 @@
 
 <a id="assign-process" name="assign-process"></a>
 
-<a name="readme-image-050" href="#readme-image-050"><img src="./docs/readme-svg/tool-assign-process.svg" width="100%" alt="Assign Process — Assign process information to welding trajectories."></a>
+<a name="readme-image-050" href="#toolbar-layout"><img src="./docs/readme-svg/tool-assign-process.svg" width="100%" alt="Assign Process — Assign process information to welding trajectories."></a>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=5uwMWgmB7Lk">
@@ -565,7 +565,7 @@
 
 <a id="welding-parameters" name="welding-parameters"></a>
 
-<a name="readme-image-052" href="#readme-image-052"><img src="./docs/readme-svg/tool-welding-parameters.svg" width="100%" alt="Welding Parameters — Define the heat source used by the welding process."></a>
+<a name="readme-image-052" href="#toolbar-layout"><img src="./docs/readme-svg/tool-welding-parameters.svg" width="100%" alt="Welding Parameters — Define the heat source used by the welding process."></a>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=5uwMWgmB7Lk">
@@ -581,7 +581,7 @@
 
 <a id="assign-welding-parameters" name="assign-welding-parameters"></a>
 
-<a name="readme-image-053" href="#readme-image-053"><img src="./docs/readme-svg/tool-assign-welding-parameters.svg" width="100%" alt="Assign Welding Parameters — Assign heat-source data to individual weld lines."></a>
+<a name="readme-image-053" href="#toolbar-layout"><img src="./docs/readme-svg/tool-assign-welding-parameters.svg" width="100%" alt="Assign Welding Parameters — Assign heat-source data to individual weld lines."></a>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=5uwMWgmB7Lk">
@@ -599,7 +599,7 @@
 
 <a id="cycle-time" name="cycle-time"></a>
 
-<a name="readme-image-055" href="#readme-image-055"><img src="./docs/readme-svg/tool-cycle-time.svg" width="100%" alt="Cycle Time — Sequence Verification &amp; Process Timing"></a>
+<a name="readme-image-055" href="#toolbar-layout"><img src="./docs/readme-svg/tool-cycle-time.svg" width="100%" alt="Cycle Time — Sequence Verification &amp; Process Timing"></a>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=Giv5xZ7Uw44">
@@ -617,11 +617,11 @@
 
 <a id="weight" name="weight"></a>
 
-<a name="readme-image-057" href="#readme-image-057"><img src="./docs/readme-svg/category-weight.svg" width="100%" alt="Weight"></a>
+<a name="readme-image-057" href="#toolbar-layout"><img src="./docs/readme-svg/category-weight.svg" width="100%" alt="Weight"></a>
 
 <a id="create-materials" name="create-materials"></a>
 
-<a name="readme-image-058" href="#readme-image-058"><img src="./docs/readme-svg/tool-create-materials.svg" width="100%" alt="Create Materials — Create custom materials for weight calculations."></a>
+<a name="readme-image-058" href="#toolbar-layout"><img src="./docs/readme-svg/tool-create-materials.svg" width="100%" alt="Create Materials — Create custom materials for weight calculations."></a>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=5uwMWgmB7Lk">
@@ -637,7 +637,7 @@
 
 <a id="assign-materials" name="assign-materials"></a>
 
-<a name="readme-image-059" href="#readme-image-059"><img src="./docs/readme-svg/tool-assign-materials.svg" width="100%" alt="Assign Materials — Assign materials to CAD components."></a>
+<a name="readme-image-059" href="#toolbar-layout"><img src="./docs/readme-svg/tool-assign-materials.svg" width="100%" alt="Assign Materials — Assign materials to CAD components."></a>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=5uwMWgmB7Lk">
@@ -655,7 +655,7 @@
 
 <a id="weight-of-welding-and-welded-part" name="weight-of-welding-and-welded-part"></a>
 
-<a name="readme-image-061" href="#readme-image-061"><img src="./docs/readme-svg/tool-weight-of-welding-and-welded-part.svg" width="100%" alt="Weight of Welding and Welded Part — Calculate the weight of weld metal and the complete welded assembly"></a>
+<a name="readme-image-061" href="#toolbar-layout"><img src="./docs/readme-svg/tool-weight-of-welding-and-welded-part.svg" width="100%" alt="Weight of Welding and Welded Part — Calculate the weight of weld metal and the complete welded assembly"></a>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=HbsH8DEtrP8">
@@ -673,11 +673,11 @@
 
 <a id="wso" name="wso"></a>
 
-<a name="readme-image-063" href="#readme-image-063"><img src="./docs/readme-svg/category-wso.svg" width="100%" alt="Welding Sequence AI Advisor"></a>
+<a name="readme-image-063" href="#toolbar-layout"><img src="./docs/readme-svg/category-wso.svg" width="100%" alt="Welding Sequence AI Advisor"></a>
 
 <a id="export-stl" name="export-stl"></a>
 
-<a name="readme-image-064" href="#readme-image-064"><img src="./docs/readme-svg/tool-export-stl.svg" width="100%" alt="Export STL — Export selected objects or the complete part to STL format."></a>
+<a name="readme-image-064" href="#toolbar-layout"><img src="./docs/readme-svg/tool-export-stl.svg" width="100%" alt="Export STL — Export selected objects or the complete part to STL format."></a>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=HbsH8DEtrP8">
@@ -695,7 +695,7 @@
 
 <a id="export-as-dk-project" name="export-as-dk-project"></a>
 
-<a name="readme-image-066" href="#readme-image-066"><img src="./docs/readme-svg/tool-export-as-dk-project.svg" width="100%" alt="Export As DK Project — Create a new DK project file from the current project."></a>
+<a name="readme-image-066" href="#toolbar-layout"><img src="./docs/readme-svg/tool-export-as-dk-project.svg" width="100%" alt="Export As DK Project — Create a new DK project file from the current project."></a>
 
 <p align="center">
 <a href="https://youtu.be/48nRLUuxqVA">
@@ -721,11 +721,11 @@
 
 <a id="simulation" name="simulation"></a>
 
-<a name="readme-image-068" href="#readme-image-068"><img src="./docs/readme-svg/category-simulation.svg" width="100%" alt="Sequence and Process Visualization"></a>
+<a name="readme-image-068" href="#toolbar-layout"><img src="./docs/readme-svg/category-simulation.svg" width="100%" alt="Sequence and Process Visualization"></a>
 
 <a id="assign-sequence" name="assign-sequence"></a>
 
-<a name="readme-image-069" href="#readme-image-069"><img src="./docs/readme-svg/tool-assign-sequence.svg" width="100%" alt="Assign Sequence — Define the execution order of the welding process."></a>
+<a name="readme-image-069" href="#toolbar-layout"><img src="./docs/readme-svg/tool-assign-sequence.svg" width="100%" alt="Assign Sequence — Define the execution order of the welding process."></a>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=HbsH8DEtrP8">
@@ -743,7 +743,7 @@
 
 <a id="weld-simulation" name="weld-simulation"></a>
 
-<a name="readme-image-071" href="#readme-image-071"><img src="./docs/readme-svg/tool-weld-simulation.svg" width="100%" alt="Weld Simulation — Validate torch accessibility, motion, and welding trajectories."></a>
+<a name="readme-image-071" href="#toolbar-layout"><img src="./docs/readme-svg/tool-weld-simulation.svg" width="100%" alt="Weld Simulation — Validate torch accessibility, motion, and welding trajectories."></a>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=kuIgRGPw8nU">
@@ -761,7 +761,7 @@
 
 <a id="weld-visualizer" name="weld-visualizer"></a>
 
-<a name="readme-image-073" href="#readme-image-073"><img src="./docs/readme-svg/tool-weld-visualizer.svg" width="100%" alt="Show Weld Sphere — Lightweight 3D visual verification and playback sequence control."></a>
+<a name="readme-image-073" href="#toolbar-layout"><img src="./docs/readme-svg/tool-weld-visualizer.svg" width="100%" alt="Show Weld Sphere — Lightweight 3D visual verification and playback sequence control."></a>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=Ccb7qmT_r68">
@@ -779,7 +779,7 @@
 
 <a id="visualizer-cmd" name="visualizer-cmd"></a>
 
-<a name="readme-image-075" href="#readme-image-075"><img src="./docs/readme-svg/tool-visualizer-cmd.svg" width="100%" alt="Visualizer — Interactive 3D visibility control and rapid weld inspection."></a>
+<a name="readme-image-075" href="#toolbar-layout"><img src="./docs/readme-svg/tool-visualizer-cmd.svg" width="100%" alt="Visualizer — Interactive 3D visibility control and rapid weld inspection."></a>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=TU_ENLACE">
@@ -793,17 +793,17 @@
 <a href="./MANUFAI_Workbench/Assembly_Visualizer"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Visualizer"></a>
 </p>
 
-<a href="#toolbar-layout"><img src="./docs/readme-svg/back-index.svg" width="280" alt="Tool index"></a> <a href="#top"><img src="./docs/readme-svg/back-top.svg" width="280" alt="Back to top"></a>
+ 
 
 <a name="readme-image-076" href="#readme-image-076"><img src="./docs/readme-svg/double.svg" width="100%" alt="78"></a>
 
 <a id="datum-alignment-tools" name="datum-alignment-tools"></a>
 
-<a name="readme-image-077" href="#readme-image-077"><img src="./docs/readme-svg/section-datum-alignment-tools.svg" width="100%" alt="3-2-1 Datum Based Alignment &amp; Tools"></a>
+<a name="readme-image-077" href="#toolbar-layout"><img src="./docs/readme-svg/section-datum-alignment-tools.svg" width="100%" alt="3-2-1 Datum Based Alignment &amp; Tools"></a>
 
 <a id="toggle-visibility-recursive" name="toggle-visibility-recursive"></a>
 
-<a name="readme-image-078" href="#readme-image-078"><img src="./docs/readme-svg/tool-toggle-visibility-recursive.svg" width="100%" alt="Toggle Visibility Recursive — Instantly restore visual control over complex assemblies."></a>
+<a name="readme-image-078" href="#toolbar-layout"><img src="./docs/readme-svg/tool-toggle-visibility-recursive.svg" width="100%" alt="Toggle Visibility Recursive — Instantly restore visual control over complex assemblies."></a>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=360sB3FVUp4">
@@ -821,7 +821,7 @@
 
 <a id="create-center-point" name="create-center-point"></a>
 
-<a name="readme-image-080" href="#readme-image-080"><img src="./docs/readme-svg/tool-create-center-point.svg" width="100%" alt="Create Center Point — Calculates geometric centers for quick referencing."></a>
+<a name="readme-image-080" href="#toolbar-layout"><img src="./docs/readme-svg/tool-create-center-point.svg" width="100%" alt="Create Center Point — Calculates geometric centers for quick referencing."></a>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=AsVGiXEPmd4">
@@ -839,7 +839,7 @@
 
 <a id="create-sphere-at-origin" name="create-sphere-at-origin"></a>
 
-<a name="readme-image-082" href="#readme-image-082"><img src="./docs/readme-svg/tool-create-sphere-at-origin.svg" width="100%" alt="Create Sphere at Origin — Generates a visual reference at the Global Origin (0,0,0)."></a>
+<a name="readme-image-082" href="#toolbar-layout"><img src="./docs/readme-svg/tool-create-sphere-at-origin.svg" width="100%" alt="Create Sphere at Origin — Generates a visual reference at the Global Origin (0,0,0)."></a>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=HbsH8DEtrP8">
@@ -853,28 +853,28 @@
 <a href="./Datum_321_Alignment/Create_Sphere_Origin"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Create Sphere at Origin"></a>
 </p>
 
-<a name="readme-image-083" href="#readme-image-083"><img src="./docs/readme-svg/category 3-2-1 Datum Based Alignment.svg" width="100%" alt="category 3-2-1 Datum Based Alignment"></a>
+<a name="readme-image-083" href="#toolbar-layout"><img src="./docs/readme-svg/category 3-2-1 Datum Based Alignment.svg" width="100%" alt="category 3-2-1 Datum Based Alignment"></a>
 
 <a name="readme-image-084" href="#readme-image-084"><img src="./docs/readme-svg/LINE.svg" width="100%" alt="78"></a>
 
 <a id="datum-a" name="datum-a"></a>
 
-<a name="readme-image-085" href="#readme-image-085"><img src="./docs/readme-svg/tool-datum-a.svg" width="100%" alt="Datum A — Define the primary reference for the alignment system."></a>
+<a name="readme-image-085" href="#toolbar-layout"><img src="./docs/readme-svg/tool-datum-a.svg" width="100%" alt="Datum A — Define the primary reference for the alignment system."></a>
 
 
 <a id="datum-b" name="datum-b"></a>
 
-<a name="readme-image-086" href="#readme-image-086"><img src="./docs/readme-svg/tool-datum-b.svg" width="100%" alt="Datum B — Define the secondary direction of the coordinate system."></a>
+<a name="readme-image-086" href="#toolbar-layout"><img src="./docs/readme-svg/tool-datum-b.svg" width="100%" alt="Datum B — Define the secondary direction of the coordinate system."></a>
 
 <a id="datum-c" name="datum-c"></a>
 
-<a name="readme-image-087" href="#readme-image-087"><img src="./docs/readme-svg/tool-datum-c.svg" width="100%" alt="Datum C — Define the final reference required for positioning."></a>
+<a name="readme-image-087" href="#toolbar-layout"><img src="./docs/readme-svg/tool-datum-c.svg" width="100%" alt="Datum C — Define the final reference required for positioning."></a>
 
 <a id="3-2-1-alignment" name="3-2-1-alignment"></a>
 
 <a id="move-model-to-origin" name="move-model-to-origin"></a>
 
-<a name="readme-image-088" href="#readme-image-088"><img src="./docs/readme-svg/tool-move-model-to-origin.svg" width="100%" alt="Move Model To Origin — Reposition the model using the calculated 3-2-1 alignment."></a>
+<a name="readme-image-088" href="#toolbar-layout"><img src="./docs/readme-svg/tool-move-model-to-origin.svg" width="100%" alt="Move Model To Origin — Reposition the model using the calculated 3-2-1 alignment."></a>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=hPKx3S9DQLc">
@@ -888,13 +888,13 @@
 <a href="./Datum_321_Alignment/Create_Sphere_Origin"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Move Model To Origin"></a>
 </p>
 
-<a name="readme-image-089" href="#readme-image-089"><img src="./docs/readme-svg/category tools.svg" width="100%" alt="category tools"></a>
+<a name="readme-image-089" href="#toolbar-layout"><img src="./docs/readme-svg/category tools.svg" width="100%" alt="category tools"></a>
 
 <a name="readme-image-090" href="#readme-image-090"><img src="./docs/readme-svg/LINE.svg" width="100%" alt="78"></a>
 
 <a id="reset-pos" name="reset-pos"></a>
 
-<a name="readme-image-091" href="#readme-image-091"><img src="./docs/readme-svg/tool-reset-pos.svg" width="100%" alt="Reset Position — Toggle transformation reset and coordinate zeroing"></a>
+<a name="readme-image-091" href="#toolbar-layout"><img src="./docs/readme-svg/tool-reset-pos.svg" width="100%" alt="Reset Position — Toggle transformation reset and coordinate zeroing"></a>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=TU_ENLACE">
@@ -912,7 +912,7 @@
 
 <a id="show-welding-widget-command" name="show-welding-widget-command"></a>
 
-<a name="readme-image-093" href="#readme-image-093"><img src="./docs/readme-svg/tool-show-welding-widget-command.svg" width="100%" alt="Show Welding Widget — 2D Blueprint to 3D Model Synchronization."></a>
+<a name="readme-image-093" href="#toolbar-layout"><img src="./docs/readme-svg/tool-show-welding-widget-command.svg" width="100%" alt="Show Welding Widget — 2D Blueprint to 3D Model Synchronization."></a>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=Yp307CxQaUM">
@@ -930,7 +930,7 @@
 
 <a id="launch-find-data-panel" name="launch-find-data-panel"></a>
 
-<a name="readme-image-095" href="#readme-image-095"><img src="./docs/readme-svg/tool-launch-find-data-panel.svg" width="100%" alt="Launch Find Data Panel — Centralized control for weld tracking and interoperability."></a>
+<a name="readme-image-095" href="#toolbar-layout"><img src="./docs/readme-svg/tool-launch-find-data-panel.svg" width="100%" alt="Launch Find Data Panel — Centralized control for weld tracking and interoperability."></a>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=AJxwoL3yqto">
@@ -948,7 +948,7 @@
 
 <a id="focus-object-command" name="focus-object-command"></a>
 
-<a name="readme-image-097" href="#readme-image-097"><img src="./docs/readme-svg/tool-focus-object-command.svg" width="100%" alt="Focus Object — Instant Navigation."></a>
+<a name="readme-image-097" href="#toolbar-layout"><img src="./docs/readme-svg/tool-focus-object-command.svg" width="100%" alt="Focus Object — Instant Navigation."></a>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=vnDtbglly2k">
@@ -966,7 +966,7 @@
 
 <a id="move-weld-lines" name="move-weld-lines"></a>
 
-<a name="readme-image-099" href="#readme-image-099"><img src="./docs/readme-svg/tool-move-weld-lines.svg" width="100%" alt="Move Weld Lines — Precision Trajectory Re-positioning."></a>
+<a name="readme-image-099" href="#toolbar-layout"><img src="./docs/readme-svg/tool-move-weld-lines.svg" width="100%" alt="Move Weld Lines — Precision Trajectory Re-positioning."></a>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=HbsH8DEtrP8">
@@ -984,7 +984,7 @@
 
 <a id="discretize" name="discretize"></a>
 
-<a name="readme-image-101" href="#readme-image-101"><img src="./docs/readme-svg/tool-discretize.svg" width="100%" alt="Discretize — Geometry-Aware Path Projection."></a>
+<a name="readme-image-101" href="#toolbar-layout"><img src="./docs/readme-svg/tool-discretize.svg" width="100%" alt="Discretize — Geometry-Aware Path Projection."></a>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=HbsH8DEtrP8">
@@ -998,17 +998,17 @@
 <a href="./Datum_321_Alignment/Smart_Discretize"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Discretize"></a>
 </p>
 
-<a href="#toolbar-layout"><img src="./docs/readme-svg/back-index.svg" width="280" alt="Tool index"></a> <a href="#top"><img src="./docs/readme-svg/back-top.svg" width="280" alt="Back to top"></a>
+ 
 
 <a name="readme-image-102" href="#readme-image-102"><img src="./docs/readme-svg/double.svg" width="100%" alt="78"></a>
 
 <a id="c3p-wdcurve-tools" name="c3p-wdcurve-tools"></a>
 
-<a name="readme-image-103" href="#readme-image-103"><img src="./docs/readme-svg/section-c3p-wdcurve-tools.svg" width="100%" alt="C3P – WdCurve Tools"></a>
+<a name="readme-image-103" href="#toolbar-layout"><img src="./docs/readme-svg/section-c3p-wdcurve-tools.svg" width="100%" alt="C3P – WdCurve Tools"></a>
 
 <a id="line-weld-table" name="line-weld-table"></a>
 
-<a name="readme-image-104" href="#readme-image-104"><img src="./docs/readme-svg/tool-line-weld-table.svg" width="100%" alt="Line Weld Table — Parameter Editor &amp; WDCurve Exporter"></a>
+<a name="readme-image-104" href="#toolbar-layout"><img src="./docs/readme-svg/tool-line-weld-table.svg" width="100%" alt="Line Weld Table — Parameter Editor &amp; WDCurve Exporter"></a>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=wSOsoFvLScI">
@@ -1025,7 +1025,7 @@
 
 <a id="show-names" name="show-names"></a>
 
-<a name="readme-image-105" href="#readme-image-105"><img src="./docs/readme-svg/tool-show-names.svg" width="100%" alt="Show Names — Orientation &amp; ID HUD."></a>
+<a name="readme-image-105" href="#toolbar-layout"><img src="./docs/readme-svg/tool-show-names.svg" width="100%" alt="Show Names — Orientation &amp; ID HUD."></a>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=uVRiyf8H4nk">
@@ -1041,7 +1041,7 @@
 
 <a id="selection-mode" name="selection-mode"></a>
 
-<a name="readme-image-106" href="#readme-image-106"><img src="./docs/readme-svg/tool-selection-mode.svg" width="100%" alt="Selection Mode (X-Ray &amp; Filter) — Visual isolation and Selection Lock."></a>
+<a name="readme-image-106" href="#toolbar-layout"><img src="./docs/readme-svg/tool-selection-mode.svg" width="100%" alt="Selection Mode (X-Ray &amp; Filter) — Visual isolation and Selection Lock."></a>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=Y3D3PVF0ubI">
@@ -1055,17 +1055,17 @@
 <a href="./C3P_WdCurve_Tools/Selection_Mode"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Selection Mode (X-Ray &amp; Filter)"></a>
 </p>
 
-<a href="#toolbar-layout"><img src="./docs/readme-svg/back-index.svg" width="280" alt="Tool index"></a> <a href="#top"><img src="./docs/readme-svg/back-top.svg" width="280" alt="Back to top"></a>
+ 
 
 <a name="readme-image-107" href="#readme-image-107"><img src="./docs/readme-svg/double.svg" width="100%" alt="78"></a>
 
 <a id="robodk-process-automation" name="robodk-process-automation"></a>
 
-<a name="readme-image-108" href="#readme-image-108"><img src="./docs/readme-svg/section-robodk-process-automation.svg" width="100%" alt="RoboDK &amp; Process Automation"></a>
+<a name="readme-image-108" href="#toolbar-layout"><img src="./docs/readme-svg/section-robodk-process-automation.svg" width="100%" alt="RoboDK &amp; Process Automation"></a>
 
 <a id="weld-data-to-robodk" name="weld-data-to-robodk"></a>
 
-<a name="readme-image-109" href="#readme-image-109"><img src="./docs/readme-svg/tool-weld-data-to-robodk.svg" width="100%" alt="Export To .rdk Project — Automated Welding Path &amp; Program Generation."></a>
+<a name="readme-image-109" href="#toolbar-layout"><img src="./docs/readme-svg/tool-weld-data-to-robodk.svg" width="100%" alt="Export To .rdk Project — Automated Welding Path &amp; Program Generation."></a>
 
 <p align="center">
 <a href="https://youtu.be/bNV_s38_P9E">
@@ -1099,7 +1099,7 @@
 
 <a id="export-full" name="export-full"></a>
 
-<a name="readme-image-111" href="#readme-image-111"><img src="./docs/readme-svg/tool-export-full.svg" width="100%" alt="Export Full — Transfer the complete visible CAD assembly to RoboDK"></a>
+<a name="readme-image-111" href="#toolbar-layout"><img src="./docs/readme-svg/tool-export-full.svg" width="100%" alt="Export Full — Transfer the complete visible CAD assembly to RoboDK"></a>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=HbsH8DEtrP8">
@@ -1117,7 +1117,7 @@
 
 <a id="glue-manager" name="glue-manager"></a>
 
-<a name="readme-image-113" href="#readme-image-113"><img src="./docs/readme-svg/tool-glue-manager.svg" width="100%" alt="Glue Manager — Weld-to-Dispensing Path Conversion."></a>
+<a name="readme-image-113" href="#toolbar-layout"><img src="./docs/readme-svg/tool-glue-manager.svg" width="100%" alt="Glue Manager — Weld-to-Dispensing Path Conversion."></a>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=iWT9zPO1s58">
@@ -1135,7 +1135,7 @@
 
 <a id="drilling-manager" name="drilling-manager"></a>
 
-<a name="readme-image-115" href="#readme-image-115"><img src="./docs/readme-svg/tool-drilling-manager.svg" width="100%" alt="Drilling Manager — Automated Hole &amp; Rivet Processing."></a>
+<a name="readme-image-115" href="#toolbar-layout"><img src="./docs/readme-svg/tool-drilling-manager.svg" width="100%" alt="Drilling Manager — Automated Hole &amp; Rivet Processing."></a>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=Aw_dtBkk4sY">
@@ -1151,4 +1151,4 @@
 
 <a name="readme-image-116" href="#readme-image-116"><img src="./docs/readme-svg/double.svg" width="100%" alt="78"></a>
 
-<a href="#toolbar-layout"><img src="./docs/readme-svg/back-index.svg" width="280" alt="Tool index"></a> <a href="#top"><img src="./docs/readme-svg/back-top.svg" width="280" alt="Back to top"></a>
+ 
