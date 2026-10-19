@@ -674,6 +674,8 @@
 <a href="./MANUFAI_Workbench/Weight_Report"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Assign Sequence"></a>
 </p>
 
+<img src="./docs/readme-svg/LINE.svg" width="100%" alt="78">
+
 <a id="weld-simulation" name="weld-simulation"></a>
 
 <img src="./docs/readme-svg/tool-weld-simulation.svg" width="100%" alt="Weld Simulation — Validate torch accessibility, motion, and welding trajectories.">
@@ -690,6 +692,8 @@
 <a href="./MANUFAI_Workbench/Welding_Gun_Simulation"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Weld Simulation"></a>
 </p>
 
+<img src="./docs/readme-svg/LINE.svg" width="100%" alt="78">
+
 <a id="weld-visualizer" name="weld-visualizer"></a>
 
 <img src="./docs/readme-svg/tool-weld-visualizer.svg" width="100%" alt="Show Weld Sphere — Lightweight 3D visual verification and playback sequence control.">
@@ -705,6 +709,8 @@
 <p align="center">
 <a href="./MANUFAI_Workbench/Weld_Visualizer"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Show Weld Sphere"></a>
 </p>
+
+<img src="./docs/readme-svg/LINE.svg" width="100%" alt="78">
 
 <a id="visualizer-cmd" name="visualizer-cmd"></a>
 
@@ -723,6 +729,8 @@
 </p>
 
 <a href="#toolbar-layout"><img src="./docs/readme-svg/back-index.svg" width="280" alt="Tool index"></a> <a href="#top"><img src="./docs/readme-svg/back-top.svg" width="280" alt="Back to top"></a>
+
+
 
 <a id="datum-alignment-tools" name="datum-alignment-tools"></a>
 
