@@ -330,6 +330,8 @@
 <a href="./C3P_WdCurve_Tools/Weld_Loader_Pro"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Weld Loader"></a>
 </p>
 
+<img src="./docs/readme-svg/double.svg" width="100%" alt="78">
+
 <a id="positions" name="positions"></a>
 
 <img src="./docs/readme-svg/category-positions.svg" width="100%" alt="Positions">
