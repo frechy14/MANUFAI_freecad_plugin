@@ -1030,6 +1030,8 @@
 <a href="./RoboDK_Process_Automation/Weld_Data_to_RoboDK"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Export To .rdk Project"></a>
 </p>
 
+<img src="./docs/readme-svg/LINE.svg" width="100%" alt="78">
+
 <a id="export-full" name="export-full"></a>
 
 <img src="./docs/readme-svg/tool-export-full.svg" width="100%" alt="Export Full — Transfer the complete visible CAD assembly to RoboDK">
@@ -1044,24 +1046,6 @@
 
 <p align="center">
 <a href="./Datum_321_Alignment/Create_Sphere_Origin"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Export Full"></a>
-</p>
-
-<a id="export-selected" name="export-selected"></a>
-
-<a id="export-selected-parts" name="export-selected-parts"></a>
-
-<img src="./docs/readme-svg/tool-export-selected.svg" width="100%" alt="Export Selected — Transfer only selected CAD components to RoboDK.">
-
-<p align="center">
-<a href="https://www.youtube.com/watch?v=RDRtrwVmNSQ">
-          <img src="https://img.youtube.com/vi/RDRtrwVmNSQ/maxresdefault.jpg" width="450" alt="RoboDK Export Demo">
-        </a>
-<br>
-<a href="https://youtu.be/RDRtrwVmNSQ"><strong>CAD to Robot Export - FreeCAD Plugin Demo</strong></a>
-</p>
-
-<p align="center">
-<a href="./RoboDK_Process_Automation/RoboDK_Export_Tools"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Export Selected"></a>
 </p>
 
 <img src="./docs/readme-svg/LINE.svg" width="100%" alt="78">
