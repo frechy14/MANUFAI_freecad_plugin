@@ -170,6 +170,8 @@
 <a href="./MANUFAI_Workbench/Find_Weld_Edges"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Find Weldable Edges"></a>
 </p>
 
+<img src="./docs/readme-svg/LINE.svg" width="100%" alt="78">
+
 <a id="weld-creators" name="weld-creators"></a>
 
 <img src="./docs/readme-svg/tool-weld-creators.svg" width="100%" alt="Weld Creators — Trajectory Generation">
@@ -270,17 +272,7 @@
 <a href="https://youtu.be/QdZxZB9vzDA"><strong>FreeCAD - Welding plugin - Define Welds Demo</strong></a>
 </p>
 
-<a id="weld-creators-smart-vector-control" name="weld-creators-smart-vector-control"></a>
-
-<img src="./docs/readme-svg/weld-creators-smart-vector-control.svg" width="100%" alt="Weld Creators — Smart Vector Control">
-
-<p align="center">
-<a href="https://youtu.be/QdZxZB9vzDA">
-          <img src="https://img.youtube.com/vi/QdZxZB9vzDA/maxresdefault.jpg" width="450" alt="Weld Projector Demo">
-        </a>
-<br>
-<a href="https://youtu.be/QdZxZB9vzDA"><strong>FreeCAD - Welding plugin - Define Welds Demo</strong></a>
-</p>
+<img src="./docs/readme-svg/LINE.svg" width="100%" alt="78">
 
 <p align="center">
 <a href="./MANUFAI_Workbench/Weld_Trajectory_Generation"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Weld Creators"></a>
@@ -302,6 +294,8 @@
 <a href="./MANUFAI_Workbench/Weld_Trajectory_Generation"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Add Normals"></a>
 </p>
 
+<img src="./docs/readme-svg/LINE.svg" width="100%" alt="78">
+
 <a id="surface-weld" name="surface-weld"></a>
 
 <img src="./docs/readme-svg/tool-surface-weld.svg" width="100%" alt="Surface Weld — Volumetric modeling and physical joint representation">
@@ -317,6 +311,8 @@
 <p align="center">
 <a href="./MANUFAI_Workbench/Surface_Weld_Generator"><img width="280" src="./docs/readme-svg/open-materials.svg" alt="Test files &amp; output for Surface Weld"></a>
 </p>
+
+<img src="./docs/readme-svg/LINE.svg" width="100%" alt="78">
 
 <a id="weld-loader" name="weld-loader"></a>
 
