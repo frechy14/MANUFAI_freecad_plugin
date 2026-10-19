@@ -16,7 +16,7 @@
 
 <img src="./docs/readme-svg/interoperability.svg" width="100%" alt="Interoperability: from CAD to manufacturing">
 
-<img src="./docs/readme-svg/separador-doble.svg" width="100%" alt="">
+<img src="./docs/readme-svg/double.svg" width="100%" alt="78">
 
 <a id="installation" name="installation"></a>
 
