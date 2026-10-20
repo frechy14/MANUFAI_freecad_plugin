@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="118" viewBox="0 0 1280 118" role="img" aria-label="MANUFAI Workbench">
-<defs><linearGradient id="section-bg-1"><stop stop-color="#0A0E17"/><stop offset="1" stop-color="#14243B"/></linearGradient></defs>
-<rect x="1" y="1" width="1278" height="116" rx="16" fill="url(#section-bg-1)" stroke="#314965"/>
-<rect x="22" y="24" width="68" height="70" rx="12" fill="#1E88E5" fill-opacity=".18" stroke="#1E88E5" stroke-opacity=".45"/>
-<text x="56" y="69" text-anchor="middle" fill="#64B5F6" font-family="Consolas,monospace" font-size="29">01</text>
-<text x="116" y="54" fill="#E8F0FE" font-family="Segoe UI,Arial,sans-serif" font-weight="600" font-size="30">MANUFAI Workbench</text>
-<text x="117" y="84" fill="#9BB3CE" font-family="Segoe UI,Arial,sans-serif" font-size="17">Core welding tools · Required component</text>
-<path d="M1198 42h35m-22 17h22m-35 17h35" stroke="#64B5F6" stroke-opacity=".6" stroke-width="2"/>
-</svg>
