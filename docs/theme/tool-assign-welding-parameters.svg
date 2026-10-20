@@ -37,7 +37,6 @@
   <title>Layer 1</title>
   <rect id="svg_1" stroke-opacity="0.8" stroke="#365171" fill="url(#panel-bg)" rx="18" height="357.6" width="1118.6" y="0.7" x="0.7" class="manufai-theme-3"/>
   <path id="svg_2" fill-opacity="0.38" fill="#182A44" d="m20,1l1080,0q19,0 19,19l0,100l-1118,0l0,-100q0,-19 19,-19" class="manufai-theme-4"/>
-  <rect id="svg_3" stroke-opacity="0.2" stroke="#64B5F6" fill-opacity="0.14" fill="#1E88E5" rx="9" height="38" width="57" y="30" x="1021" class="manufai-theme-5"/>
   <rect id="svg_4" stroke-opacity="0.22" stroke="#64B5F6" fill-opacity="0.13" fill="#1E88E5" rx="15" height="78" width="78" y="30" x="39" class="manufai-theme-6"/>
   <path id="svg_5" stroke-opacity="0.16" stroke="#7CA3D2" d="m1,120l1118,0" class="manufai-theme-7"/>
   <text xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" text-anchor="start" letter-spacing="0" font-style="normal" font-weight="700" font-size="29" font-family="Arial, Helvetica, sans-serif" fill="#E8F0FE" y="57" x="149" xml:space="preserve" id="titulo" class="manufai-theme-8">
@@ -45,9 +44,6 @@
   </text>
   <text xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" text-anchor="start" letter-spacing="0" font-style="normal" font-weight="400" font-size="20" font-family="Arial, Helvetica, sans-serif" fill="#8FAFD3" y="90" x="149" xml:space="preserve" id="subtitulo" class="manufai-theme-9">
    <tspan id="svg_7" text-anchor="start" letter-spacing="0" font-style="normal" font-weight="400" font-size="20" font-family="Arial, Helvetica, sans-serif" fill="#8FAFD3" y="90" x="149" class="manufai-theme-9">Assign heat-source data to individual weld lines.</tspan>
-  </text>
-  <text xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" text-anchor="start" letter-spacing="0" font-style="normal" font-weight="400" font-size="20" font-family="Arial, Helvetica, sans-serif" fill="#64B5F6" y="56" x="1036" xml:space="preserve" id="numero" class="manufai-theme-10">
-   <tspan id="svg_8" text-anchor="start" letter-spacing="0" font-style="normal" font-weight="400" font-size="20" font-family="Arial, Helvetica, sans-serif" fill="#64B5F6" y="56" x="1036" class="manufai-theme-10">17</tspan>
   </text>
   <text xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" text-anchor="start" letter-spacing="0" font-style="normal" font-weight="400" font-size="22" font-family="Arial, Helvetica, sans-serif" fill="#C0D0E4" y="163" x="45" xml:space="preserve" id="descripcion" class="manufai-theme-11">
    <tspan id="svg_9" text-anchor="start" letter-spacing="0" font-style="normal" font-weight="400" font-size="22" font-family="Arial, Helvetica, sans-serif" fill="#C0D0E4" y="163" x="45" class="manufai-theme-11">Associates the appropriate heat-source configuration with each welding trajectory so that the project</tspan>
