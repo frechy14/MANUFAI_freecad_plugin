@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="113" aria-labelledby="title description" role="img">
+ <title id="title">MANUFAI Workbench</title>
+
+ <desc id="description">Core welding tools · Required component</desc>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_1" stroke="#C7D4E3" fill="#F4F8FD" rx="16" height="111.6" width="1118.6" y="0.7" x="0.7" stroke-opacity="1"/>
+  <text style="cursor: move;" transform="matrix(1 0 0 1 0 0)" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="73" stroke-width="0" id="svg_7" y="81.5" x="138.31594" stroke="null" fill="#1765B5">MANUFAI WORKBENCH</text>
+ </g>
+</svg>
