@@ -337,11 +337,11 @@
 <a href="https://youtu.be/QdZxZB9vzDA"><strong>FreeCAD - Welding plugin - Define Welds Demo</strong></a>
 </p>
 
-<a name="readme-image-028" href="#readme-image-028"><img src="./docs/theme/LINE.svg" width="100%" alt="78"></a>
-
 <p align="center">
 <a href="./MANUFAI_Workbench/Weld_Trajectory_Generation"><img width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Weld Creators"></a>
 </p>
+
+<a name="readme-image-028" href="#readme-image-028"><img src="./docs/theme/LINE.svg" width="100%" alt="78"></a>
 
 <a id="add-normals" name="add-normals"></a>
 
