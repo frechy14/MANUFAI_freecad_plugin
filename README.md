@@ -237,6 +237,10 @@
 
 <a name="readme-image-018" href="#readme-image-018"><img src="./docs/theme/LINE.svg" width="100%" alt="78"></a>
 
+<img src="./docs/theme/tip-weld-box-selection.svg" width="100%" alt="Quick tip — Weld box selection">
+
+<a name="readme-image-018" href="#readme-image-018"><img src="./docs/theme/LINE.svg" width="100%" alt="78"></a>
+
 <img src="./docs/theme/tool-surfaces-to-weldlines.svg" width="100%" alt="Surfaces to WeldLines — Automatic projection">
 
 <p align="center">
