@@ -237,6 +237,20 @@
 
 <a name="readme-image-018" href="#readme-image-018"><img src="./docs/theme/LINE.svg" width="100%" alt="78"></a>
 
+<img src="./docs/theme/tool-surfaces-to-weldlines.svg" width="100%" alt="Surfaces to WeldLines — Automatic projection">
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=VIDEO_ID">
+    <img src="https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg" width="450" alt="Surfaces to WeldLines Demo">
+  </a>
+  <br>
+  <a href="https://www.youtube.com/watch?v=VIDEO_ID">
+    <strong>FreeCAD Plugin - Surfaces to WeldLines Demo</strong>
+  </a>
+</p>
+
+<a name="readme-image-018" href="#readme-image-018"><img src="./docs/theme/LINE.svg" width="100%" alt="78"></a>
+
 <a id="weld-creators" name="weld-creators"></a>
 
 <a name="readme-image-019" href="#readme-image-019"><img src="./docs/theme/tool-weld-creators.svg" width="100%" alt="Weld Creators — Trajectory Generation"></a>
