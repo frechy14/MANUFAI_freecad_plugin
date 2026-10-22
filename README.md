@@ -358,6 +358,34 @@
 <p align="center">
 <a href="./MANUFAI_Workbench/Weld_Trajectory_Generation"><img width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Weld Creators"></a>
 </p>
+<a id="weld-creators-polyline" name="weld-creators-polyline"></a>
+
+<img src="./docs/theme/weld-creators-polyline.svg" width="100%" alt="Weld Creators — Advanced PolyLine">
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=POLYLINE_VIDEO_ID">
+    <img src="https://img.youtube.com/vi/POLYLINE_VIDEO_ID/maxresdefault.jpg" width="450" alt="Advanced PolyLine Demo">
+  </a>
+  <br>
+  <a href="https://www.youtube.com/watch?v=POLYLINE_VIDEO_ID">
+    <strong>FreeCAD Plugin - Advanced PolyLine Demo</strong>
+  </a>
+</p>
+
+
+<a id="weld-creators-project-weld" name="weld-creators-project-weld"></a>
+
+<img src="./docs/theme/weld-creators-project-weld.svg" width="100%" alt="Weld Creators — Project Weld">
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=PROJECT_WELD_VIDEO_ID">
+    <img src="https://img.youtube.com/vi/PROJECT_WELD_VIDEO_ID/maxresdefault.jpg" width="450" alt="Project Weld Demo">
+  </a>
+  <br>
+  <a href="https://www.youtube.com/watch?v=PROJECT_WELD_VIDEO_ID">
+    <strong>FreeCAD Plugin - Project Weld Demo</strong>
+  </a>
+</p>
 
 <a name="readme-image-028" href="#readme-image-028"><img src="./docs/theme/LINE.svg" width="100%" alt="78"></a>
 
