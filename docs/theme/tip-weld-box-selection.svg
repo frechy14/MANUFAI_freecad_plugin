@@ -5,7 +5,7 @@
      role="img" aria-labelledby="title description">
 
   <title id="title">Quick tip: Weld box selection</title>
-  <desc id="description">Hold Ctrl and left-click in the 3D view to start box selection. Draw a box around the welds you want. CAD parts are ignored. Normal selection returns when you finish. Press Esc to cancel.</desc>
+  <desc id="description">Hold Shift and left-click in the 3D view to start box selection. Draw a box around the welds you want. CAD parts are ignored. Normal selection returns when you finish. Press Esc to cancel.</desc>
 
   <style>
     .background-start { stop-color: #FFFFFF; }
