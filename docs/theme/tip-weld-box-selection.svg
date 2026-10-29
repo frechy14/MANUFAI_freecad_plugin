@@ -253,7 +253,7 @@
           class="body"
           x="45" y="163"
           font-size="22">
-      <tspan x="45" y="163">Hold Ctrl and left-click in the 3D view to start box selection.</tspan>
+      <tspan x="45" y="163">Hold Shift and left-click in the 3D view to start box selection.</tspan>
       <tspan x="45" y="197">Draw a box around the welds you want. CAD parts are ignored.</tspan>
       <tspan x="45" y="231">Normal selection returns when you finish. Press Esc to cancel.</tspan>
     </text>
