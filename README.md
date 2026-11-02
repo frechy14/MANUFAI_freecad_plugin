@@ -37,6 +37,8 @@
 </p>
 
 <a name="readme-image-009" href="#readme-image-009"><img src="./docs/theme/double.svg" width="100%" alt="78"></a>
+<img src="./docs/theme/tip-light-dark-theme.svg" width="100%" alt="Quick tip — Light and dark themes">
+<a name="readme-image-009" href="#readme-image-009"><img src="./docs/theme/double.svg" width="100%" alt="78"></a>
 
 <a id="plugin-component-manager" name="plugin-component-manager"></a>
 
